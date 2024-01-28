@@ -1,0 +1,90 @@
+{
+	"connections": ["Litore City", "Deep Sea", "Parasol Beach"],
+	"goals": [
+		["Litore City", "Deep Sea", "8"],
+		["Deep Sea", "Litore City", "8"],
+		["Litore City, Parasol Beach", "6"],
+		["Parasol Beach", "Litore City", "6"],
+		["Litore City, Parasol Beach", "8"],
+		["Deep Sea,Parasol Beach", "8"],
+		["Parasol Beach", "Deep Sea", "8"]
+	],
+	"locationColor": "#64AFCD",
+	"locationName": "Lantern Reef",
+	"locationDescription": "As the water above has been taken over by an extremely territorial school of Sharpedo and Carvanha, travelling below the ocean's surface is the preferred method for most without a boat or flying taxi looking to cross the sea. The reef is lit up by the nmany Chinchou and Lanturn that inhabit the area, illuminating the abundance of colourful coral lining the sea bed.",
+	"happeningsList": [
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["Roll Navigation", "If you're not careful to pay attention to where you're going, you may end up somewhere you didn't intend"],
+		["Roll ComeUpForAir", "You'll need to go up for air now, which you can definitely do! It's a question of whether or not you can avoid the Carvanha and Sharpedo..."],
+		["Scenery", "There is coral in all sorts of shapes, sizes and colours. Your eyes can hardly keep up."],
+		["Scenery", "A school of Remoraid make a sharp turn to avoid colliding with you."],
+		["Scenery", "Most Pokemon pay you little mind, swimming past..."],
+		["Scenery", "A curious Octillery extends a tentacle out towards you."],
+		["Scenery", "Smells like - are you sure you want to be checking how things smell right now?"]
+	],
+	"trainersList": [
+		[ "Free Diver", "#A8B820", "Male", "40","Remoraid","Carvanha","Chinchou","Wailmer","Finizen","Luvdisc","Bruxish","Tentacool","Alomomola","Staryu" ],
+		[ "Scuba Diver", "#A8B820", "Male", "40", "Remoraid", "Carvanha", "Chinchou", "Wailmer", "Finizen", "Luvdisc", "Bruxish", "Tentacool", "Alomomola", "Staryu" ]
+	],
+	"waterCommon": [
+		[ "Remoraid", "223", "Jet", "Water", "NA", "Hustle", "Sniper", "Moody", "50", "50", "5", "24", "1 Sp. Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "60", "50" ],
+		["Carvanha", "318", "Savage", "Water", "Dark", "Rough Skin", "NA", "Speed Boost", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", ".25", "17","Slow","61","35"],
+		[ "Chinchou", "170", "Angler", "Water", "Electric", "Volt Absorb", "Illuminate", "Water Absorb", "50", "50", "12", "27", "1 HP", "80", "0", "20", ".25", "17", "Slow", "66", "50" ]
+	],
+	"waterUncommon": [
+		[ "Wailmer", "320", "Ball Whale", "Water", "NA", "Water Veil", "Oblivious", "Pressure", "50", "50", "15", "39", "1 HP", "50", "50", "0", "3", "21", "Fluctuating", "80", "50" ],
+		[ "Finizen", "963", "Dolphin", "Water", "NA", "Water Veil", "NA", "NA", "50", "50", "14", "38", "1 Speed", "80", "0", "20", "1", "24", "Slow", "63", "50" ],
+		[ "Luvdisc", "370", "Rendezvous", "Water", "NA", "Swift Swim", "NA", "Hydration", "25", "75", "15", "25", "1 Speed", "80", "0", "20", "5", "38", "Fast", "116", "50" ],
+		[ "Bruxish", "779", "Gnash Teeth", "Water", "Psychic", "Dazzling", "Strong Jaw", "Wonder Skin", "50", "50", "25", "50", "2 Atk.", "80", "0", "20", "7", "50", "Medium Fast", "166", "50" ],
+		[ "Tentacool", "072", "Jellyfish", "Water", "Poison", "Clear Body", "Liquid Ooze", "Rain Dish", "50", "50", "8", "30", "1 Sp. Def.", "80", "0", "20", "2", "18", "Slow", "67", "50" ],
+		[ "Alomomola", "594", "Caring", "Water", "NA", "Healer", "Hydration", "Regenerator", "50", "50", "18", "35", "2 HP", "80", "0", "20", "9", "65", "Fast", "165", "50" ],
+		[ "Staryu", "120", "Star Shape", "Water", "NA", "Illuminate", "Natural Cure", "Analytic", "0", "0", "10", "15", "1 Speed", "80", "0", "20", ".5", "16", "Slow", "68", "50" ]
+	],
+	"waterRare": [
+		[ "Corsola", "222", "Coral", "Water", "Rock", "Hustle", "Natural Cure", "Regenerator", "25", "75", "5", "50", "1 Def., 1 Sp. Def.", "80", "0", "20", "3", "21", "Fast", "144", "50" ],
+		[ "Mantine", "226", "Kite", "Water", "Flying", "Swift Swim", "Water Absorb", "Water Veil", "50", "50", "5", "45", "2 Sp. Def.", "80", "0", "20", "11", "72", "Slow", "170", "50" ],
+		[ "Mareanie", "747", "Brutal Star", "Poison", "Water", "Merciless", "Limber", "Regenerator", "50", "50", "15", "37", "1 Def.", "80", "0", "20", "1", "19", "Medium Fast", "61", "50" ],
+		[ "Octillery", "224", "Jet", "Water", "NA", "Suction Cups", "Sniper", "Moody", "50", "50", "25", "55", "1 Atk.,1 Sp. Atk.", "80", "0", "20", "6", "45", "Medium Fast", "168", "50" ]
+	],
+	"waterVeryRare": [
+		[ "Mantyke", "458", "Kite", "Water", "Flying", "Swift Swim", "Water Absorb", "Water Veil", "50", "50", "5", "24", "1 Sp. Def.", "80", "0", "20", "3", "19", "Slow", "69", "50" ],
+		["Sharpedo", "319", "Brutal", "Water", "Dark", "Rough Skin", "NA", "Speed Boost", "50", "50", "30", "45", "2 Atk.", "80", "0", "20", "10", "72","Slow","161","35"]
+	],
+	"waterUltraRare": [
+		[ "Wailord", "321", "Float Whale", "Water", "NA", "Water Veil", "Oblivious", "Pressure", "50", "50", "40", "60", "2 HP", "50", "50", "0", "9", "105", "Fluctuating", "175", "50" ],
+		[ "Lanturn", "171", "Light", "Water", "Electric", "Volt Absorb", "Illuminate", "Water Absorb", "50", "50", "27", "50", "2 HP", "80", "0", "20", "6", "50", "Slow", "161", "50" ],
+		[ "Toxapex", "748", "Brutal Star", "Poison", "Water", "Merciless", "Limber", "Regenerator", "50", "50", "38", "55", "2 Def.", "80", "0", "20", "12", "97", "Medium Fast", "173", "50" ],
+		[ "Tentacruel", "073", "Jellyfish", "Water", "Poison", "Clear Body", "Liquid Ooze", "Rain Dish", "50", "50", "30", "50", "2 Sp. Def.", "80", "0", "20", "8", "50", "Slow", "180", "50" ],
+		[ "Starmie", "121", "Mysterious", "Water", "Psychic", "Illuminate", "Natural Cure", "Analytic", "0", "0", "30", "50", "2 Speed", "80", "0", "20", "9", "64", "Slow", "182", "50" ]
+	],
+	"specialCommon": [
+		[ "Carvanha", "318", "Savage", "Water", "Dark", "Rough Skin", "NA", "Speed Boost", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", ".25", "17", "Slow", "61","35" ]
+	],
+	"specialUncommon":[],
+	"specialRare":[],
+	"specialVeryRare":
+	[
+		[ "Sharpedo", "319", "Brutal", "Water", "Dark", "Rough Skin", "NA", "Speed Boost", "50", "50", "30", "45", "2 Atk.", "80", "0", "20", "10", "72", "Slow", "161" ,"35"]
+	],
+	"specialUltraRare":[],
+	"rocksmashCommon":[],
+	"rocksmashUncommon":[],
+	"rocksmashRare": [
+		[ "Corsola", "222", "Coral", "Water", "Rock", "Hustle", "Natural Cure", "Regenerator", "25", "75", "5", "50", "1 Def., 1 Sp. Def.", "80", "0", "20", "3", "21", "50" ]
+	],
+	"rocksmashVeryRare":[],
+	"rocksmashUltraRare":[],
+	"itemsCommon": ["Poke Ball"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Net Ball", "Dive Ball", "Pearl", "Water Stone"],
+	"itemsVeryRare": ["TM Dive", "Mystic Water", "Sticky Barb", "Big Pearl"],
+	"itemsUltraRare": ["TM Surf", "TM Waterfall", "Shell Bell", "Pearl String"]
+}

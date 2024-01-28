@@ -1,0 +1,103 @@
+{
+	"connections": ["Fomelhaut Forest", "Wastelands"],
+	"goals": [
+		["Fomelhaut Forest", "Wastelands", "6"],
+		["Wastelands", "Fomelhaut Forest", "6"]
+	],
+	"locationColor": "#3C3214",
+	"locationName": "Siraisis Savanna",
+	"locationDescription": "Despite being one of the hottest and most uninhabitable areas in Misen, the savannah is home to a plethora of Pokemon! Ground-types are common, but many other Pokemon seem to thrive in the harsh environment as well. Make sure to bring plenty of water - or Water-type Pokemon! Minimal shade and a harsh sun have caused many travellers to faint of heat stroke or dehydration. Finding an oasis is pretty rare...but not impossible",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?"],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?"],
+		["Roll Obstacle", "There's a thick, thorny underbrush in your way. You'll have to go around, unless you can get through."],
+		["Roll Shortcut", "There's a thick, thorny underbrush here, but if you can get through, your journey will be sped up!"],
+		["Roll Item", "There's an item in the middle of a thick, thorny underbrush. It's yours to claim if you can get through!"],
+		["Scenery", "Smells like heat"],
+		["Scenery", "It's mind-numbingly hot, but the Pokemon don't seem to mind."],
+		["Scenery", "The shade of that tree looks very tempting right now..."],
+		["Scenery", "The grass is dry and prickly"],
+		["Scenery", "Time to drink water if you don't want to faint."],
+		["Scenery", "The sun beats down on you mercilessly"],
+		["Scenery", "Is that a Kecleon running a shop - no wait, that was a mirage."],
+		["Discovery Oasis", "Oh thank god, there's an oasis over there! Do you want to go over there?"]
+	],
+	"trainersList": [
+		["Hiker"],
+		["Backpacker"],
+		["Guardian"],
+		["Ranger"],
+		["Pokemon Guardian"],
+		["Pokemon Ranger"]
+	],
+	"landCommon": [],
+	"landUncommon": [
+		["Ponyta", "077", "Fire Horse", "Fire", "NA", "Run Away", "Flash Fire", "Flame Body", "50", "50", "10", "40", "1 Speed", "80", "0", "20", ".5", "18"],
+		["Flittle", "955", "Frill", "Psychic", "NA", "Anticipation", "Frisk", "Speed Boost", "50", "50", "20", "34", "1 Speed", "90", "0", "10", ".25", "16"],
+		["Phanpy", "231", "Long Nose", "Ground", "NA", "Pickup", "NA", "Sand Veil", "50", "50", "5", "24", "1 HP", "80", "0", "20", ".5", "17"],
+		["Blitzle", "522", "Electrified", "Electric", "NA", "Lightning Rod", "Motor Drive", "Sap Sipper", "50", "50", "16", "26", "1 Speed", "80", "0", "20", ".5", "16"],
+		["Cufant", "878", "Copperderm", "Steel", "NA", "Sheer Force", "NA", "Heavy Metal", "50", "50", "15", "32", "1 Atk.", "80", "0", "20", "1", "21"],
+		["Silicobra", "843", "Sand Snake", "Ground", "NA", "Sand Spit", "Shed Skin", "Sand Veil", "50", "50", "15", "35", "1 Def.", "80", "0", "20", "1", "17"],
+		["Helioptile", "694", "Generator", "Electric", "Normal", "Dry Skin", "Sand Veil", "Solar Power", "50", "50", "15", "24", "1 Speed", "80", "0", "20", ".25", "16"],
+		["Sandile", "551", "Desert Croc", "Ground", "Dark", "Intimidate", "Moxie", "Anger Point", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", ".5", "17"],
+		["Litleo", "667", "Lion Cub", "Fire", "Normal", "Rivalry", "Unnerve", "Moxie", "12.5", "87.5", "21", "34", "1 Sp. Atk.", "80", "0", "20", "1", "19"],
+		["Spearow", "021", "Tiny Bird", "Normal", "Flying", "Keen Eye", "NA", "Sniper", "50", "50", "5", "20", "1 Speed", "80", "0", "20", ".25", "16"],
+		["Natu", "177", "Tiny Bird", "Psychic", "Flying", "Synchronize", "Early Bird", "Magic Bounce", "50", "50", "5", "24", "1 Sp. Atk.", "80", "0", "20", ".5", "16"],
+		["Darumaka", "554", "Zen Charm", "Fire", "NA", "Hustle", "NA", "Inner Focus", "50", "50", "23", "34", "1 Atk.", "80", "0", "20", "1", "24"]
+	],
+	"landRare": [
+		["Girafarig", "203", "Long Neck", "Normal", "Psychic", "Inner Focus", "Early Bird", "Sap Sipper", "50","50", "25", "32", "2 Sp. Atk.", "80", "0", "20", "6", "48"],
+		["Fearow", "022", "Beak", "Normal", "Flying", "Keen Eye", "NA", "Sniper", "50", "50", "20", "50", "2 Speed", "60", "0", "40", "5", "40"],
+		["Kecleon", "352", "Color Swap", "Normal", "NA", "Color Change", "NA", "Protean", "50", "50", "20", "40", "1 Sp. Def.", "80", "0", "20", "6", "44"]
+	],
+	"landVeryRare": [],
+	"landUltraRare": [
+		["Rapidash", "078", "Fire Horse", "Fire", "NA", "Run Away", "Flash Fire", "Flame Body", "50", "50", "40", "50", "2 Speed", "80", "0", "20", "11", "98"],
+		["Espathra", "956", "Ostrich", "Psychic", "NA", "Opportunist", "Frisk", "Speed Boost", "50", "50", "35", "50", "2 Speed", "80", "0", "20", "11", "51"],
+		["Donphan", "232", "Armor", "Ground", "NA", "Sturdy", "NA", "Sand Veil", "50", "50", "25", "50", "1 Atk.,1 Def.", "80", "0", "20", "7", "55"],
+		["Zebstrika", "523", "Thunderbot", "Electric", "NA", "Lightning Rod", "Motor Drive", "Sap Sipper", "50", "50", "28", "39", "2 Speed", "80", "0", "20", "10", "80"],
+		["Copperajah", "879", "Copperderm", "Steel", "NA", "Sheer Force", "NA", "Heavy Metal", "50", "50", "35", "50", "2 Atk.", "80", "0", "20", "10", "71"],
+		["Sandaconda", "844", "Sand Snake", "Ground", "NA", "Sand Spit", "Shed Skin", "Sand Veil", "50", "50", "36", "50", "2 Def.", "80", "0", "20", "13", "107"],
+		["Heliolisk", "695", "Generator", "Electric", "Normal", "Dry Skin", "Sand Veil", "Solar Power", "50", "50", "25", "37", "1 Sp.Atk., 1 Speed", "80", "0", "20", "11", "84"],
+		["Krokorok", "552", "Desert Croc", "Ground", "Dark", "Intimidate", "Moxie", "Anger Point", "50", "50", "29", "40", "2 Atk.", "80", "0", "20", "5", "50"],
+		["Krookodile", "553", "Intimidation", "Ground", "Dark", "Intimidate", "Moxie", "Anger Point", "50", "50", "40", "55", "3 Atk.", "80", "0", "20", "13", "117"],
+		["Pyroar", "668", "Royal", "Fire", "Normal", "Rivalry", "Unnerve", "Moxie", "12.5", "87.5", "36", "49", "2 Sp. Atk.", "80", "0", "20", "9", "63"],
+		["Kangaskhan", "115", "Parent", "Normal", "NA", "Early Bird", "Scrappy", "Inner Focus", "0", "100", "25", "50", "2 HP", "80", "0", "20", "10", "60"],
+		["Xatu", "178", "Mystic", "Psychic", "Flying", "Synchronize", "Early Bird", "Magic Bounce", "50", "50", "25", "60", "1 Sp. Atk.,1 Speed", "80", "0", "20", "7", "45"],
+		["Darumaka", "555", "Blazing", "Fire", "NA", "Sheer Force", "NA", "Zen Mode", "50", "50", "36", "50", "2 Atk.", "80", "0", "20", "12", "101"],
+		["Farigiraf", "981", "Long Neck", "Normal", "Psychic", "Cud Chew", "Armor Tail", "Sap Sipper", "32", "50", "3 HP", "80", "0", "20", "13", "118"],
+		["Tropius", "357", "Fruit", "Grass", "Flying", "Chlorophyll", "Solar Power", "Harvest", "50", "50", "2 HP", "80", "0", "20", "11", "82"]
+	],
+	"sweetscentCommon": [],
+	"sweetscentUncommon": [
+		["Phanpy", "231", "Long Nose", "Ground", "NA", "Pickup", "NA", "Sand Veil", "50", "50", "5", "24", "1 HP", "80", "0", "20", ".5", "17"]
+	],
+	"sweetscentRare": [],
+	"sweetscentVeryRare": [
+		["Donphan", "232", "Armor", "Ground", "NA", "Sturdy", "NA", "Sand Veil", "50", "50", "25", "50", "1 Atk.,1 Def.", "80", "0", "20", "7", "55"]
+	],
+	"sweetscentUltraRare": [],
+	"headbuttCommon": [],
+	"headbuttUncommon": [
+		["Spearow", "021", "Tiny Bird", "Normal", "Flying", "Keen Eye", "NA", "Sniper", "50", "50", "5", "20", "1 Speed", "80", "0", "20", ".25", "16"],
+		["Natu", "177", "Tiny Bird", "Psychic", "Flying", "Synchronize", "Early Bird", "Magic Bounce", "50", "50", "5", "24", "1 Sp. Atk.", "80", "0", "20", ".5", "16"]
+	],
+	"headbuttRare": [
+		["Fearow", "022", "Beak", "Normal", "Flying", "Keen Eye", "NA", "Sniper", "50", "50", "20", "50", "2 Speed", "60", "0", "40", "5", "40"]
+	],
+	"headbuttVeryRare": [],
+	"headbuttUltraRare": [],
+	"itemsCommon": ["Poke Ball"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Sun Stone"],
+	"itemsVeryRare": ["TM Charge Beam", "TM Shock Wave", "Smooth Rock", "Soft Sand", "Nugget"],
+	"itemsUltraRare": ["TM Giga Impact", "TM Sandstorm", "TM Rock Tomb", "TM Thunderbolt", "TM Thunder", "Big Nugget"]
+}

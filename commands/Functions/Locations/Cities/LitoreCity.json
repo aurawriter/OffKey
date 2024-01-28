@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		["Corp", "Random", "'If you're gonna go fishing, you should make sure none of them Knight freaks are around. One of them walked right up to me minding my own business and snapped my rod clean in half! For no reason! They're *crazy.*'"],
+		["Knight", "Random", "'Oi! Stay back, you're not breaking this rod, I just got a new one!'"],
+		["Neutral", "Random", "'The gym leader here is kinda... well, y'know? I know the league's not really an official thing anymore, but I don't see how he's qualified for a position like that...'"],
+		["Neutral", "Random", "'They say Steldom's the heart of Misen, but I think the real heart is here. Everything passes through this city at some point.'"],
+		["Neutral", "Random", "'I guess the sea breeze is nice, but the salt kinda stings my eyes...'"],
+		["Neutral", "Random", "'I've had this Wingull following me around for a few days now. Think it just wants food? Maybe I should buy a pokeball...'"],
+		["Neutral", "Random", "'Do you believe in aliens?'"],
+		["Neutral", "Random", "'The gym leader here always rents out a room in the library, locks the door, and doesn't come out for the entire weekend. He's creepy.'"],
+		["Neutral", "Random", "'If you're thinking of surfing over to Kohalis Island, think again. You'll be torn to pieces by Sharpedo.'"],
+		["Neutral", "Random", "'The hospital here has the best doctors in Misen!'"],
+		["Neutral", "Random", "'What's the gym leader's name again? Garret? Goncharov? ... No, I don't think it's that.'"],
+		["Neutral", "Random", "'Wanna watch my Juli fancam?'"],
+		["Neutral", "Random", "'My car is covered in Wingull crap.'"],
+		["Neutral", "Random", "'Look, if the champion is supposed to show up once you've cleared the entire league, how the hell are they supposed to *know* that? It's not like the champion's omniscient or something.'"],
+		["Corp", "Goldie", "'Huh? Does it look like I want to talk to you? Scram!'"],
+		["Corp", "Random", "Those awful team Knight people will recruit anyone into their gang, even children. It's awful. Truly awful."],
+		["Knight", "Random", "Your parents must be so very disappointed in you."]
+	],
+	"quests": [
+		[ "Daniel", "1077037747031785482", "0", "-1", "'Sigh… I guess I'd better call a flying taxi.'", "NA", "Quest: An Adventurer's Plus One" ],
+		[ "Goldie", "1077037747031785482", "-5", "11", "'Hey hey! Fellow Knight! I've got a fun idea, you in?'", "NA", "Mission: A Watery Grave" ]
+	]
+}

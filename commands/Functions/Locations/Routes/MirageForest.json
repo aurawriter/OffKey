@@ -1,0 +1,189 @@
+{
+		"connections": ["Ospina City","Bellwyn Estate","Yarnhop Village"],
+		"goals":
+		[
+			["Ospina City","Bellwyn Estate","12"],
+			["Ospina City","Yarnhop Village","10"],
+			["Bellwyn Estate","Ospina City","12"],
+			["Yarnhop Village","Ospina City","10"],
+			["Bellwyn Estate","Yarnhop Village","6"],
+			["Yarnhop Village","Bellwyn Estate","6"]
+		],
+		"locationColor" : "#2B2F08",
+		"locationName" : "Mirage Forest",
+		"locationDescription": "Mirage Forest is a strange place home to many Pokemon capable of creating illusions. It is easy to get lost as said Pokemon are often mischievous and will induce hallucinations upon those who enter, making people go in circles. This is more prevalent the deeper into the forest one treads.",
+	"happeningsList": [
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "SpecialPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "SpecialPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!" ],
+		[ "Roll TwistingScenery", "If you're not careful, you may lose your way..." ],
+		[ "ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?" ],
+		[ "SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?" ],
+		[ "TrainerBattle", "When trainers eyes meet.....a fight can break out!" ],
+		[ "HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..." ],
+		[ "Roll Obstacle", "The trees are rather thick here...you'll have to go around. Unless you can manage to work your way through." ],
+		[ "Roll Shortcut", "The trees are rather thick here...but if you can get through them, you're sure you'll make good progress to getting out" ],
+		[ "Roll Item", "There's an item behind some rather thick trees. If you can get through them, it's yours to claim!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "Scenery", "Out of the corner of your eyes, something moves. But when you look, nothing is there." ],
+		[ "Scenery", "Have you seen that tree before?" ],
+		[ "Scenery", "You blink...has the landscape changed?" ],
+		[ "Scenery", "You're beginning to wonder if you'll ever get out" ],
+		[ "Scenery", "There's the way out! ...where'd it go?" ],
+		[ "Scenery", "Smells like deception" ],
+		[ "Scenery", "Turn around, turn around, turn around, turn around" ],
+		[ "Scenery", "Keep going this way. You're going the right way" ],
+		[ "Scenery", "The canopy is so thick you can't even use the sun to navigate" ],
+		[ "Roll Navigation", "Especially in Mirage Forest, if you're not careful to make sure where you're going, you may end up somewhere you didn't intend..." ]
+	],
+		"trainersList":
+		[
+			["Bug Catcher","#A8B820","Male","16","Wurmple","Burmy(Plant)","Venonat","Pineco","Nincada","Silcoon","Cascoon"],
+			["Bug Maniac","#A8B820","Male","28","Beautifly","Dustox","Forretress","Ninjask","Shedinja","Wormadam(Plant Cloak)","Mothim"],
+			["Psychic","#F85888","Male","32","Ralts","Espurr","Kadabra","Alakazam","Meowstic(Male)","Kirlia","Gallade","Phantump","Trevenant"],
+			["Hex Maniac","#705898","Female","28","Ralts","Espurr","Kadabra","Alakazam","Meowstic(Female)","Kirlia","Gardevoir","Phantump","Trevenant"]
+		],
+		
+		"landCommon":
+		[
+			[ "Wurmple", "265", "Worm", "Bug", "NA", "Shield Dust", "NA", "Run Away", "50", "50", "4", "8", "1 HP", "80", "0", "20", "0.125", "16", "Medium Fast", "56", "50" ],
+			[ "Teddiursa", "216", "Little Bear", "Normal", "NA", "Pickup", "Quick Feet", "Honey Gather", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", "0.5", "16", "Medium Fast", "66", "50" ],
+			[ "Patrat", "504", "Scout", "Normal", "NA", "Run Away", "Keen Eye", "Analytic", "50", "50", "6", "17", "1 Atk.", "80", "0", "20", ".25", "16", "Medium Fast", "51", "50" ],
+			[ "Burmy(Plant Cloak)", "412", "Bagworm", "Bug", "NA", "Shed Skin", "NA", "Overcoat", "50", "50", "5", "20", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Fast", "45", "50" ],
+			[ "Poochyena", "261", "Bite", "Dark", "NA", "Run Away", "Quick Feet", "Rattled", "50", "50", "5", "17", "1 Atk.", "80", "0", "20", ".25", "16", "Medium Fast", "56", "50" ]
+		],
+		
+		"landUncommon":
+		[
+			[ "Venonat", "048", "Insect", "Bug", "Poison", "Compound Eyes", "Tinted Lens", "Run Away", "50", "50", "10", "31", "1 Sp. Def", "80", "0", "20", ".5", "16", "Medium Fast", "61", "50" ],
+			[ "Pineco", "204", "Bagworm", "Bug", "NA", "Sturdy", "NA", "Overcoat", "50", "50", "5", "30", "1 Def.", "80", "0", "20", "1", "25", "Medium Fast", "58", "50" ],
+			[ "Seedot", "273", "Acorn", "Grass", "NA", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "2", "13", "1 Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44", "50" ],
+			[ "Nincada", "290", "Trainee", "Bug", "Ground", "Compound Eyes", "NA", "Run Away", "50", "50", "5", "18", "1 Def.", "80", "0", "20", ".25", "16", "Erratic", "53", "50" ],
+			[ "Abra", "063", "Psi", "Psychic", "NA", "Synchronize", "Inner Focus", "Magic Guard", "75", "25", "5", "16", "1 Sp. Atk.", "80", "0", "20", ".5", "15", "Medium Slow", "62", "50" ],
+			[ "Espurr", "677", "Restraint", "Psychic", "NA", "Keen Eye", "Infiltrator", "Own Tempo", "50", "50", "15", "24", "1 Speed", "80", "0", "20", "1", "18", "Medium Fast", "71", "50" ],
+			[ "Vulpix", "037", "Fox", "Fire", "NA", "Flash Fire", "NA", "Drought", "25", "75", "10", "19", "1 Speed", "80", "0", "20", ".25", "16", "Medium Fast", "60", "50" ],
+			["Ralts","280","Feeling","Psychic","Fairy","Synchronize","Trace","Telepathy","50","50","5","19","1 Sp. Atk.","80","0","20",".25","16","Slow","40","35"]
+		],
+		
+		"landRare":
+		[
+			[ "Silcoon", "266", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+			[ "Cascoon", "268", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+			[ "Applin", "840", "Apple Core", "Grass", "Dragon", "Ripen", "Gluttony", "Bulletproof", "50", "50", "10", "25", "1 Def.", "80", "0", "20", "1", "18", "Erratic", "52", "50" ],
+			[ "Phantump", "708", "Stump", "Ghost", "Grass", "Natural Cure", "Frisk", "Harvest", "50", "50", "15", "24", "1 Atk.", "80", "0", "20", "1", "17", "Medium Fast", "62", "50" ],
+			[ "Watchog", "505", "Lookout", "Normal", "NA", "Illuminate", "Keen Eye", "Analytic", "50", "50", "21", "33", "2 Atk.", "80", "0", "20", "6", "50", "Medium Fast", "147", "50" ]
+		],
+		"landVeryRare":
+		[
+			[ "Mightyena", "262", "Bite", "Dark", "NA", "Intimidate", "Quick Feet", "Moxie", "50", "50", "18", "65", "2 Atk.", "80", "0", "20", "5", "45", "Medium Fast", "147", "50" ],
+			[ "Zorua", "570", "Tricky Fox", "Dark", "NA", "Illusion", "NA", "NA", "87.5", "12.5", "5", "25", "1 Sp. Atk.", "80", "0", "20", "1", "16", "Medium Slow", "66", "50" ]
+		],
+		"landUltraRare":
+		[
+			[ "Beautifly", "267", "Butterfly", "Bug", "Flying", "Swarm", "NA", "Rivalry", "50", "50", "10", "12", "3 Sp.Atk.", "80", "0", "20", "6", "45", "Medium Fast", "178", "50" ],
+			[ "Dustox", "269", "Poison Moth", "Bug", "Poison", "Shield Dust", "NA", "Compound Eyes", "50", "50", "10", "12", "3 Sp. Def.", "80", "0", "20", "7", "50", "Medium Fast", "173", "50" ],
+			[ "Venomoth", "049", "Poison Moth", "Bug", "Poison", "Shield Dust", "Tinted Lens", "Wonder Skin", "50", "50", "31", "49", "1 Sp.Atk., 1 Speed", "80", "0", "20", "8", "64", "Medium Fast", "158", "50" ],
+			[ "Forretress", "205", "Bagworm", "Bug", "Steel", "Sturdy", "NA", "Overcoat", "50", "50", "31", "55", "2 Def.", "80", "0", "20", "12", "109", "Medium Fast", "163", "50" ],
+			[ "Nuzleaf", "274", "Wily", "Grass", "Dark", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "14", "50", "2 Atk.", "80", "0", "20", "4", "50", "Medium Slow", "119", "50" ],
+			[ "Shiftry", "275", "Wicked", "Grass", "Dark", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "20", "65", "3 Atk.", "80", "0", "20", "9", "88", "Medium Slow", "216", "50" ],
+			[ "Flapple", "841", "Apple Wing", "Grass", "Dragon", "Ripen", "Gluttony", "Hustle", "50", "50", "30", "50", "2 Atk.", "80", "0", "20", "8", "50", "Erratic", "170", "50" ],
+			[ "Appletun", "842", "Apple Nectar", "Grass", "Dragon", "Ripen", "Gluttony", "Thick Fat", "50", "50", "30", "50", "2 HP", "80", "0", "20", "8", "50", "Erratic", "170", "50" ],
+			[ "Ninjask", "291", "Ninja", "Bug", "Flying", "Speed Boost", "NA", "Infiltrator", "50", "50", "20", "40", "2 Speed", "80", "0", "20", "6", "40", "Erratic", "160", "50" ],
+			[ "Shedinja", "292", "Shed", "Bug", "Ghost", "Wonder Guard", "NA", "NA", "0", "0", "20", "40", "2 HP", "80", "0", "20", "1", "1", "Erratic", "83", "50" ],
+			[ "Ditto", "132", "Transform", "Normal", "NA", "Limber", "NA", "Imposter", "0", "0", "15", "49", "1 HP", "80", "0", "20", "3", "19", "Medium Fast", "101", "50" ],
+			[ "Kadabra", "064", "Psi", "Psychic", "NA", "Synchronize", "Inner Focus", "Magic Guard", "75", "25", "16", "26", "2 Sp. Atk.", "80", "0", "20", "6", "40", "Medium Slow", "140", "50" ],
+			[ "Alakazam", "065", "Psi", "Psychic", "NA", "Synchronize", "Inner Focus", "Magic Guard", "75", "25", "30", "50", "3 Sp. Atk.", "80", "0", "20", "12", "87", "Medium Slow", "225", "50" ],
+			[ "Meowstic(Male)", "678", "Constraint", "Psychic", "NA", "Keen Eye", "Infiltrator", "Prankster", "100", "0", "26", "38", "2 Speed", "80", "0", "20", "9", "58", "Medium Fast", "163", "50" ],
+			[ "Meowstic(Female)", "678", "Constraint", "Psychic", "NA", "Keen Eye", "Infiltrator", "Competitive", "0", "100", "26", "38", "2 Speed", "80", "0", "20", "9", "58", "Medium Fast", "163", "50" ],
+			[ "Trevenant", "709", "Elder Tree", "Ghost", "Grass", "Natural Cure", "Frisk", "Harvest", "50", "50", "25", "50", "2. Atk.", "80", "0", "20", "11", "84", "Medium Fast", "166", "50" ],
+			[ "Ursaring", "217", "Hibernator", "Normal", "NA", "Guts", "Quick Feet", "Unnerve", "50", "50", "30", "60", "2 Atk.", "80", "0", "20", "6", "50", "Medium Fast", "175", "50" ],
+			[ "Ninetales", "038", "Fox", "Fire", "NA", "Flash Fire", "NA", "Drought", "25", "75", "20", "50", "1 Sp.Def., 1 Speed", "80", "0", "20", "7", "40", "Medium Fast", "177", "50" ],
+			[ "Wormadam(Plant Cloak)", "413", "Bagworm", "Bug", "Grass", "Anticipation", "NA", "Overcoat", "0", "100", "20", "50", "2 Sp. Def.", "80", "0", "20", "6", "50", "Medium Fast", "148", "50" ],
+			[ "Mothim", "414", "Moth", "Bug", "Flying", "Swarm", "NA", "Tinted Lens", "100", "0", "20", "50", "1 Atk., 1 Sp. Atk.", "80", "0", "20", "4", "45", "Medium Fast", "148", "50" ],
+			["Kirlia","281","Emotion","Psychic","Fairy","Synchronize","Trace","Telepathy","50","50","20","29","2 Sp. Atk.","80","0","20","4","40","Slow","97","35"],
+			["Gardevoir","282","Embrace","Psychic","Fairy","Synchronize","Trace","Telepathy","50","50","30","65","3 Sp.Atk.","80","0","20","13","82","Slow","233","35"],
+			["Gallade","475","Blade","Psychic","Fighting","Steadfast","Sharpness","Justified","100","0","30","65","3 Atk.","80","0","20","12","101","Slow","233","35"]
+		],
+
+	"headbuttCommon": [
+		[ "Venomoth", "049", "Poison Moth", "Bug", "Poison", "Shield Dust", "Tinted Lens", "Wonder Skin", "50", "50", "31", "49", "1 Sp.Atk., 1 Speed", "80", "0", "20", "8", "64", "Medium Fast", "158", "50" ]
+	],
+
+	"headbuttUncommon": [
+		[ "Wurmple", "265", "Worm", "Bug", "NA", "Shield Dust", "NA", "Run Away", "50", "50", "4", "8", "1 HP", "80", "0", "20", "0.125", "16", "Medium Fast", "56", "50"],
+		[ "Venonat", "048", "Insect", "Bug", "Poison", "Compound Eyes", "Tinted Lens", "Run Away", "50", "50", "10", "31", "1 Sp. Def", "80", "0", "20", ".5", "16", "Medium Fast", "61", "50" ],
+		[ "Pineco", "204", "Bagworm", "Bug", "NA", "Sturdy", "NA", "Overcoat", "50", "50", "5", "30", "1 Def.", "80", "0", "20", "1", "25", "Medium Fast", "58", "50" ],
+		[ "Seedot", "273", "Acorn", "Grass", "NA", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "2", "13", "1 Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44", "50" ]
+	],
+
+	"headbuttRare": [
+		[ "Forretress", "205", "Bagworm", "Bug", "Steel", "Sturdy", "NA", "Overcoat", "50", "50", "31", "55", "2 Def.", "80", "0", "20", "12", "109", "Medium Fast", "163", "50" ],
+		[ "Applin", "840", "Apple Core", "Grass", "Dragon", "Ripen", "Gluttony", "Bulletproof", "50", "50", "10", "25", "1 Def.", "80", "0", "20", "1", "18", "Erratic", "52", "50" ]
+	],
+	"headbuttVeryRare":[
+		[ "Silcoon", "266", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Cascoon", "268", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Burmy(Plant Cloak)", "412", "Bagworm", "Bug", "NA", "Shed Skin", "NA", "Overcoat", "50", "50", "5", "20", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Fast", "45", "50" ]
+	],
+	"headbuttUltraRare": [
+		[ "Beautifly", "267", "Butterfly", "Bug", "Flying", "Swarm", "NA", "Rivalry", "50", "50", "10", "12", "3 Sp.Atk.", "80", "0", "20", "6", "45", "Medium Fast", "178", "50" ],
+		[ "Dustox", "269", "Poison Moth", "Bug", "Poison", "Shield Dust", "NA", "Compound Eyes", "50", "50", "10", "12", "3 Sp. Def.", "80", "0", "20", "7", "50", "Medium Fast", "173", "50" ],
+		[ "Mothim", "414", "Moth", "Bug", "Flying", "Swarm", "NA", "Tinted Lens", "100", "0", "20", "50", "1 Atk., 1 Sp. Atk.", "80", "0", "20", "4", "45", "Medium Fast", "148", "50" ],
+		[ "Wormadam(Plant Cloak)", "413", "Bagworm", "Bug", "Grass", "Anticipation", "NA", "Overcoat", "0", "100", "20", "50", "2 Sp. Def.", "80", "0", "20", "6", "50", "Medium Fast", "148", "50" ]
+	],
+		"sweetscentCommon":
+		[
+		],
+	"sweetscentUncommon": [
+		[ "Wurmple", "265", "Worm", "Bug", "NA", "Shield Dust", "NA", "Run Away", "50", "50", "4", "8", "1 HP", "80", "0", "20", "0.125", "16", "Medium Fast", "56", "50" ],
+		[ "Teddiursa", "216", "Little Bear", "Normal", "NA", "Pickup", "Quick Feet", "Honey Gather", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", "0.5", "16", "Medium Fast", "66", "50" ],
+		[ "Silcoon", "266", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Cascoon", "268", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Venonat", "048", "Insect", "Bug", "Poison", "Compound Eyes", "Tinted Lens", "Run Away", "50", "50", "10", "31", "1 Sp. Def", "80", "0", "20", ".5", "16", "Medium Fast", "61", "50" ],
+		[ "Seedot", "273", "Acorn", "Grass", "NA", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "2", "13", "1 Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44", "50" ],
+		[ "Nincada", "290", "Trainee", "Bug", "Ground", "Compound Eyes", "NA", "Run Away", "50", "50", "5", "18", "1 Def.", "80", "0", "20", ".25", "16", "Erratic", "53", "50" ],
+		[ "Burmy(Plant Cloak)", "412", "Bagworm", "Bug", "NA", "Shed Skin", "NA", "Overcoat", "50", "50", "5", "20", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Fast", "45", "50" ],
+		[ "Ralts", "280", "Feeling", "Psychic", "Fairy", "Synchronize", "Trace", "Telepathy", "50", "50", "5", "19", "1 Sp. Atk.", "80", "0", "20", ".25", "16", "Slow", "40","35" ]
+	],
+		"sweetscentRare":
+		[
+			[ "Applin", "840", "Apple Core", "Grass", "Dragon", "Ripen", "Gluttony", "Bulletproof", "50", "50", "10", "25", "1 Def.", "80", "0", "20", "1", "18", "Erratic", "52", "50" ]
+		],
+	"sweetscentVeryRare": [
+		[ "Wormadam(Plant Cloak)", "413", "Bagworm", "Bug", "Grass", "Anticipation", "NA", "Overcoat", "0", "100", "20", "50", "2 Sp. Def.", "80", "0", "20", "6", "50", "Medium Fast", "148", "50" ],
+		[ "Mothim", "414", "Moth", "Bug", "Flying", "Swarm", "NA", "Tinted Lens", "100", "0", "20", "50", "1 Atk., 1 Sp. Atk.", "80", "0", "20", "4", "45", "Medium Fast", "148", "50" ],
+		[ "Kirlia", "281", "Emotion", "Psychic", "Fairy", "Synchronize", "Trace", "Telepathy", "50", "50", "20", "29", "2 Sp. Atk.", "80", "0", "20", "4", "40", "Slow", "97" ,"35"]
+
+	],
+	"sweetscentUltraRare": [
+		[ "Venomoth", "049", "Poison Moth", "Bug", "Poison", "Shield Dust", "Tinted Lens", "Wonder Skin", "50", "50", "31", "49", "1 Sp.Atk., 1 Speed", "80", "0", "20", "8", "64", "Medium Fast", "158", "50" ],
+		[ "Ursaring", "217", "Hibernator", "Normal", "NA", "Guts", "Quick Feet", "Unnerve", "50", "50", "30", "60", "2 Atk.", "80", "0", "20", "6", "50", "Medium Fast", "175", "50" ]
+	],
+	"specialCommon": [
+	],
+	"specialUncommon": [
+	],
+		"specialRare":
+		[
+			[ "Zorua", "570", "Tricky Fox", "Dark", "NA", "Illusion", "NA", "NA", "87.5", "12.5", "5", "25", "1 Sp. Atk.", "80", "0", "20", "1", "16", "Medium Slow", "66", "50" ]
+		],
+		"specialVeryRare":
+		[
+			[ "Ditto", "132", "Transform", "Normal", "NA", "Limber", "NA", "Imposter", "0", "0", "15", "49", "1 HP", "80", "0", "20", "3", "19", "Medium Fast", "101", "50" ]
+		],
+		"specialUltraRare":
+		[
+			[ "Zoroark", "571", "Illusion Fox", "Dark", "NA", "Illusion", "NA", "NA", "87.5", "12.5", "30", "45", "2 Sp. Atk.", "80", "0", "20", "12", "72", "Medium Slow", "179", "50" ]
+		],
+		"itemsCommon":["Poke Ball"],
+		"itemsUncommon":["Great Ball","Honey","Colbur Berry","Rindo Berry","Payapa Berry","Kasib Berry","Tanga Berry","Kebia Berry"],
+		"itemsRare":["Ultra Ball","Max Revive","Net Ball","Nest Ball","Grassy Seed","Psychic Seed","Tart Apple","Leaf Stone"],
+		"itemsVeryRare":["TM False Swipe","TM Double Team","TM Skill Swap","Shed Shell","Twisted Spoon","Silver Powder","Big Root","Black Glasses","Miracle Seed","Tiny Mushroom"],
+		"itemsUltraRare":["TM Trick Room","TM Thief","TM Psychic","TM Facade","TM Substitute","Loaded Dice","Red Card","Wise Glasses","Balm Mushroom","Big Mushroom"]
+}

@@ -1,0 +1,130 @@
+{
+	"connections": ["Sternwater City", "Junkyard", "Siraisis Savanna", "Victory Road"],
+	"goals": [
+		["Sternwater City", "Junkyard", "8"],
+		["Sternwater City", "Siraisis Savanna", "12"],
+		["Sternwater City", "Victory Road", "10"],
+		["Junkyard", "Sternwater City", "8"],
+		["Junkyard", "Siraisis Savanna", "6"],
+		["Junkyard", "Victory Road", "8"],
+		["Siraisis Savanna", "Sternwater City", "12"],
+		["Siraisis Savanna", "Junkyard", "6"],
+		["Siraisis Savanna", "Victory Road", "4"],
+		["Victory Road", "Sternwater City", "10"],
+		["Victory Road", "Junkyard", "8"],
+		["Victory Road", "Siraisis Savanna", "4"]
+	],
+	"locationColor": "#535353",
+	"locationName": "Wasteland",
+	"locationDescription": "A desert polluted heavily by a nearby trash burning site, named after the literal waste littered across its surface. Copious amounts of soot have turned the surface sand almost entirely black. It has become a dumping ground for unwanted furniture and broken vehicles for those unwilling to pay the junkyard drop off fee. Any vegetation found within the wastelands is likely to be toxic. Wearing thick padded boots is highly recommended when traveling the wastelands, due to the sand's extreme heat being known to burn through cheap shoe soles.",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you want to claim the item, you have to defeat it!"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?"],
+		["Scenery", "Smells like industry"],
+		["Scenery", "The sand is too hot to touch directly."],
+		["Scenery", "There's nothing to look at besides sand and the occasional piece of garbage."],
+		["Scenery", "So much sand. At least it's an interesting colour."],
+		["Scenery", "The sun is really beating down."],
+		["Scenery", "Don't you hate sand? It's coarse and rough and gets everywhere..."]
+	],
+	"landCommon": [
+		["Ekans", "023", "Snake", "Poison", "NA", "Intimidate", "Shed Skin", "Unnerve", "50", "50", "10", "22", "1 Atk.", "70", "0", "30", ".5", "16","Medium Fast","58"],
+		["Venipede", "543", "Centipede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "5", "21", "1 Def.", "80", "0", "20", ".25", "16","Medium Slow","52"],
+		["Nidoran(Male)", "032", "Poison Pin", "Poison", "NA", "Poison Point", "Rivalry", "Hustle", "100", "0", "3", "16", "1 Atk.", "80", "0", "20", ".25", "17","Medium Slow","55"],
+		["Nidoran(Female)", "029", "Poison Pin", "Poison", "NA", "Poison Point", "Rivalry", "Hustle", "0", "100", "3", "16", "1 HP", "80", "0", "20", ".25", "17","Medium Slow","55"]
+	],
+	"landUncommon": [
+		["Trubbish", "568", "Trash Bag", "Poison", "NA", "Stench", "Sticky Hold", "Aftermath", "50", "50", "23", "35", "1 Speed", "80", "0", "20", "1", "19","Medium Fast","66"],
+		["Skorupi", "451", "Scorpion", "Poison", "Bug", "Battle Armor", "Sniper", "Keen Eye", "50", "50", "5", "25", "1 Def.", "80", "0", "20", "2", "18","Slow","66"],
+		["Rellor", "953", "Rolling", "Bug", "NA", "Compound Eyes", "NA", "Shed Skin", "50", "50", "20", "26", "1 Def.", "80", "0", "20", "1", "17","Fast","54"],
+		["Bramblin", "946", "Tumbleweed", "Grass", "Ghost", "Wind Rider", "NA", "Infiltrator", "50", "50", "20", "26", "1 Atk.", "80", "0", "20", ".125", "16","Medium Fast","55"],
+		["Trapinch", "328", "Ant Pit", "Ground", "NA", "Hyper Cutter", "Arena Trap", "Sheer Force", "50", "50", "5", "35", "1 Atk.", "80", "0", "20", ".25", "17","Medium Slow","58"],
+		["Hippopotas(Male)", "449", "Hippo", "Ground", "NA", "Sand Stream", "NA", "Sand Force", "100", "0", "22", "33", "1 Def.", "80", "0", "20", "1", "20","Slow","66"],
+		["Hippopotas(Female)", "449", "Hippo", "Ground", "NA", "Sand Stream", "NA", "Sand Force", "0", "100", "22", "33", "1 Def.", "80", "0", "20", "1", "20","Slow","66"],
+		["Salandit", "757", "Toxic Lizard", "Poison", "Fire", "Corrosion", "NA", "Oblivious", "87.5", "12.5", "15", "32", "1 Speed", "80", "0", "20", ".5", "17","Medium Fast","64"],
+		["Toxel", "848", "Baby", "Electric", "Poison", "Rattled", "Static", "Klutz", "50", "50", "5", "25", "1 Sp. Atk.", "80", "0", "20", ".25", "17","Medium Slow","48"],
+		["Vullaby", "629", "Diapered", "Dark", "Flying", "Big Pecks", "Overcoat", "Weak Armor", "0", "100", "42", "53", "1 Def.", "80", "0", "20", "2", "18","Slow","74"],
+		["Koffing", "109", "Poison Gas", "Poison", "NA", "Levitate", "Neutralizing Gas", "Stench", "50", "50", "15", "35", "1 Def.", "80", "0", "20", ".5", "18","Medium Fast","68"],
+		["Scraggy", "559", "Shedding", "Dark", "Fighting", "Shed Skin", "Moxie", "Intimidate", "50", "50", "15", "34", "1 Atk.", "80", "0", "20", "2", "18","Medium Fast","70"]
+	],
+	"landRare": [
+		["Whirlipede", "544", "Curlipede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "22", "29", "2 Def.", "80", "0", "20", "6", "50","Medium Slow","126"],
+		["Nidorina", "030", "Poison Pin", "Poison", "NA", "Poison Point", "Rivalry", "Hustle", "0", "100", "16", "25", "2 HP", "80", "0", "20", "4", "45","Medium Slow","128"],
+		[ "Nidorino", "033", "Poison Pin", "Poison", "NA", "Poison Point", "Rivalry", "Hustle", "100", "0", "16", "25", "2 Atk.", "80", "0", "20", "4", "45", "Medium Slow", "128" ],
+		[ "Minior", "774", "Meteor", "Rock", "Flying", "Shields Down", "NA", "NA", "0", "0", "15", "40", "1 Def.,1 Sp. Def.", "80", "0", "20", "4", "43","Medium Slow","154"],
+		["Varoom", "965", "Single-Cyl", "Steel", "Poison", "Overcoat", "NA", "Slow Start", "50", "50", "19", "39", "1 Atk.", "80", "0", "20", ".5", "17","Medium Fast","60"]
+	],
+	"landVeryRare": [
+		["Toxtricity(Amped)", "849", "Punk", "Electric", "Poison", "Punk Rock", "Plus", "Technician", "50", "50", "30", "45", "2 Sp. Atk.", "80", "0", "20", "7", "40","Medium Slow","176"],
+		[ "Toxtricity(Low Key)", "849", "Punk", "Electric", "Poison", "Punk Rock", "Minus", "Technician", "50", "50", "30", "45", "2 Sp. Atk.", "80", "0", "20", "7", "40", "Medium Slow", "176" ]
+	],
+	"landUltraRare": [
+		["Garbodor", "569", "Trash Heap", "Poison", "NA", "Stench", "Weak Armor", "Aftermath", "50", "50", "37", "49", "2 Atk.", "80", "0", "20", "12", "99","Medium Fast","166"],
+		["Drapion", "452", "Ogre Scorpion", "Poison", "Dark", "Battle Armor", "Sniper", "Keen Eye", "50", "50", "40", "55", "2 Def.", "80", "0", "20", "10", "55","Slow","175"],
+		["Arbok", "024", "Cobra", "Poison", "NA", "Intimidate", "Shed Skin", "Unnerve", "50", "50", "22", "50", "2 Atk.", "60", "0", "40", "6", "45","Medium Fast","157"],
+		["Scolipede", "545", "Megapede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "30", "45", "3 Speed", "80", "0", "20", "11", "75","Medium Slow","218"],
+		["Vibrava", "329", "Vibration", "Ground", "Dragon", "Levitate", "NA", "NA", "50", "50", "35", "45", "1 Atk., 1 Speed", "80", "0", "20", "7", "72","Medium Slow","119"],
+		["Rabsca", "954", "Rolling", "Bug", "Psychic", "Synchronize", "NA", "Telepathy", "50", "50", "27", "50", "2 Sp Atk.", "80", "0", "20", "9", "50","Fast","165"],
+		["Brambleghast", "947", "Tumbleweed", "Grass", "Ghost", "Wind Rider", "NA", "Infiltrator", "50", "50", "27", "50", "2 Atk.", "80", "0", "20", "7", "50","Medium Fast","168"],
+		["Flygon", "330", "Mystic", "Ground", "Dragon", "Levitate", "NA", "NA", "50", "50", "45", "50", "1 Atk., 2 Speed", "80", "0", "20", "14", "126","Medium Slow","234"],
+		["Hippowdon(Male)","450",	"Heavyweight","Ground","NA","Sand Stream","NA","Sand Force","100","0","35","46","2 Def.","80","0","20","10","66","Slow","184"],
+		[ "Hippowdon(Female)", "450", "Heavyweight", "Ground", "NA", "Sand Stream", "NA", "Sand Force", "0", "100", "35", "46", "2 Def.", "80", "0", "20", "10", "66", "Slow", "184" ],
+		["Salazzle", "758", "Toxic Lizard", "Poison", "Fire", "Corrosion", "NA", "Oblivious", "0", "100", "33", "50", "2 Speed", "80", "0", "20", "10", "72","Medium Fast","168"],
+		["Nidoqueen", "031", "Drill", "Poison", "Ground", "Poison Point", "Rivalry", "Sheer Force", "0", "100", "30", "50", "3 HP", "80", "0", "20", "13", "122","Medium Slow","227"],
+		[ "Nidoking", "034", "Drill", "Poison", "Ground", "Poison Point", "Rivalry", "Sheer Force", "100", "0", "30", "50", "3 Atk.", "80", "0", "20", "13", "112", "Medium Slow", "227" ],
+		["Mandibuzz", "630", "Bone Vulture", "Dark", "Flying", "Big Pecks", "Overcoat", "Weak Armor", "0", "100", "55", "63", "2 Sp Atk.", "80", "0", "20", "13", "88","Slow","179"],
+		["Revavroom", "966", "Multi-Cyl", "Steel", "Poison", "Overcoat", "NA", "Filter", "50", "50", "40", "55", "2 Atk.", "80", "0", "20", "7", "40","Medium Fast","175"],
+		["Weezing", "110", "Poison Gas", "Levitate", "Neutralizing Gas", "Stench", "50", "50", "35", "50", "2 Def.", "80", "0", "20", "10", "88","Medium Fast","172"],
+		["Scrafty", "560", "Hoodlum", "Dark", "Fighting", "Shed Skin", "Moxie", "Intimidate", "50", "50", "35", "49", "1 Def.,1 Sp. Def.", "80", "0", "20", "10", "55","Medium Fast","171"]
+	],
+	"headbuttCommon": [],
+	"headbuttUncommon": [
+		[ "Skorupi", "451", "Scorpion", "Poison", "Bug", "Battle Armor", "Sniper", "Keen Eye", "50", "50", "5", "25", "1 Def.", "80", "0", "20", "2", "18", "Slow", "66" ],
+		[ "Ekans", "023", "Snake", "Poison", "NA", "Intimidate", "Shed Skin", "Unnerve", "50", "50", "10", "22", "1 Atk.", "70", "0", "30", ".5", "16", "Medium Fast", "58" ],
+		[ "Venipede", "543", "Centipede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "5", "21", "1 Def.", "80", "0", "20", ".25", "16", "Medium Slow", "52" ],
+		[ "Whirlipede", "544", "Curlipede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "22", "29", "2 Def.", "80", "0", "20", "6", "50", "Medium Slow", "126" ],
+		[ "Vullaby", "629", "Diapered", "Dark", "Flying", "Big Pecks", "Overcoat", "Weak Armor", "0", "100", "42", "53", "1 Def.", "80", "0", "20", "2", "18", "Slow", "74" ]
+	],
+	"headbuttRare": [],
+	"headbuttVeryRare": [],
+	"headbuttUltraRare": [
+		[ "Drapion", "452", "Ogre Scorpion", "Poison", "Dark", "Battle Armor", "Sniper", "Keen Eye", "50", "50", "40", "55", "2 Def.", "80", "0", "20", "10", "55", "Slow", "175" ],
+		[ "Arbok", "024", "Cobra", "Poison", "NA", "Intimidate", "Shed Skin", "Unnerve", "50", "50", "22", "50", "2 Atk.", "60", "0", "40", "6", "45", "Medium Fast", "157" ],
+		[ "Scolipede", "545", "Megapede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "30", "45", "3 Speed", "80", "0", "20", "11", "75", "Medium Slow", "218" ]
+	],
+	"sweetscentCommon": [
+		[ "Nidoran(Male)", "032", "Poison Pin", "Poison", "NA", "Poison Point", "Rivalry", "Hustle", "100", "0", "3", "16", "1 Atk.", "80", "0", "20", ".25", "17", "Medium Slow", "55" ],
+		[ "Nidoran(Female)", "029", "Poison Pin", "Poison", "NA", "Poison Point", "Rivalry", "Hustle", "0", "100", "3", "16", "1 HP", "80", "0", "20", ".25", "17", "Medium Slow", "55" ]
+	],
+	"sweetscentUncommon": [
+		[ "Hippopotas(Male)", "449", "Hippo", "Ground", "NA", "Sand Stream", "NA", "Sand Force", "100", "0", "22", "33", "1 Def.", "80", "0", "20", "1", "20", "Slow", "66" ],
+		[ "Hippopotas(Female)", "449", "Hippo", "Ground", "NA", "Sand Stream", "NA", "Sand Force", "0", "100", "22", "33", "1 Def.", "80", "0", "20", "1", "20", "Slow", "66" ]
+	],
+	"sweetscentRare": [],
+	"sweetscentVeryRare": [],
+	"sweetscentUltraRare": [
+		[ "Hippowdon(Male)", "450", "Heavyweight", "Ground", "NA", "Sand Stream", "NA", "Sand Force", "100", "0", "35", "46", "2 Def.", "80", "0", "20", "10", "66", "Slow", "184" ],
+		[ "Hippowdon(Female)", "450", "Heavyweight", "Ground", "NA", "Sand Stream", "NA", "Sand Force", "0", "100", "35", "46", "2 Def.", "80", "0", "20", "10", "66", "Slow", "184" ]
+	],
+	"rocksmashCommon": [],
+	"rocksmashUncommon": [],
+	"rocksmashRare": [],
+	"rocksmashVeryRare": [],
+	"rocksmashUltraRare": [
+		[ "Minior", "774", "Meteor", "Rock", "Flying", "Shields Down", "NA", "NA", "0", "0", "15", "40", "1 Def.,1 Sp. Def.", "80", "0", "20", "4", "43", "Medium Slow", "154" ]
+	],
+	"itemsCommon": ["Poke Ball"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Sun Stone", "Nugget"],
+	"itemsVeryRare": ["Toxic Orb", "Poison Barb", "TM Endure", "Smooth Rock", "Soft Sand", "Heat Rock", "Star Piece"],
+	"itemsUltraRare": ["TM Poison Jab", "TM Explosion", "Black Sludge", "Safety Goggles", "Heavy Duty Boots", "Big Nugget", "Comet Shard"]
+
+}

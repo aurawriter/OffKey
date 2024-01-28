@@ -1,0 +1,26 @@
+{
+	"dialogue": [
+		[ "Neutral", "Random", "'There's this little Caterpie that's been hanging around my vegetable garden. I should shoo him off, but he's so darn cute. I've already named him... My vegetables are doomed.'" ],
+		[ "Neutral", "Random", "'Don’t think about leaving Falnook without having some coffee!'" ],
+		[ "Neutral", "Random", "'This morning my husband said it was 'a little muggy out,' and I went outside, and he'd put all of our mugs on the lawn... now there's Caterpie silk in all of them...'" ],
+		[ "Neutral", "Random", "'There was some little girl selling hair dye earlier...it’s nice seeing entrepreneurship starting young!'" ],
+		[ "Neutral", "Random", "'There's this old house tucked away in Fomelhaut Forest that people say is haunted. I think it's just weird.'" ],
+		[ "Neutral", "Random", "'If you see the Croft family around, give them a helping hand would you? So many kids in one household... I don't know how that boy manages it.'" ],
+		[ "Neutral", "Random", "'They used to mine for super-cool minerals called star pieces and stardust in Fomelhaut Forest!'" ],
+		[ "Neutral", "Random", "'“I always knew Maisie was behind the Team Null incidents! Juli to the rescue!”'" ],
+		[ "Neutral", "Random", "'Just once I would like to live somewhere where nothing weird happens.'" ],
+		[ "Neutral", "Random", "'So…I saw a cloaked person following you. That’s really weird,right?'" ],
+		[ "Neutral", "Random", "'I can't believe Maisie was behind Team Null... I had such a crush on her...'" ],
+		[ "Neutral", "Random", "'I threw my Levna League cards in the trash, with Maisie arrested they lost all value to me...'" ],
+		[ "Neutral", "Random", "'Maisie's still hot. If not more hot. I could fix her" ],
+		[ "Neutral", "Random", "'Who do you think is prettier now, since Maisie's out of the running? Ariea or Juli?" ],
+		[ "Neutral", "Random", "'I can excuse terrorism, but lying to us is so mean!'" ],
+		[ "Neutral", "Random", "'So the Crown Badge I got from Maisie is worthless??'" ],
+		[ "Neutral", "ConspiracyGuy", "'So the Champion wasn't behind Team Null after all. Unless *Maisie* is the champion. I've still got it!'" ],
+		["Neutral","Random","So your badges were real all along..."]
+	],
+	"quests": [
+		[ "Teddy", "403812429185810432", "2", "-2", "'Please stop crying, I can't take much more of this…'", "NA", "Quest: The Croft Household's Dilemma" ],
+		[ "Hoshiko", "232689259902009355", "1", "1", "'How am I supposed to make more hairdye without the ingredients...?'", "NA", "Quest: Starry Eyed" ]
+	]
+}

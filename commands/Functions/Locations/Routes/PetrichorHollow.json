@@ -1,0 +1,134 @@
+{
+	"connections": ["Bellwyn City", "Construction Site"],
+	"goals": [
+		["Bellwyn City", "Construction Site", "7"],
+		["Construction Site", "Bellwyn City", "7"]
+	],
+	"locationColor": "#CCCB47",
+	"locationName": "Petrichor Hollow",
+	"locationDescription": "A series of tunnels overrun by moss, this cave is home to a wide Pokemon ecosystem, from the smallest Bug-type to Dark-types lurking deep inside. The lush foors and mossy walls make for a stark contrast to the nearby junkyard, but it's certainly a welcome change of scenery for most anyone who journeys through here. Lanterns have been strung up within the caves to guide travelers, but the deeper you go, the fewer you'll see. Stick to the path, and you'll end up in Bellwyn in no time at all! If you wander off though, well, let's not worry about that too much. The air here smells like rain, even when the sun's out.",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?"],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?"],
+		["Scenery", "Smells like rain...there's probably a word for that."],
+		["Scenery", "You run your hand over some peculiar moss"],
+		["Scenery", "The ground squelches beneath you."],
+		["Scenery", "The cave roof is dripping"],
+		["Roll CaveNavigation", "There's no lanterns here, you're on your own for a bit..."]
+	],
+	"trainersList": [
+		[ "Parasol Lady", "#78C850", "Female", "32","Oddish","Dugtrio","Nuzleaf","Seedot" ],
+		[ "Collector", "#78C850", "Female", "32", "Chikorita", "Sprigatito" ]
+	],
+	"landCommon": [
+		["Blipbug", "824", "Larva", "Bug", "NA", "Swarm", "Compound Eyes", "Telepathy", "50", "50", "2", "9", "1 Sp. Def.", "80", "0", "20", ".25", "16","Medium Fast","36"],
+		["Diglett", "050", "Mole", "Ground", "NA", "Sand Veil", "Arena Trap", "Sand Force", "50", "50", "10", "26", "1 Speed", "80", "0", "20", ".5", "18","Medium Fast","53"]
+	],
+	"landUncommon": [
+		["Roggenrola", "524", "Mantle", "Rock", "NA", "Sturdy", "Weak Armor", "Sand Force", "50", "50", "7", "16", "1 Def.", "80", "0", "20", ".5", "18","Medium Slow","56"],
+		["Karrablast", "588", "Clamping", "Bug", "NA", "Swarm", "Shed Skin", "No Guard", "50", "50", "15", "24", "1 Atk.", "80", "0", "20", ".5", "17","Medium Fast","63"],
+		["Gothita", "574", "Fixation", "Psychic", "NA", "Frisk", "Competitive", "Shadow Tag", "25", "75", "20", "31", "1 Sp. Def.", "80", "0", "20", ".5", "17","Medium Slow","58"],
+		["Bounsweet", "761", "Fruit", "Grass", "NA", "Leaf Guard", "Oblivious", "Sweet Veil", "0", "100", "5", "17", "1 HP", "80", "0", "20", ".25", "16","Medium Slow","42"],
+		["Pancham", "674", "Playful", "Fighting", "NA", "Iron Fist", "Mold Breaker", "Scrappy", "50", "50", "20", "31", "1 Atk.", "80", "0", "20", "1", "20","Medium Fast","70"],
+		["Murkrow", "198", "Darkness", "Dark", "Flying", "Insomnia", "Super Luck", "Prankster", "50", "50", "5", "29", "1 Speed", "80", "0", "20", "2", "20","Medium Slow","81"],
+		["Solosis", "577", "Cell", "Psychic", "NA", "Overcoat", "Magic Guard", "Regenerator", "50", "50", "10", "30", "1 Sp. Atk.", "80", "0", "20", ".25", "17","Medium Slow","58"],
+		["Oddish", "043", "Weed", "Grass", "Poison", "Chlorophyll", "NA", "Run Away", "50", "50", "5", "21", "1 Sp. Atk.", "80", "0", "20", ".25", "17","Medium Slow","64"],
+		["Seedot", "273", "Acorn", "Grass", "NA", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "2", "13", "1 Def.", "80", "0", "20", ".25", "17","Medium Slow","44"],
+		["Deerling(Summer)", "585", "Season", "Normal", "Grass", "Chlorophyll", "Sap Sipper", "Serene Grace", "50", "50", "21", "33", "1 Speed", "80", "0", "20", "2", "17","Medium Fast","67"]
+	],
+	"landRare": [
+		["Hatenna", "856", "Calm", "Psychic", "NA", "Healer", "Anticipation", "Magic Bounce", "0", "100", "10", "30", "1 Sp. Atk.", "80", "0", "20", ".25", "17","Slow","53"],
+		["Dottler", "825", "Radome", "Bug", "Psychic", "Swarm", "Compound Eyes", "Telepathy", "50", "50", "10", "25", "2 Sp. Def.", "80", "0", "20", "6", "50","Medium Fast","117"],
+		["Deino", "633", "Irate", "Dark", "Dragon", "Hustle", "NA", "NA", "50", "50", "40", "49", "1 Atk.", "80", "0", "20", "1", "17","Slow","60"],
+		["Nickit", "827", "Fox", "Dark", "NA", "Run Away", "Unburden", "Stakeout", "50", "50", "5", "17", "1 Sp. Def.", "80", "0", "20", "1", "16","Fast","49"],
+		["Dugtrio", "051", "Mole", "Ground", "NA", "Sand Veil", "Arena Trap", "Sand Force", "50", "50", "26", "39", "2 Speed", "80", "0", "20", "8", "55","Medium Fast","149"],
+		["Nuzleaf", "274", "Wily", "Grass", "Dark", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "14", "50", "2 Atk.", "80", "0", "20", "4", "50","Medium Slow","119"]
+	],
+	"landVeryRare": [
+		["Chikorita", "152", "Leaf", "Grass", "NA", "Overgrow", "NA", "Leaf Guard", "87.5", "12.5", "10", "16", "1 Sp. Def.", "80", "0", "20", ".5", "16","Medium Slow","64"],
+		["Sprigatito", "906", "Grass Cat", "Grass", "NA", "Overgrow", "NA", "Protean", "87.5", "12.5", "10", "16", "1 Speed", "80", "0", "20", ".5", "16","Medium Slow","62"]
+	],
+	"landUltraRare": [
+		["Boldore", "525", "Ore", "Rock", "NA", "Sturdy", "Weak Armor", "Sand Force", "50", "50", "25", "40", "1 Atk.,1 Def.", "80", "0", "20", "7", "55","Medium Slow","137"],
+		["Gigalith", "526", "Compressed", "Rock", "NA", "Sturdy", "Sand Stream", "Sand Force", "50", "50", "40", "49", "3 Atk.", "80", "0", "20", "14", "122","Medium Slow","232"],
+		["Hattrem", "857", "Serene", "Psychic", "NA", "Healer", "Anticipation", "Magic Bounce", "0", "100", "32", "40", "2 Sp. Atk.", "80", "0", "20", "6", "87","Slow","130"],
+		[ "Hatterene", "858", "Silent", "Psychic", "Fairy", "Healer", "Anticipation", "Magic Bounce", "0", "100", "42", "55", "3 Sp. Atk.", "80", "0", "20", "12", "101", "Slow", "130" ],
+		["Orbeetle", "826", "Seven Spot", "Bug", "Psychic", "Swarm", "Frisk", "Telepathy", "50", "50", "30", "50", "3 Sp. Def.", "80", "0", "20", "11", "75","Medium Fast","253"],
+		["Gothorita", "575", "Manipulate", "Psychic", "NA", "Frisk", "Competitive", "Shadow Tag", "25", "75", "33", "40", "2 Sp. Def.", "80", "0", "20", "7", "50","Medium Slow","137"],
+		["Gothitelle", "576", "Astral Body", "Psychic", "NA", "Frisk", "Competitive", "Shadow Tag", "25", "75", "42", "54", "3 Sp. Def.", "80", "0", "20", "14", "107","Medium Slow","221"],
+		["Steenee", "762", "Fruit", "Grass", "NA", "Leaf Guard", "Oblivious", "Sweet Veil", "0", "100", "18", "34", "2 Speed", "80", "0", "20", "3", "45","Medium Slow","102"],
+		[ "Tsareena", "763", "Fruit", "Grass", "NA", "Leaf Guard", "Queenly Majesty", "Sweet Veil", "0", "100", "35", "50", "3 Atk.", "80", "0", "20", "13", "107","Medium Slow","230"	],
+		["Pangoro", "675", "Daunting", "Fighting", "Dark", "Iron Fist", "Mold Breaker", "Scrappy", "50", "50", "33", "49", "2 Atk.", "80", "0", "20", "12", "101","Medium Fast","173"],
+		["Honchkrow", "430", "Big Boss", "Dark", "Flying", "Insomnia", "Super Luck", "Moxie", "50", "50", "30", "50", "2 Atk.", "80", "0", "20", "10", "89","Medium Slow","177"],
+		["Duosion", "578", "Mitosis", "Psychic", "NA", "Overcoat", "Magic Guard", "Regenerator", "50", "50", "32", "40", "2 Sp. Atk.", "80", "0", "20", "6", "50","Medium Slow","130"],
+		["Reuniclus", "579", "Multiplying", "Psychic", "NA", "Overcoat", "Magic Guard", "Regenerator", "50", "50", "41", "50", "3 Sp. Atk.", "80", "0", "20", "14", "132","Medium Slow","221"],
+		["Gloom", "044", "Weed", "Grass", "Poison", "Chlorophyll", "NA", "Stench", "50", "50", "21", "50", "2 Sp. Atk.", "80", "0", "20", "5", "50","Medium Slow","138"],
+		["Bellossom", "182", "Flower", "Grass", "NA", "Chlorophyll", "NA", "Healer", "50", "50", "35", "50", "3 Sp. Def.", "80", "0", "20", "13", "107","Medium Slow","221"],
+		["Bayleef", "153", "Leaf", "Grass", "NA", "Overgrow", "NA", "Leaf Guard", "87.5", "12.5", "16", "32", "1 Def., 1 Sp. Def.", "80", "0", "20", "5", "40","Medium Slow","142"],
+		["Meganium", "154", "Hebr", "Grass", "NA", "Overgrow", "NA", "Leaf Guard", "87.5", "12.5", "32", "50", "1 Def., 2 Sp. Def.", "80", "0", "20", "13", "112","Medium Slow","236"],
+		["Floragato", "907", "Grass Cat", "Grass", "NA", "Overgrow", "NA", "Protean", "87.5", "12.5", "16", "36", "2 Speed", "80", "0", "20", "5", "40","Medium Slow","144"],
+		["Meowscarada", "908", "Grass Cat", "Grass", "NA", "Overgrow", "NA", "Protean", "87.5", "12.5", "36", "50", "3 Speed", "80", "0", "20", "13", "112","Medium Slow","265"],
+		["Zweilous", "634", "Hostile", "Dark", "Dragon", "Hustle", "NA", "NA", "50", "50", "51", "63", "2 Atk.", "80", "0", "20", "6", "50","Slow","147"],
+		["Hydreigon", "634", "Brutal", "Dark", "Dragon", "Levitate", "NA", "NA", "50", "50", "65", "71", "3 Sp. Atk.", "80", "0", "20", "14", "117","Slow","270"],
+		["Shuckle", "213", "Mold", "Bug", "Rock", "Sturdy", "Gluttony", "Contrary", "50", "50", "5", "45", "1 Def.,1 Sp. Def.", "80", "0", "20", "4", "25","Medium Slow","177"],
+		["Shiftry", "275", "Wicked", "Grass", "Dark", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "20", "65", "3 Atk.", "80", "0", "20", "9", "88","Medium Slow","216"],
+		["Thievul", "828", "Fox", "Dark", "NA", "Run Away", "Unburden", "Stakeout", "50", "50", "18", "35", "2 Sp. Def.", "80", "0", "20", "11", "83","Fast","159"],
+		["Sawsbuck(Summer)", "586", "Season", "Normal", "Grass", "Chlorophyll", "Sap Sipper", "Serene Grace", "50", "50", "35", "47", "2 Atk.", "80", "0", "20", "10", "55","Medium Fast","166"]
+
+	],
+	"rocksmashCommon": [
+		[ "Roggenrola", "524", "Mantle", "Rock", "NA", "Sturdy", "Weak Armor", "Sand Force", "50", "50", "7", "16", "1 Def.", "80", "0", "20", ".5", "18", "Medium Slow", "56" ]
+	],
+	"rocksmashUncommon": [
+		[ "Shuckle", "213", "Mold", "Bug", "Rock", "Sturdy", "Gluttony", "Contrary", "50", "50", "5", "45", "1 Def.,1 Sp. Def.", "80", "0", "20", "4", "25", "Medium Slow", "177" ],
+		[ "Diglett", "050", "Mole", "Ground", "NA", "Sand Veil", "Arena Trap", "Sand Force", "50", "50", "10", "26", "1 Speed", "80", "0", "20", ".5", "18", "Medium Fast", "53" ]
+	],
+	"rocksmashRare": [
+		[ "Dugtrio", "051", "Mole", "Ground", "NA", "Sand Veil", "Arena Trap", "Sand Force", "50", "50", "26", "39", "2 Speed", "80", "0", "20", "8", "55", "Medium Fast", "149" ]
+
+	],
+	"rocksmashVeryRare": [],
+	"rocksmashUltraRare": [
+		[ "Boldore", "525", "Ore", "Rock", "NA", "Sturdy", "Weak Armor", "Sand Force", "50", "50", "25", "40", "1 Atk.,1 Def.", "80", "0", "20", "7", "55", "Medium Slow", "137" ],
+		[ "Gigalith", "526", "Compressed", "Rock", "NA", "Sturdy", "Sand Stream", "Sand Force", "50", "50", "40", "49", "3 Atk.", "80", "0", "20", "14", "122", "Medium Slow", "232" ]
+	],
+	"sweetscentCommon": [],
+	"sweetscentUncommon": [
+		[ "Karrablast", "588", "Clamping", "Bug", "NA", "Swarm", "Shed Skin", "No Guard", "50", "50", "15", "24", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Fast", "63" ],
+		[ "Bounsweet", "761", "Fruit", "Grass", "NA", "Leaf Guard", "Oblivious", "Sweet Veil", "0", "100", "5", "17", "1 HP", "80", "0", "20", ".25", "16", "Medium Slow", "42" ],
+		[ "Oddish", "043", "Weed", "Grass", "Poison", "Chlorophyll", "NA", "Run Away", "50", "50", "5", "21", "1 Sp. Atk.", "80", "0", "20", ".25", "17", "Medium Slow", "64" ],
+		[ "Seedot", "273", "Acorn", "Grass", "NA", "Chlorophyll", "Early Bird", "Pickpocket", "50", "50", "2", "13", "1 Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44" ]
+	],
+	"sweetscentRare": [
+		[ "Steenee", "762", "Fruit", "Grass", "NA", "Leaf Guard", "Oblivious", "Sweet Veil", "0", "100", "18", "34", "2 Speed", "80", "0", "20", "3", "45", "Medium Slow", "102" ]
+	],
+	"sweetscentVeryRare": [],
+	"sweetscentUltraRare": [
+
+		[ "Tsareena", "763", "Fruit", "Grass", "NA", "Leaf Guard", "Queenly Majesty", "Sweet Veil", "0", "100", "35", "50", "3 Atk.", "80", "0", "20", "13", "107", "Medium Slow", "230" ]
+	],
+	"headbuttCommon": [],
+	"headbuttUncommon": [
+		[ "Blipbug", "824", "Larva", "Bug", "NA", "Swarm", "Compound Eyes", "Telepathy", "50", "50", "2", "9", "1 Sp. Def.", "80", "0", "20", ".25", "16", "Medium Fast", "36" ],
+		[ "Bounsweet", "761", "Fruit", "Grass", "NA", "Leaf Guard", "Oblivious", "Sweet Veil", "0", "100", "5", "17", "1 HP", "80", "0", "20", ".25", "16", "Medium Slow", "42" ]
+	],
+	"headbuttRare": [],
+	"headbuttVeryRare": [
+		[ "Dottler", "825", "Radome", "Bug", "Psychic", "Swarm", "Compound Eyes", "Telepathy", "50", "50", "10", "25", "2 Sp. Def.", "80", "0", "20", "6", "50", "Medium Fast", "117" ]
+	],
+	"headbuttUltraRare": [],
+	"itemsCommon": ["Poke Ball", "Blue Pansy", "Orange Pansy", "Pink Pansy", "Purple Pansy", "Red Pansy", "Yellow Pansy", "Honey", "Mid Green Leaf"],
+	"itemsUncommon": ["Great Ball", "Figy Berry", "Wiki Berry", "Mago Berry", "Aguav Berry", "Iapapa Berry"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Dusk Ball", "Absorb Bulb", "Mental Herb", "Power Herb", "Leaf Stone", "Dusk Stone"],
+	"itemsVeryRare": ["TM Grass Knot", "TM Embargo", "Black Glasses", "Miracle Seed"],
+	"itemsUltraRare": ["Big Root", "TM Giga Drain", "TM Dark Pulse", "TM U-Turn", "Mirror Herb", "Eviolite", "Light Clay"]
+}

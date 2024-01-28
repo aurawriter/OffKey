@@ -1,0 +1,115 @@
+{
+	"connections": ["Falnook Town", "Litore City", "Lake Lacustrine"],
+	"goals": [
+		["Lake Lacustrine", "Falnook Town", "4"],
+		["Falnook Town", "Lake Lacustrine", "4"],
+		["Lake Lacustrine", "Litore City", "6"],
+		["Litore City", "Lake Lacustrine", "6"],
+		["Falnook Town", "Litore City", "10"],
+		["Litore City", "Falnook Town", "10"]
+	],
+	"locationColor": "#046167",
+	"locationName": "Train Track Path",
+	"locationDescription": "Due to the increasing popularity of flying taxis, the demand for train rides has gone down significantly, leaving only a few to run during the day. Although traversing along the path by foot is highly discouraged, many trainers and thrill seekers take the risk anyway. The train track itself is often closed for repairs due to the Aron and Lairon in the area feasting upon its metal, despite efforts to relocate them",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you want to claim the item, you have to defeat it!"],
+		["SweetScent", "A sweet scent is wafting through the area...if you stick around, a Pokemon may appear!"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["DistressedPokemon", "A bunch of Aron are chewing on the rails. Chase them off?"],
+		["Roll Train!!!", "There's a train headed right for you!"],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"],
+		["Scenery", "Nowhere to go but forward"],
+		["Scenery", "The path is easy to follow at least."],
+		["Scenery", "Not much to look at."],
+		["Scenery", "Smells like efficient transportation"],
+		["Scenery", "Chugga chugga, chugga chugga choo choo!"]
+	],
+	"trainersList": [
+		["Ninja Boy","","Male","16","Koffing","Weezing","Ninjask","Shedinja"],
+		["Backpacker","","Male","40","Rolycoly","Roggenrola","Nacli"],
+		["Hiker","","Male","40","Rolycoly","Roggenrola","Nacli"]
+	],
+	"landCommon": [
+		["Rolycoly", "837", "Coal", "Rock", "NA", "Steam Engine", "Heatproof", "Flash Fire`", "50", "50", "7", "16", "1 Def.", "80", "0", "20", ".5", "18","Medium Slow","48"],
+		["Roggenrola", "524", "Mantle", "Rock", "NA", "Sturdy", "Weak Armor", "Sand Force", "50", "50", "7", "16", "1 Def.", "80", "0", "20", ".5", "18","Medium Slow","56"],
+		["Nacli", "932", "Rock Salt", "Rock", "NA", "Purifying Salt", "Sturdy", "Clear Body", "50", "50", "13", "22", "1 Def.", "80", "0", "20", ".5", "18","Medium Slow","56"],
+		["Bunnelby", "659", "Digging", "Normal", "NA", "Pickup", "Cheek Pouch", "Huge Power", "50", "50", "5", "19", "1 Speed", "80", "0", "20", ".25", "16","Medium Fast","47"]
+	],
+	"landUncommon": [
+		["Aron", "304", "Iron Armor", "Steel", "Rock", "Sturdy", "Rock Head", "Heavy Metal", "50", "50", "15", "27", "1 Def.", "40", "60", "0", ".5", "17","Slow","66"],
+		["Carkol", "838", "Coal", "Rock", "Fire", "Steam Engine", "Heatproof", "Flash Fire", "50", "50", "18", "32", "2 Def.", "80", "0", "20", "7", "55","Medium Slow","144"],
+		["Klink", "599", "Gear", "Steel", "NA", "Plus", "Minus", "Clear Body", "0", "0", "5", "38", "1 Def.", "80", "0", "20", ".5", "17","Medium Slow","60"],
+		["Tinkatink", "957", "Metalsmith", "Fairy", "Steel", "Mold Breaker", "Own Tempo", "Pickpocket", "0", "100", "5", "23", "1 Sp. Def.", "0", "50", "50", "1", "20","Medium Slow","59"],
+		["Orthworm", "968", "Earthworm", "Steel", "NA", "Earth Eater", "NA", "Sand Veil", "50", "50", "25", "55", "2 Def.", "80", "0", "20", "7", "50","Slow","240"],
+		["Ferroseed", "597", "Thorn Seed", "Grass", "Steel", "Iron Barbs", "NA", "NA", "50", "50", "15", "25", "1 Def.", "80", "0", "20", "2", "19","Medium Fast","61"],
+		["Shelmet", "616", "Snail", "Bug", "NA", "Hydration", "Shell Armor", "Overcoat", "50", "50", "15", "24", "1 Def.", "80", "0", "20", "1", "17","Medium Fast","61"],
+		["Baltoy", "343", "Clay Doll", "Ground", "Psyhic", "Levitate", "NA", "NA", "0", "0", "20", "25", "1 Sp. Def.", "80", "0", "20", "1", "17","Medium Fast","60"],
+		["Nincada", "290", "Trainee", "Bug", "Ground", "Compound Eyes", "NA", "Run Away", "50", "50", "5", "18", "1 Def.", "80", "0", "20", ".25", "16","Erratic","53"]
+	],
+	"landRare": [
+		["Skarmory", "227", "Armor Bird", "Steel", "Flying", "Keen Eye", "Sturdy", "Weak Armor", "50", "50", "10", "50", "2 Def.", "80", "0", "20", "10", "68","Slow","163"]
+	],
+	"landVeryRare": [
+		["Lairon", "305", "Iron Armor", "Steel", "Rock", "Sturdy", "Rock Head", "Heavy Metal", "50", "50", "40", "60", "2 Def.", "0", "50", "50", "8", "55","Slow","151"],
+		["Tinkatuff", "958", "Hammer", "Fairy", "Steel", "Mold Breaker", "Own Tempo", "Pickpocket", "0", "100", "24", "37", "2 Sp. Def.", "0", "40", "60", "6", "52","Medium Slow","133"],
+		["Naclstack", "933", "Rock Salt", "Rock", "NA", "Purifying Salt", "Sturdy", "Clear Body", "50", "50", "25", "36", "2 Def.", "80", "0", "20", "7", "55","Medium Slow","124"]
+	],
+	"landUltraRare": [
+		["Aggron", "306", "Iron Armor", "Steel", "Rock", "Sturdy", "Rock Head", "Heavy Metal", "50", "50", "40", "60", "3 Def.", "0", "30", "70", "14", "140","Slow","239"],
+		["Coalossal", "839", "Coal", "Rock", "Fire", "Steam Engine", "Flame Body", "Flash Fire", "50", "50", "35", "50", "3 Def.", "80", "0", "20", "14", "122","Medium Slow","255"],
+		["Boldore", "525", "Ore", "Rock", "NA", "Sturdy", "Weak Armor", "Sand Force", "50", "50", "25", "40", "1 Atk.,1 Def.", "80", "0", "20", "7", "55","Medium Slow","137"],
+		["Gigalith", "526", "Compressed", "Rock", "NA", "Sturdy", "Sand Stream", "Sand Force", "50", "50", "40", "49", "3 Atk.", "80", "0", "20", "14", "122","Medium Slow","232"],
+		["Klang", "600", "Gear", "Steel", "NA", "Plus", "Minus", "Clear Body", "0", "0", "38", "48", "2 Def.", "80", "0", "20", "7", "50","Medium Slow","154"],
+		["Klinklang", "601", "Gear", "Steel", "NA", "Plus", "Minus", "Clear Body", "0", "0", "49", "60", "3 Def.", "80", "0", "20", "14", "112","Medium Slow","234"],
+		["Tinkaton", "959", "Hammer", "Fairy", "Steel", "Mold Breaker", "Own Tempo", "Pickpocket", "0", "100", "39", "50", "3 Sp. Def.", "0", "30", "70", "9", "63","Medium Slow","253"],
+		["Garganacl", "934", "Rock Salt", "Rock", "NA", "Purifying Salt", "Sturdy", "Clear Body", "50", "50", "39", "50", "3 Def.", "80", "0", "20", "14", "122","Medium Slow","250"],
+		["Mawile", "303", "Deceiver", "Steel", "Fairy", "Hyper Cutter", "Intimidate", "Sheer Force", "50", "50", "33", "46", "1 Atk., 1 Def.", "80", "0", "20", "7", "40","Fast","133"],
+		["Ferrothorn", "597", "Thorn Pod", "Grass", "Steel", "Iron Barbs", "NA", "Anticipation", "50", "50", "41", "53", "2 Def.", "80", "0", "20", "10", "66","Medium Fast","171"],
+		["Nosepass", "299", "Compass", "Rock", "NA", "Sturdy", "Magnet Pull", "Sand Force", "50", "50", "10", "50", "1 Def.", "80", "0", "20", "4", "21","Medium Fast","75"],
+		["Probopass", "476", "Compass", "Rock", "Steel", "Sturdy", "Magnet Pull", "Sand Force", "50", "50", "35", "50", "1 Def.,2 Sp. Def.", "80", "0", "20", "13", "97","Medium Fast","184"],
+		[ "Claydol", "344", "Clay Doll", "Ground", "Psyhic", "Levitate", "NA", "NA", "0", "0", "40", "50", "2 Sp. Def.", "80", "0", "20", "11", "88","Medium Fast","175"],
+		["Diggersby", "660", "Digging", "Normal", "Ground", "Pickup", "Cheek Pouch", "Huge Power", "50", "50", "21", "35", "2 Atk.", "80", "0", "20", "8", "57","Medium Fast","148"],
+		["Ninjask", "291", "Ninja", "Bug", "Flying", "Speed Boost", "NA", "Infiltrator", "50", "50", "20", "40", "2 Speed", "80", "0", "20", "6", "40","Erratic","160"],
+		["Shedinja", "292", "Shed", "Bug", "Ghost", "Wonder Guard", "NA", "NA", "0", "0", "20", "40", "2 HP", "80", "0", "20", "1", "1","Erratic","83"]
+	],
+	"rocksmashCommon": [
+		[ "Roggenrola", "524", "Mantle", "Rock", "NA", "Sturdy", "Weak Armor", "Sand Force", "50", "50", "7", "16", "1 Def.", "80", "0", "20", ".5", "18", "Medium Slow", "56" ]
+	],
+	"rocksmashUncommon": [
+		[ "Aron", "304", "Iron Armor", "Steel", "Rock", "Sturdy", "Rock Head", "Heavy Metal", "50", "50", "15", "27", "1 Def.", "40", "60", "0", ".5", "17", "Slow", "66" ],
+		[ "Rolycoly", "837", "Coal", "Rock", "NA", "Steam Engine", "Heatproof", "Flash Fire`", "50", "50", "7", "16", "1 Def.", "80", "0", "20", ".5", "18", "Medium Slow", "48" ]
+	],
+	"rocksmashRare": [
+		[ "Carkol", "838", "Coal", "Rock", "Fire", "Steam Engine", "Heatproof", "Flash Fire", "50", "50", "18", "32", "2 Def.", "80", "0", "20", "7", "55", "Medium Slow", "144" ]
+	],
+	"rocksmashVeryRare": [
+		[ "Lairon", "305", "Iron Armor", "Steel", "Rock", "Sturdy", "Rock Head", "Heavy Metal", "50", "50", "40", "60", "2 Def.", "0", "50", "50", "8", "55", "Slow", "151" ]
+	],
+	"rocksmashUltraRare": [
+		[ "Boldore", "525", "Ore", "Rock", "NA", "Sturdy", "Weak Armor", "Sand Force", "50", "50", "25", "40", "1 Atk.,1 Def.", "80", "0", "20", "7", "55", "Medium Slow", "137" ],
+		[ "Gigalith", "526", "Compressed", "Rock", "NA", "Sturdy", "Sand Stream", "Sand Force", "50", "50", "40", "49", "3 Atk.", "80", "0", "20", "14", "122", "Medium Slow", "232" ]
+	],
+	"sweetscentCommon": [],
+	"sweetscentUncommon": [
+		[ "Shelmet", "616", "Snail", "Bug", "NA", "Hydration", "Shell Armor", "Overcoat", "50", "50", "15", "24", "1 Def.", "80", "0", "20", "1", "17", "Medium Fast", "61" ],
+		[ "Baltoy", "343", "Clay Doll", "Ground", "Psyhic", "Levitate", "NA", "NA", "0", "0", "20", "25", "1 Sp. Def.", "80", "0", "20", "1", "17", "Medium Fast", "60" ],
+		[ "Nincada", "290", "Trainee", "Bug", "Ground", "Compound Eyes", "NA", "Run Away", "50", "50", "5", "18", "1 Def.", "80", "0", "20", ".25", "16", "Erratic", "53" ]
+	],
+	"sweetscentRare":[],
+	"sweetscentVeryRare": [
+		[ "Claydol", "344", "Clay Doll", "Ground", "Psyhic", "Levitate", "NA", "NA", "0", "0", "40", "50", "2 Sp. Def.", "80", "0", "20", "11", "88", "Medium Fast", "175" ]
+	],
+	"sweetscentUltraRare":[],
+	"itemsCommon": ["Poke Ball"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "TM Rock Smash", "Protector"],
+	"itemsVeryRare": ["TM Psych Up", "Metal Coat", "Hard Rock", "Nugget"],
+	"itemsUltraRare": ["TM Steel Wing", "TM Iron Tail", "TM Gyro Ball", "Big Nugget"]
+}

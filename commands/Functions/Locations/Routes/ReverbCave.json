@@ -1,0 +1,143 @@
+{
+	"connections": ["Yarnhop Village", "Sunnet Town"],
+	"goals": [
+		["Yarnhop Village", "Sunnet Town", "7"],
+		["Sunnet Town", "Yarnhop Village", "7"]
+	],
+	"locationColor": "#2D2008",
+	"locationName": "Reverb Cave",
+	"locationDescription": "A rather beautiful and expansive cave system that seems to echo music if one listens closely enough. Giant stalagmites hang from the ceiling. The air is cool and moist due to the multiple waterfalls and ponds large enough for a swim, if you're brave enough. For those looking for a baby step into cave exploration, Reverb Cave is a good palce to start, due to its high ceilings and few passages. Although becoming lost is unlikely, many Pokemon living inside are friendly enough to help the rare straggler find their way back out.",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["Fishing", "There's a pool of water just perfect for fishing if you have a fishing rod, but it'll take some time"],
+		["SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?"],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["Scenery", "Smells like rocks."],
+		["Scenery", "You hear singing in the distance, somewhere by water. It almost sounds human."],
+		["Scenery", "Glowing crystals decorate the walls."],
+		["Scenery", "The crystals make delightful tingling sounds, like a wind chime."],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"]
+	],
+	"trainersList": [
+		[ "Guitarist", "#78C850", "Female", "28", "Noibat", "Kricketot", "Whismur", "Chingling" ],
+		[ "Battle Girl", "#78C850", "Female", "32", "Hakamo-o", "Kommo-o" ],
+		[ "Black Belt", "#78C850", "Female", "32", "Hakamo-o", "Kommo-o" ],
+		[ "Karate Girl", "#78C850", "Female", "32", "Hakamo-o", "Kommo-o" ],
+		[ "Ruin Maniac", "#78C850", "Female", "28", "Bronzor" ],
+		[ "Angler", "#A8B820", "Male", "60", "Tynamo", "Eelektrik", "Eelektross", "Relicanth" ],
+		[ "Fisherman", "#A8B820", "Male", "60", "Tynamo", "Eelektrik", "Eelektross", "Relicanth" ]
+	],
+	"landCommon": [],
+	"landUncommon": [
+		["Woobat", "527", "Bat", "Psychic", "Flying", "Unaware", "Klutz", "Simple", "50", "50", "15", "24", "1 Speed", "80", "0", "20", ".5", "18","Medium Fast","65"],
+		["Noibat", "714", "Sound Wave", "Flying", "Dragon", "Frisk", "Infiltrator", "50", "50", "31", "37", "1 Speed", "80", "0", "20", "1", "16","Medium Fast","49"],
+		["Snubbull", "209", "Fairy", "Fairy", "NA", "Intimidate", "Run Away", "Rattled", "25", "75", "5", "22", "1 Atk.", "80", "0", "20", "1", "16","Fast","60"],
+		["Carbink", "703", "Rock", "Fairy", "Clear Body", "NA", "Sturdy", "0", "0", "12", "23", "1 Def.,1 Sp. Def.", "80", "0", "20", "10", "68","Slow","100"],
+		["Impidimp", "859", "Wily", "Dark", "Fairy", "Prankster", "Frisk", "Pickpocket", "100", "0", "10", "30", "1 Sp. Atk.", "80", "0", "20", ".25", "17","Medium Fast","53"],
+		["Kricketot", "401", "Cricket", "Bug", "NA", "Shed Skin", "NA", "Run Away", "50", "50", "5", "15", "1 Def.", "80", "0", "20", ".25", "16","Medium Slow","39"],
+		["Chingling", "433", "Bell", "Psychic", "NA", "Levitate", "NA", "NA", "50", "50", "20", "24", "1 Sp. Atk.", "80", "0", "20", "1", "17","Fast","57"]
+	],
+	"landRare": [
+		["Whismur", "293", "Whisper", "Normal", "NA", "Soundproof", "NA", "Rattled", "50", "50", "5", "15", "1 HP", "80", "0", "20", ".125", "17","Medium Slow","48"],
+		["Bronzor", "436", "Bronze", "Steel", "Psychic", "Levitate", "Heatproof", "Heavy Metal", "0", "0", "20", "30", "1 Def.", "80", "0", "20", "2", "19","Medium Fast","60"],
+		["Wobbuffet", "202", "Patient", "Psychic", "NA", "Shadow Tag", "NA", "Telepathy", "50", "50", "15", "30", "2 HP", "80", "0", "20", "6", "80","Medium Fast","142"],
+		["Jangmo-o", "782", "Scaly", "Dragon", "NA", "Bulletproof", "Soundproof", "Overcoat", "50", "50", "15", "34", "1 Def.", "80", "0", "20", "1", "17","Slow","60"],
+		["Sableye", "302", "Darkness", "Dark", "Ghost", "Keen Eye", "Stall", "Prankster", "50", "50", "10", "35", "1 Atk.,1 Def.", "80", "0", "20", "7", "35","Medium Slow","133"]
+	],
+	"landVeryRare": [
+		["Loudred", "294", "Big Voice", "Normal", "NA", "Soundproof", "NA", "Scrappy", "50", "50", "20", "40", "2 HP", "80", "0", "20", "5", "45","Medium Slow","126"],
+		["Wynaut", "360", "Bright", "Psychic", "NA", "Shadow Tag", "NA", "Telepathy", "50", "50", "5", "10", "1 HP", "80", "0", "20", ".25", "18","Medium Fast","52"],
+		["Morgrem", "860", "Devious", "Dark", "Fairy", "Prankster", "Frisk", "Pickpocket", "100", "0", "32", "40", "2 Sp. Atk.", "80", "0", "20", "6", "87","Medium Fast","130"],
+		["Chimecho", "358", "Wind Chime", "Psychic", "NA", "Levitate", "NA", "NA", "50", "50", "28", "33", "1 Sp. Atk.,1 Sp. Def.", "80", "0", "20", "11", "83","Fast","159"],
+		["Popplio", "728", "Sea Lion", "Water", "NA", "Torrent", "NA", "Liquid Voice", "87.5", "12.5", "5", "16", "1 Sp. Atk.", "80", "0", "20", ".5", "17","Medium Slow","64"]
+	],
+	"landUltraRare": [
+		["Swoobat", "528", "Courting", "Psychic", "Flying", "Unaware", "Klutz", "Simple", "50", "50", "27", "39", "2 Speed", "80", "0", "20", "7", "50","Medium Fast","149"],
+		["Exploud", "295", "Loud Noise", "Normal", "NA", "Soundproof", "NA", "Scrappy", "50", "50", "40", "60", "3 HP", "80", "0", "20", "11", "107","Medium Slow","221"],
+		["Noivern", "715", "Sound Wave", "Flying", "Dragon", "Frisk", "Infiltrator", "Telepathy", "50", "50", "48", "60", "2 Speed", "80", "0", "20", "13", "102","Medium Fast","187"],
+		["Cleffa", "173", "Star Shape", "Fairy", "NA", "Cute Charm", "Magic Guard", "Friend Guard", "25", "75", "5", "10", "1 Sp. Def.", "80", "0", "20", ".125", "12","Fast","44"],
+		["Clefairy", "035", "Fairy", "Fairy", "NA", "Cute Charm", "Magic Guard", "Friend Guard", "25", "75", "15", "20", "2 HP", "80", "0", "20", "1", "18","Fast","113"],
+		["Clefable", "036", "Fairy", "Fairy", "NA", "Cute Charm", "Magic Guard", "Friend Guard", "25", "75", "38", "50", "3 HP", "80", "0", "20", "8", "51","Fast","217"],
+		["Granbull", "210", "Fairy", "Fairy", "NA", "Intimidate", "Quick Feet", "Rattled", "25", "75", "23", "60", "2 Atk.", "80", "0", "20", "5", "45","Fast","158"],
+		["Bronzong", "437", "Bronze Bell", "Steel", "Psychic", "Levitate", "Heatproof", "Heavy Metal", "0", "0", "40", "50", "1 Def.,1 Sp. Def.", "80", "0", "20", "11", "60","Medium Fast","175"],
+		["Dunsparce", "206", "Land Snake", "Normal", "NA", "Serene Grace", "Run Away", "Rattled", "50", "50", "5", "30", "1 HP", "80", "0", "20", "2", "20","Medium Fast","145"],
+		["Grimmsnarl", "861", "Bulk Up", "Dark", "Fairy", "Prankster", "Frisk", "Pickpocket", "100", "0", "42", "55", "3 Atk.", "80", "0", "20", "12", "101","Medium Fast","255"],
+		["Kricketune", "402", "Cricket", "Bug", "NA", "Swarm", "NA", "Technician", "50", "50", "15", "25", "2 Atk.", "80", "0", "20", "5", "45","Medium Slow","134"],
+		["Brionne", "729", "Pop Star", "Water", "NA", "Torrent", "NA", "Liquid Voice", "87.5", "12.5", "17", "33", "2 Sp. Atk.", "80", "0", "20", "5", "50","Medium Slow","147"],
+		["Hakamo-o", "783", "Scaly", "Dragon", "Fighting", "Bulletproof", "Soundproof", "Overcoat", "50", "50", "35", "44", "2 Def.", "80", "0", "20", "7", "50","Slow","147"],
+		["Kommo-o", "784", "Scaly", "Dragon", "Fighting", "Bulletproof", "Soundproof", "Overcoat", "50", "50", "45", "60", "3 Def.", "80", "0", "20", "14", "170","Slow","270"],
+		["Igglybuff", "174", "Balloon", "Normal", "Fairy", "Cute Charm", "Competitive", "Friend Guard", "25", "75", "5", "14", "1 HP", "80", "0", "20", ".125", "12","Fast","42"],
+		["Jigglypuff", "039", "Balloon", "Normal", "Fairy", "Cute Charm", "Competitive", "Friend Guard", "25", "75", "10", "50", "2 HP", "80", "0", "20", "1", "18","Fast","95"],
+		["Wigglytuff", "040", "Balloon", "Normal", "Fairy", "Cute Charm", "Competitive", "Frisk", "25", "75", "30", "50", "3 HP", "80", "0", "20", "6", "56","Fast","196"]
+	],
+	"sweetscentCommon": [],
+	"sweetscentUncommon": [
+		[ "Whismur", "293", "Whisper", "Normal", "NA", "Soundproof", "NA", "Rattled", "50", "50", "5", "15", "1 HP", "80", "0", "20", ".125", "17", "Medium Slow", "48" ],
+		[ "Dunsparce", "206", "Land Snake", "Normal", "NA", "Serene Grace", "Run Away", "Rattled", "50", "50", "5", "30", "1 HP", "80", "0", "20", "2", "20", "Medium Fast", "145" ],
+		[ "Impidimp", "859", "Wily", "Dark", "Fairy", "Prankster", "Frisk", "Pickpocket", "100", "0", "10", "30", "1 Sp. Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "53" ]
+	],
+	"sweetscentRare": [],
+	"sweetscentVeryRare": [],
+	"sweetscentUltraRare": [
+		[ "Morgrem", "860", "Devious", "Dark", "Fairy", "Prankster", "Frisk", "Pickpocket", "100", "0", "32", "40", "2 Sp. Atk.", "80", "0", "20", "6", "87", "Medium Fast", "130" ]
+
+	],
+	"waterCommon": [],
+	"waterUncommon": [
+		["Tynamo", "602", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "24", "38", "1 Speed", "80", "0", "20", ".25", "16","Slow","55"],
+		["Tadbulb", "938", "EleTadpole", "Electric", "NA", "Own Tempo", "Static", "Damp", "50", "50", "12", "35", "1 HP", "80", "0", "20", ".25", "45","Medium Fast","54"]
+
+	],
+	"waterRare": [],
+	"waterVeryRare": [
+		[ "Popplio", "728", "Sea Lion", "Water", "NA", "Torrent", "NA", "Liquid Voice", "87.5", "12.5", "5", "16", "1 Sp. Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "64" ],
+		["Bellibolt", "939", "EleFrog", "Electric", "NA", "Electromorphosis", "Static", "Damp", "50", "50", "35", "60", "2 HP", "80", "0", "20", "12", "62","Medium Fast","173"]
+	],
+	"waterUltraRare": [
+		[ "Eelektrik", "603", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "40", "52", "2 Atk.", "80", "0", "20", "5", "50", "Slow", "142" ],
+		[ "Eelektross", "604", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "53", "64", "2 Atk.", "80", "0", "20", "12", "102", "Slow", "232" ],
+		[ "Brionne", "729", "Pop Star", "Water", "NA", "Torrent", "NA", "Liquid Voice", "87.5", "12.5", "17", "33", "2 Sp. Atk.", "80", "0", "20", "5", "50", "Medium Slow", "147" ],
+		[ "Primarina", "730", "Soloist", "Water", "Fairy", "Torrent", "NA", "Liquid Voice", "87.5", "12.5", "34", "55", "3 Sp. Atk.", "80", "0", "20", "13", "107", "Medium Slow", "239" ],
+		[ "Relicanth", "369", "Longevity", "Water", "Rock", "Swift Swim", "Rock Head", "Sturdy", "87.5", "12.5", "30", "35", "1 HP.,1 Def.", "80", "0", "20", "8", "42", "Slow", "170" ]
+	],
+	"oldrodCommon": [],
+	"oldrodUncommon": [],
+	"oldrodRare": [],
+	"oldrodVeryRare": [],
+	"oldrodUltraRare": [
+		[ "Tynamo", "602", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "24", "38", "1 Speed", "80", "0", "20", ".25", "16", "Slow", "55" ]
+	],
+	"goodrodCommon": [],
+	"goodrodUncommon": [],
+	"goodrodRare": [],
+	"goodrodVeryRare": [
+		[ "Tynamo", "602", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "24", "38", "1 Speed", "80", "0", "20", ".25", "16", "Slow", "55" ]
+	],
+	"goodrodUltraRare": [
+		[ "Eelektrik", "603", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "40", "52", "2 Atk.", "80", "0", "20", "5", "50", "Slow", "142" ]
+	],
+	"superrodCommon": [],
+	"superrodUncommon": [],
+	"superrodRare": [
+		[ "Tynamo", "602", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "24", "38", "1 Speed", "80", "0", "20", ".25", "16", "Slow", "55" ]
+	],
+	"superrodVeryRare": [
+		[ "Relicanth", "369", "Longevity", "Water", "Rock", "Swift Swim", "Rock Head", "Sturdy", "87.5", "12.5", "30", "35", "1 HP.,1 Def.", "80", "0", "20", "8", "42", "Slow", "170" ]
+	],
+	"superrodUltraRare": [
+		[ "Eelektross", "604", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "53", "64", "2 Atk.", "80", "0", "20", "12", "102", "Slow", "232" ]
+	],
+	"itemsCommon": ["Poke Ball"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Dusk Ball", "TM Sing", "Dawn Stone", "Moon Stone"],
+	"itemsVeryRare": ["TM Dig", "TM Flash", "Hard Rock", "Lagging Tail", "Everstone", "Nugget"],
+	"itemsUltraRare": ["TM Flash Cannon", "TM Secret Power", "TM Rock Slide", "Shell Bell", "Metronome", "Light Clay", "King's Rock", "Eviolite", "Big Nugget"]
+}

@@ -1,0 +1,74 @@
+{
+	"connections": ["Steldom City","Relwick Village"],
+	"goals":
+	[
+		["Steldom City","Relwick Village","8"],
+		["Relwick Village","Steldom City","8"]
+	],
+	"locationColor":"#352B27",
+	"locationName": "Aleya Woods",
+	"locationDescription": "Not much remains of Aleya Woods after the devastating fire that destroyed it and Relwick Town five years ago. The area was once a popular location for Pokemon battles, lending plausibility to the well-known theory that a fight involving a Fire-type Pokemon was the cause behind the blaze. The presence of Fire- and Ghost-type Pokemon now inhabiting the area are presumed to be the reason the forest has been unable to regrow. It stands just as it did when it died, solemn and lifeless.",
+	"happeningsList":
+	[
+		["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon","You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["HiddenItem","You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["Roll Obstacle","The trees are rather thick here...you'll have to go around. Unless you can manage to work your way through."],
+		["Roll Shortcut","The trees are rather thick here...but if you can get through them, you're sure you'll make good progress to getting out"],
+		["Roll Item","There's an item behind some rather thick trees. If you can get through them, it's yours to claim!"],
+		["Scenery","Everything the forest was sits before you, as ash scattered in the wind"],
+		["Scenery","Smells like charcoal"],
+		["Scenery","Some trees still burn, even with nothing left to feed the flames"],
+		["Scenery","There's a somber silence not unlike a graveyard here."],
+		["Scenery","It's quiet"],
+		["Scenery","Smells burnt"],
+		["Scenery","You see a shadowy figure out of the corner of your eyes..."]
+	],
+	"landCommon":
+	[
+		["Litwick","607","Candle","Ghost","Fire","Flash Fire","Flame Body","Infiltrator","50","50","5","25","1 Sp. Atk.","80","0","20",".25","17","Medium Slow","55","50"]
+	],
+	"landUncommon":
+	[
+		["Phantump","708","Stump","Ghost","Grass","Natural Cure","Frisk","Harvest","50","50","15","24","1 Atk.","80","0","20","1","17","Medium Fast","62","50"],
+		["Yamask","562","Spirit","Ghost","NA","Mummy","NA","NA","50","50","10","27","1 Def.","80","0","20","1","17","Medium Fast","61","50"],
+		["Greavard","971","Ghost Dog","Ghost","NA","Pickup","NA","Fluffy","50","50","5","29","1 Atk.","80","0","20",".5","17","Medium Slow","58","50"],
+		["Oricorio(Baile)","741","Dancing","Fire","Flying","Dancer","NA","NA","25","75","10","35","2 Sp. Atk.","80","0","20","7","50","Medium Fast","167","50"],
+		["Cubone","104","Lonely","Ground","NA","Rock Head","Lightning Rod","Battle Armor","50","50","10","28","1 Def.","80","0","20",".5","17","Medium Fast","64","50"],
+		["Shuppet","353","Puppet","Ghost","NA","Insomnia","Frisk","Cursed Body","50","50","15","31","1 Atk.","80","0","20","1","16","Fast","59","35"],
+		["Gligar","207","Fly Scorpion","Ground","Flying","Hyper Cutter","Sand Veil","Immunity","50","50","5","29","1 Def.","0","50","50","3","18","Medium Slow","86","50"]
+	],
+	"landRare":
+	[
+		["Charcadet","935","Fire Child","Fire","NA","Flash Fire","NA","Flame Body","50","50","15","30","1 Sp. Atk.","80","0","20","1","18","Slow","51","50"]
+	],
+	"landVeryRare":
+	[
+		["Chimchar","390","Chimp","Fire","NA","Blaze","NA","Iron Fist","87.5","12.5","5","13","1 Speed","0","50","50",".5","17","Medium Slow","62","50"],
+		["Fuecoco","909","Fire Croc","Fire","NA","Blaze","NA","Unaware","87.5","12.5","5","15","1 HP","80","0","20",".5","17","Medium Slow","62","50"],
+		["Lampent","608","Lamp","Ghost","Fire","Flash Fire","Flame Body","Infiltrator","50","50","41","55","2 Sp.Atk.","80","0","20","6","50","Medium Slow","130","50"]
+	],
+	"landUltraRare":
+	[
+		["Trevenant","709","Elder Tree","Ghost","Grass","Natural Cure","Frisk","Harvest","50","50","25","50","2 Atk.","80","0","20","11","84","Medium Fast","166","50"],
+		["Houndstone","972","Ghost Dog","Ghost","NA","Sand Rush","NA","Fluffy","50","50","30","50","2 Atk.","80","0","20","8","45","Medium Slow","171","50"],
+		["Monferno","391","Playful","Fire","Fighting","Blaze","NA","Iron Fist","87.5","12.5","14","30","1 Sp. Atk.,1 Speed","0","50","50","5","45","Medium Slow","142","50"],
+		["Infernape","392","Flame","Fire","Fighting","Blaze","NA","Iron Fist","87.5","12.5","36","50","1 Atk.,1 Sp.Atk.,1 Speed","0","50","50","12","102","Medium Slow","240","50"],
+		["Crocalor","910","Fire Croc","Fire","NA","Blaze","NA","Unaware","87.5","12.5","16","35","2 Sp. Atk.","80","0","20","5","45","Medium Slow","144","50"],
+		["Skeledirge","911","Singer","Fire","Ghost","Blaze","NA","Unaware","87.5","12.5","36","50","3 Sp. Atk.","80","0","20","12","102","Medium Slow","265","50"],
+		["Marowak","105","Bone Keeper","Ground","NA","Rock Head","Lightning Rod","Battle Armor","50","50","28","50","2 Def.","80","0","20","7","50","Medium Fast","149","50"],
+		["Banette","354","Marionette","Ghost","NA","Insomnia","Frisk","Cursed Body","50","50","35","45","2 Atk.","80","0","20","9","72","Fast","159","35"],
+		["Salazzle","758","Toxic Lizard","Poison","Fire","Corrosion","NA","Oblivious","0","100","35","45","2 Atk.","80","0","20","10","72","Medium Fast","168","50"],
+		["Chandelure","609","Luring","Ghost","Fire","Flash Fire","Flame Body","Infiltrator","50","50","45","60","3 Sp. Atk.","80","0","20","14","107","Medium Slow","234","50"],
+		["Gliscor","472","Fang Scorpion","Ground","Flying","Hyper Cutter","Sand Veil","Poison Heal","50","50","30","45","2 Def.","0","50","50","11","80","Medium Slow","179","50"]
+	],
+	"itemsCommon":["Poke Ball"],
+	"itemsUncommon":["Great Ball","Red Nectar"],
+	"itemsRare":["Max Revive","Ultra Ball","Fire Stone"],
+	"itemsVeryRare":["Charcoal","Flame Orb","Spell Tag","Thick Club"],
+	"itemsUltraRare":["TM Will-O-Wisp","TM Flamethrower"]
+}

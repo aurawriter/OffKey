@@ -1,0 +1,181 @@
+{
+	"connections": ["Construction Site", "Larkspur Town"],
+	"goals": [
+		["Construction Site", "Larkspur Town", "8"],
+		["Larkspur Town", "Construction Site", "8"]
+	],
+	"locationColor": "#7F351C",
+	"locationName": "Boletta Bog",
+	"locationDescription": "An enigmatic location covered in strange mushrooms in strange mushrooms of various sizes and shapes, some up to fifty feet tall. You'll have a hard time spotting a centimeter of ground not plagued with densely packed clusters of fungi. Large bodies of moss-covered water have been known to trick an unkeen eye into believing it were solid ground. It is recommended to anyone looking to traverse the swamp on foot to wear shoes and pants they are prepared to sacrifice to the endless impossible-to-avoid swathes of deep, thick mud.",
+	"happeningsList": [
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!" ],
+		[ "SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?" ],
+		[ "WaterPokemon", "There's a Pokemon on the surface of the water near you." ],
+		[ "WaterPokemon", "There's a Pokemon on the surface of the water near you." ],
+		[ "WaterPokemon", "There's a Pokemon on the surface of the water near you." ],
+		[ "Fishing", "There's a pool of water just perfect for fishing if you have a fishing rod, but it'll take some time" ],
+		[ "TrainerBattle", "When trainers eyes meet.....a fight can break out!" ],
+		[ "HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..." ],
+		[ "Roll StuckInMud", "What you thought was solid ground was actually mud. Now you're ankle deep in it" ],
+		[ "Roll Obstacle", "That might be solid ground ahead of you...if it isn't, you'll have to go around" ],
+		[ "Roll Shortcut", "This way will speed up your journey...assuming that's solid ground!" ],
+		[ "Roll Item", "You can get to that item, if that ground ahead of you is solid..." ],
+		[ "HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..." ],
+		[ "ShakingTree", "That mushroom is shaking...there's sure to be a Pokemon in it! Would you like to shake it?" ],
+		[ "Scenery", "Mushrooms, more mushrooms, too many mushrooms" ],
+		[ "Scenery", "You see a vaguely boot-shaped lump in a patch of mud" ],
+		[ "Scenery", "The air is heavy with humidity" ],
+		[ "Scenery", "If you're here you're a...fun guy!" ],
+		[ "Scenery", "Smells swampy" ],
+		[ "Scenery", "Oh look! A Toedscool! Oh, it's gone." ],
+		[ "Scenery", "Between the Goomy and the mud, this place is really slimy" ],
+		[ "Scenery", "Smells like you can't kill the mushrooms in a way that matters" ],
+		[ "Scenery", "Mushroom, mushroom, mushroom, Linoone, Linoone, Linoone..." ],
+		[ "Scenery", "Do you think the mushrooms that animate the Paras and Parasects could do that to humans...? That'd be the last of us." ],
+		[ "Pokeball?", "There's a Pokeball there if you want to pick it up." ]
+
+	],
+	"trainersList": [
+		[ "Angler", "#A8B820", "Male", "60", "Totodile", "Barboach", "Dewpider", "Araquanid", "Croconaw", "Mudkip", "Whiscash" ],
+		[ "Fisherman", "#A8B820", "Male", "60", "Totodile", "Barboach", "Dewpider", "Araquanid", "Croconaw", "Mudkip", "Whiscash" ],
+		[ "Camper", "#A8B820", "Male", "20", "Shroomish", "Wooper", "Paras", "Foongus", "Oddish", "Goomy", "Croagunk", "Lotad", "Toedscool", "Yanma" ],
+		[ "Picnicker", "#A8B820", "Female", "20", "Shroomish", "Wooper", "Paras", "Foongus", "Oddish", "Goomy", "Croagunk", "Lotad", "Toedscool", "Yanma" ],
+		[ "Fairy Tale Girl", "#A8B820", "Female", "16", "Morelull", "Marill", "Azumarill", "Shiinotic" ]
+	],
+	"landCommon": [
+		[ "Shroomish", "285", "Mushroom", "Grass", "NA", "Effect Spore", "Poison Heal", "Quick Feet", "50", "50", "2", "22", "1 HP", "80", "0", "20", ".5", "18", "Fluctuating", "59", "50" ],
+		[ "Wooper", "194", "Water Fish", "Water", "Ground", "Damp", "Water Absorb", "Unaware", "50", "50", "5", "19", "1 HP", "80", "0", "20", ".25", "17", "Medium Fast", "42", "50" ]
+	],
+	"landUncommon": [
+		[ "Paras", "046", "Mushroom", "Bug", "Grass", "Effect Spore", "Dry Skin", "Damp", "50", "50", "10", "24", "1 Atk.", "80", "0", "20", ".25", "18", "Medium Fast", "57", "50" ],
+		[ "Foongus", "590", "Mushroom", "Grass", "Poison", "Effect Spore", "NA", "Regenerator", "50", "50", "20", "38", "1 HP", "80", "0", "20", ".25", "20", "Medium Fast", "59", "50" ],
+		[ "Morelull", "755", "Illuminating", "Grass", "Fairy", "Illuminate", "Effect Spore", "Rain Dish", "50", "50", "7", "23", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Fast", "57", "50" ],
+		[ "Oddish", "043", "Weed", "Grass", "Poison", "Chlorophyll", "NA", "Run Away", "50", "50", "5", "21", "1 Sp. Atk.", "80", "0", "20", ".25", "17", "Medium Slow", "64", "50" ],
+		["Goomy", "704", "Soft Tissue", "Dragon", "NA", "Sap Sipper", "Hydration", "Gooey", "50", "50", "22", "39", "1 Sp. Def.", "80", "0", "20", ".5", "17","Slow","60","35"],
+		["Croagunk", "453", "Toxic Mouth", "Poison", "Fighting", "Anticipation", "Dry Skin", "Poison Touch", "50", "50", "25", "36", "1 Atk.", "80", "0", "20", ".25", "17","Medium Fast","60","100"],
+		["Marill", "183", "Aqua Mouse", "Water", "Fairy", "Thick Fat", "Huge Power", "Sap Sipper", "50", "50", "5", "17", "2 HP", "80", "0", "20", ".5", "19","Fast","88","50"],
+		["Lotad", "270", "Water Weed", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "3", "14", "1 Sp. Def.", "80", "0", "20", ".25", "17","Medium Slow","44","50"],
+		["Toedscool", "948", "Woodear", "Ground", "Grass", "Mycelium Might", "NA", "NA", "50", "50", "8", "30", "1 Sp. Def.", "80", "0", "20", "2", "18","Medium Slow","67","50"],
+		["Yanma", "193", "Clear Wing", "Bug", "Flying", "Speeed Boost", "Compound Eyes", "Frisk", "50", "50", "5", "25", "1 Speed", "80", "0", "20", "5", "58","Medium Fast","78","50"]
+	],
+	"landRare": [
+		["Azumarill", "184", "Aqua Rabbit", "Water", "Fairy", "Thick Fat", "Huge Power", "Sap Sipper", "50", "50", "18", "50", "3 HP", "80", "0", "20", "6", "51","Fast","189","50"],
+		[ "Quagsire", "195", "Water Fish", "Water", "Ground", "Damp", "Water Absorb", "Unaware", "50", "50", "20", "50", "2 HP", "80", "0", "20", "6", "45", "Medium Fast", "151", "50" ],
+		[ "Parasect", "047", "Mushroom", "Bug", "Grass", "Effect Spore", "Dry Skin", "Damp", "50", "50", "24", "50", "2 Atk.,1 Def.", "80", "0", "20", "7", "55", "Medium Fast", "142", "50" ]
+	],
+	"landVeryRare": [
+		[ "Breloom", "286", "Mushroom","Grass","Fighting", "Effect Spore", "Poison Heal", "Technician", "50", "50", "23", "65", "2 Atk.", "80", "0", "20", "7", "50", "Fluctuating", "161", "50" ],
+		[ "Totodile", "158", "Big Jaw", "Water", "NA", "Torrent", "NA", "Sheer Force", "87.5", "12.5", "10", "18", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "63", "50" ],
+		[ "Mudkip", "258", "Mud Fish", "Water", "NA", "Torrent", "NA", "Damp", "87.5", "12.5", "2", "10", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "62", "50" ],
+		[ "Turtwig", "387", "Tiny Leaf", "Grass", "NA", "Overgrowth", "NA", "Shell Armor", "87.5", "12.5", "10", "13", "1 Atk.", "80", "0", "20", ".5", "18", "Medium Slow", "64", "50" ]
+	],
+	"landUltraRare": [
+		[ "Amoonguss", "591", "Mushroom", "Grass", "Poison", "Effect Spore", "NA", "Regenerator", "50", "50", "40", "55", "2 HP", "80", "0", "20", "8", "66", "Medium Fast", "162", "50" ],
+		[ "Shiinotic", "756", "Illuminating", "Grass", "Fairy", "Illuminate", "Effect Spore", "Rain Dish", "50", "50", "24", "45", "2 Sp. Def.", "80", "0", "20", "8", "60", "Medium Fast", "142", "50" ],
+		[ "Gloom", "044", "Weed", "Grass", "Poison", "Chlorophyll", "NA", "Stench", "50", "50", "21", "50", "2 Sp. Atk.", "80", "0", "20", "5", "50", "Medium Slow", "138", "50" ],
+		[ "Vileplume", "045", "Flower", "Grass", "Poison", "Chlorophyll", "NA", "Effect Spore", "50", "50", "30", "50", "3 Sp. Atk.", "80", "0", "20", "13", "107", "Medium Slow", "221", "50" ],
+		[ "Croconaw", "159", "Big Jaw", "Water", "NA", "Torrent", "NA", "Sheer Force", "87.5", "12.5", "18", "30", "1 Atk., 1 Def.", "80", "0", "20", "5", "50", "Medium Slow", "142", "50" ],
+		[ "Feraligatr", "160", "Big Jaw", "Water", "NA", "Torrent", "NA", "Sheer Force", "87.5", "12.5", "30", "50", "2 Atk., 1 Def.", "80", "0", "20", "13", "107", "Medium Slow", "239", "50" ],
+		[ "Marshtomp", "259", "Mud Fish", "Water", "Ground", "Torrent", "NA", "Damp", "87.5", "12.5", "16", "35", "2 Atk.", "80", "0", "20", "5", "50", "Medium Slow", "142", "50" ],
+		[ "Swampert", "260", "Mud Fish", "Water", "Ground", "Torrent", "NA", "Damp", "87.5", "12.5", "36", "50", "3 Atk.", "80", "0", "20", "13", "117", "Medium Slow", "241", "50" ],
+		[ "Grotle", "388", "Grove", "Grass", "NA", "Overgrowth", "NA", "Shell Armor", "87.5", "12.5", "20", "35", "1 Atk., 1 Def", "80", "0", "20", "5", "50", "Medium Slow", "142", "50" ],
+		[ "Torterra", "389", "Continent", "Grass", "Ground", "Overgrowth", "NA", "Shell Armor", "87.5", "12.5", "36", "45", "2 Atk., 1 Def", "80", "0", "20", "13", "122", "Medium Slow", "236", "50" ],
+		[ "Sliggoo", "705", "Soft Tissue", "Dragon", "NA", "Sap Sipper", "Hydration", "Gooey", "50", "50", "41", "49", "2 Sp. Def.", "80", "0", "20", "10", "84","Slow","158","35" ],
+		[ "Goodra", "706", "Dragon", "Dragon", "NA", "Sap Sipper", "Hydration", "Gooey", "50", "50", "51", "64", "3 Sp. Def.", "80", "0", "20", "14", "140","Slow","270","35" ],
+		[ "Toxicroak", "454", "Toxic Mouth", "Poison", "Fighting", "Anticipation", "Dry Skin", "Poison Touch", "50", "50", "38", "49", "2 Atk.", "80", "0", "20", "8", "55", "Medium Slow", "172", "50" ],
+		[ "Azumarill", "184", "Aqua Rabbit", "Water", "Fairy", "Thick Fat", "Huge Power", "Sap Sipper", "50", "50", "18", "50", "3 HP", "80", "0", "20", "6", "51", "Fast", "189", "50" ],
+		[ "Lombre", "271", "Jolly", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "25", "40", "2 Sp. Def.", "80", "0", "20", "4", "50", "Medium Slow", "119", "50" ],
+		[ "Toedscruel", "949", "Woodear", "Ground", "Grass", "Mycelium Might", "NA", "NA", "50", "50", "30", "50", "2 Sp. Def.", "80", "0", "20", "8", "50", "Medium Slow", "180", "50" ],
+		[ "Yanmega", "469", "Ogre Darner", "Bug", "Flying", "Speeed Boost", "Tinted Lens", "Frisk", "50", "50", "34", "45", "2 Atk.", "80", "0", "20", "13", "125", "Medium Fast", "180", "50" ]
+	],
+	"waterCommon": [
+		[ "Barboach", "339", "Whiskers", "Water", "Ground", "Oblivious", "Anticipation", "Hydration", "50", "50", "25", "40", "1 HP", "80", "0", "20", ".24", "17", "Medium Fast", "58", "50" ],
+		[ "Lotad", "270", "Water Weed", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "3", "14", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44", "50" ]
+	],
+	"waterUncommon": [
+		[ "Dewpider", "751", "Water Bubble", "Water", "Bug", "Water Bubble", "NA", "Water Absorb", "50", "50", "9", "21", "2 Sp. Atk.", "80", "0", "20", ".5", "18", "Medium Fast", "54", "50" ]
+	],
+	"waterRare": [],
+	"waterVeryRare": [
+		[ "Lombre", "271", "Jolly", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "25", "40", "2 Sp. Def.", "80", "0", "20", "4", "50", "Medium Slow", "119", "50" ]
+	],
+	"waterUltraRare": [
+		[ "Araquanid", "752", "Water Bubble", "Water", "Bug", "Water Bubble", "NA", "Water Absorb", "50", "50", "22", "40", "2 Sp. Def.", "80", "0", "20", "10", "60", "Medium Fast", "159", "50" ],
+		[ "Stunfisk", "618", "Trap", "Ground", "Electric", "Static", "Limber", "Sand Veil", "50", "50", "34", "48", "2 HP", "80", "0", "20", "8", "62","Medium Fast","165","70" ],
+		[ "Ludicolo", "272", "Carefree", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "41", "53", "3 Sp. Def.", "80", "0", "20", "10", "88", "Medium Slow", "216", "50" ],
+		[ "Whiscash", "340", "Whiskers", "Water", "Ground", "Oblivious", "Anticipation", "Hydration", "50", "50", "35", "50", "80", "0", "20", "35", "50", "Medium Fast", "164", "50" ]
+
+	],
+	"sweetscentCommon": [],
+	"sweetscentUncommon": [
+		[ "Oddish", "043", "Weed", "Grass", "Poison", "Chlorophyll", "NA", "Run Away", "50", "50", "5", "21", "1 Sp. Atk.", "80", "0", "20", ".25", "17", "Medium Slow", "64", "50" ],
+		[ "Lotad", "270", "Water Weed", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "3", "14", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44", "50" ]
+	],
+	"sweetscentRare": [],
+	"sweetscentVeryRare": [],
+	"sweetscentUltraRare": [],
+	"oldrodCommon": [],
+	"oldrodUncommon": [],
+	"oldrodRare": [],
+	"oldrodVeryRare": [],
+	"oldrodUltraRare": [
+		[ "Totodile", "158", "Big Jaw", "Water", "NA", "Torrent", "NA", "Sheer Force", "87.5", "12.5", "10", "18", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "63", "50" ]
+	],
+	"goodrodCommon": [],
+	"goodrodUncommon": [
+		[ "Barboach", "339", "Whiskers", "Water", "Ground", "Oblivious", "Anticipation", "Hydration", "50", "50", "25", "40", "1 HP", "80", "0", "20", ".24", "17", "Medium Fast", "58", "50" ]
+	],
+	"goodrodRare": [],
+	"goodrodVeryRare": [
+		[ "Dewpider", "751", "Water Bubble", "Water", "Bug", "Water Bubble", "NA", "Water Absorb", "50", "50", "9", "21", "2 Sp. Atk.", "80", "0", "20", ".5", "18", "Medium Fast", "54", "50" ]
+	],
+	"goodrodUltraRare": [
+		[ "Araquanid", "752", "Water Bubble", "Water", "Bug", "Water Bubble", "NA", "Water Absorb", "50", "50", "22", "40", "2 Sp. Def.", "80", "0", "20", "10", "60", "Medium Fast", "159", "50" ],
+		[ "Totodile", "158", "Big Jaw", "Water", "NA", "Torrent", "NA", "Sheer Force", "87.5", "12.5", "10", "18", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "63", "50" ],
+		[ "Croconaw", "159", "Big Jaw", "Water", "NA", "Torrent", "NA", "Sheer Force", "87.5", "12.5", "18", "30", "1 Atk., 1 Def.", "80", "0", "20", "5", "50", "Medium Slow", "142", "50" ],
+		[ "Mudkip", "258", "Mud Fish", "Water", "NA", "Torrent", "NA", "Damp", "87.5", "12.5", "2", "10", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "62", "50" ],
+		[ "Whiscash", "340", "Whiskers", "Water", "Ground", "Oblivious", "Anticipation", "Hydration", "50", "50", "35", "50", "80", "0", "20", "35", "50", "Medium Fast", "164", "50" ]
+	],
+	"superrodCommon": [],
+	"superrodUncommon": [
+		[ "Dewpider", "751", "Water Bubble", "Water", "Bug", "Water Bubble", "NA", "Water Absorb", "50", "50", "9", "21", "2 Sp. Atk.", "80", "0", "20", ".5", "18", "Medium Fast", "54", "50" ],
+		[ "Barboach", "339", "Whiskers", "Water", "Ground", "Oblivious", "Anticipation", "Hydration", "50", "50", "25", "40", "1 HP", "80", "0", "20", ".24", "17", "Medium Fast", "58", "50" ]
+	],
+	"superrodRare": [],
+	"superrodVeryRare": [
+		[ "Croconaw", "159", "Big Jaw", "Water", "NA", "Torrent", "NA", "Sheer Force", "87.5", "12.5", "18", "30", "1 Atk., 1 Def.", "80", "0", "20", "5", "50", "Medium Slow", "142", "50" ],
+		[ "Whiscash", "340", "Whiskers", "Water", "Ground", "Oblivious", "Anticipation", "Hydration", "50", "50", "35", "50", "80", "0", "20", "35", "50", "Medium Fast", "164", "50" ]
+	],
+	"superrodUltraRare": [
+		[ "Araquanid", "752", "Water Bubble", "Water", "Bug", "Water Bubble", "NA", "Water Absorb", "50", "50", "22", "40", "2 Sp. Def.", "80", "0", "20", "10", "60", "Medium Fast", "159", "50" ],
+		[ "Feraligatr", "160", "Big Jaw", "Water", "NA", "Torrent", "NA", "Sheer Force", "87.5", "12.5", "30", "50", "2 Atk., 1 Def.", "80", "0", "20", "13", "107", "Medium Slow", "239", "50" ],
+		[ "Mudkip", "258", "Mud Fish", "Water", "NA", "Torrent", "NA", "Damp", "87.5", "12.5", "2", "10", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "62", "50" ]
+	],
+	"headbuttCommon": [],
+	"headbuttUncommon": [],
+	"headbuttRare": [
+		[ "Shroomish", "285", "Mushroom", "Grass", "NA", "Effect Spore", "Poison Heal", "Quick Feet", "50", "50", "2", "22", "1 HP", "80", "0", "20", ".5", "18", "Fluctuating", "59", "50" ]
+	],
+	"headbuttVeryRare": [],
+	"headbuttUltraRare": [],
+	"specialCommon": [],
+	"specialUncommon": [
+		[ "Foongus", "590", "Mushroom", "Grass", "Poison", "Effect Spore", "NA", "Regenerator", "50", "50", "20", "38", "1 HP", "80", "0", "20", ".25", "20", "Medium Fast", "59", "50" ]
+	],
+	"specialRare": [],
+	"specialVeryRare": [],
+	"specialUltraRare": [
+		[ "Amoonguss", "591", "Mushroom", "Grass", "Poison", "Effect Spore", "NA", "Regenerator", "50", "50", "40", "55", "2 HP", "80", "0", "20", "8", "66", "Medium Fast", "162", "50" ]
+	],
+	"itemsCommon": ["Tiny Mushroom", "Poke Ball"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Luminous Moss", "Ultra Ball", "Repeat Ball", "TM Mud Slap", "Big Mushroom"],
+	"itemsVeryRare": ["Balm Mushroom", "Damp Rock"],
+	"itemsUltraRare": ["TM Rain Dance", "TM Muddy Water"]
+
+}

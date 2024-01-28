@@ -1,0 +1,24 @@
+{
+  "dialogue": [
+    [ "Neutral", "Random", "'My parents say only cowards use Pokemon to fight...'" ],
+    [ "Neutral", "Random", "'Been to one of the markets yet? They're pretty crowded, but you won't find better street food anywhere in Misen!'" ],
+    [ "Neutral", "Random", "'If you go through Wailord's Jungle, you can't stop walking, not even for a second'" ],
+    [ "Neutral", "Random", "'I can't decide what to have for dinner...'" ],
+    [ "Knight", "Random", "'Team Knight? Aren't you guys just a group of thugs? Get a job.'" ],
+    [ "Corp", "Random", "'Do you even know what you're doing with all this technology of yours? Don't complain if it backfires somehow.'" ],
+    [ "Neutral", "Random", "'This town is full of old people. Gross.'" ],
+    [ "Neutral", "Random", "'I've seen a little girl playing alone at Shipwreck Shore from time to time... I hope she stays safe.'" ],
+    [ "Neutral", "ConspiracyGuy", "'I wonder if the Champion disappearing had anything to do with Shipwreck Shore...do you think...they’re dead?'" ],
+    [ "Neutral", "Random", "'I don't really find Wailord's Jungle creepy, just sad... A lot of non-ghost pokemon go in looking for food and don't make it out.'" ],
+    [ "Neutral", "Random", "'I don't sell to trainers. Buy your melons elsewhere.'" ],
+    [ "Neutral", "Random", "'Do you think my Clobbopus understands how much I love her? Do you think she knows?!'" ],
+    ["Knight","Kalliope","'Kalliope is standing around some speakers. She flips you off.'"]
+  ],
+  "quests": [
+    [ "Birch", "1077037201856147568", "0", "0", "'She's still not picking up...'", "NA", "Quest: Message Received!" ],
+    [ "Emiko", "1077038943968706640", "0", "0", "'You. I think I have a pokemon problem. Can you do something about it?'", "NA", "Quest: An Uncooperative T.V." ],
+    [ "Carmen", "306296046575681546", "-1", "1", "'Oh no no no *no!* How will I find someone in time? And so last minute?'", "NA", "Quest: We're Getting The Band Back Together!" ],
+    [ "Ku", "306296046575681546", "0", "5", "'... So much for that surfing contest coming back this year. I hate Sharpedo.'", "NA", "Quest: Shark Week" ],
+    [ "Kalliope", "232689259902009355", "11", "-5", "NA", "* Kalliope is standing around some speakers playing a rather unenthused sounding song.*", "Mission: The Sound of Music" ]
+    ]
+}

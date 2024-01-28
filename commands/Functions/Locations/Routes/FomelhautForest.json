@@ -1,0 +1,165 @@
+{
+	"connections":["Steldom City","Siraisis Savanna","Falnook Town"],
+	"goals":
+	[
+		["Steldom City","Siraisis Savanna","6"],
+		["Siraisis Savanna","Steldom City","6"],
+		["Siraisis Savanna","Falnook Town","10"],
+		["Falnook Town","Siraisis Savanna","10"],
+		["Falnook Town","Steldom City","16"],
+		["Steldom City","Falnook Town","16"]
+	],
+	"locationColor":"#580400",
+	"locationName":"Fomelhaut Forest",
+	"locationDescription":"The Fomelhaut Forest of Misen isn't actually in a perpetual state of autumn. The vibrant orange, red, and yellow of the leaves merely comes from unique minerals found in the soil. The forest is a great place to look for Grass- and Bug-type Pokemon, as well as the precious minerals that cause its distinctive hues.",
+	"happeningsList":
+	[
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?"],
+	["SweetScent","A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?"],		
+	["Quest Fomelhaut","There's a strange old house deep in the woods...should you approach?"],
+	["Roll Obstacle","There's a rather wide mining trench here...you'll have to go around. Unless you can manage to jump over."],
+	["Roll Shortcut","There's a rather wide mining trench here...but if you can jump over, you're sure you'll make good progress to getting out"],
+	["Roll Item","There's an item on the other side of a wide mining trench. If you can jump over it, it's yours to claim!"],
+	["TrainerBattle", "When trainers eyes meet.....a fight can break out!"], 
+	["Scenery","Smells like a distant galaxy"],
+	["Scenery","Those leaves, they're floating in mid-air! Oh wait, they're just on top of a Mr. Mime's barrier"],
+	["Scenery","The foliage is vivid and saturated in colour"],
+	["Scenery","You narrowly avoid stepping in a deep,man-made hole."],
+	["Discovery Mines","There's an entrance to a mine here, would you like to investigate?"]
+	],
+	"trainersList":[
+		[ "Bug Catcher", "#A8B820", "Male", "16", "Caterpie", "Weedle", "Ledyba", "Sewaddle", "Metapod", "Kakuna" ],
+		[ "Bug Maniac", "#A8B820", "Male", "28", "Swadloon", "Butterfree", "Beedrill", "Leavanny", "Ledian" ],
+		[ "Artist", "#A8B820", "Male", "56", "Smeargle" ],
+		[ "Painter", "#A8B820", "Male", "56", "Smeargle" ]
+	],
+	"landCommon":
+	[
+		[ "Caterpie", "010", "Worm", "Bug", "NA", "Shield Dust", "NA", "Run Away", "50", "50", "2", "7", "1 HP", "80", "0", "20", ".125", "15", "Medium Fast", "39", "50" ],
+		[ "Weedle", "013", "Hairy Bug", "Bug", "Poison", "Shield Dust", "NA", "Run Away", "50", "50", "2", "7", "1 Speed", "80", "0", "20", ".125", "17", "Medium Fast", "39", "50" ],
+		[ "Bellsprout", "069", "Flower", "Grass", "Poison", "Chlorophyll", "NA", "Gluttony", "50", "50", "2", "21", "1 Atk.", "80", "0", "20", ".25", "18", "Medium Slow", "60", "50" ],
+		[ "Pumpkaboo(Small)", "710", "Pumpkin", "Grass", "Ghost", "Pickup", "Frisk", "Insomnia", "50", "50", "15", "24", "1 Def.", "80", "0", "20", "2", "17", "Medium Fast", "67", "50" ],
+		[ "Ledyba", "165", "Five Star", "Bug", "Flying", "Swarm", "Early Bird", "Rattled", "50", "50", "5", "17", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Fast", "53", "50" ],
+		[ "Sewaddle", "540", "Sewing", "Bug", "Grass", "Swarm", "Chlorophyll", "Overcoat", "50", "50", "5", "20", "1 Def.", "80", "0", "20", ".5", "17", "Medium Slow", "62", "50" ],
+		[ "Skwovet", "819", "Cheeky", "Normal", "NA", "Cheek Pouch", "NA", "Gluttony", "50", "50", "5", "20", "1 HP", "80", "0", "20", ".25", "16", "Medium Fast", "55", "50" ],
+	["Pachirisu","417","EleSquirrel","Electric","NA","Run Away","Pickup","Volt Absorb","50","50","5","20","1 Speed","80","0","20","6","20","Medium Fast","142","100"],
+		[ "Pidgey", "016", "Tiny Bird", "Normal", "Flying", "Keen Eye", "Tangled Feet", "Big Pecks", "50", "50", "2", "16", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "50", "50" ],
+		[ "Starly", "396", "Starling", "Normal", "Flying", "Keen Eye", "NA", "Reckless", "50", "50", "5", "13", "1 Speed", "80", "0", "20", ".125", "16", "Medium Slow", "49", "50" ]
+	],
+	"landUncommon":
+	[
+		[ "Metapod", "011", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "7", "10", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Kakuna", "014", "Cocoon", "Bug", "Poison", "Shed Skin", "NA", "NA", "50", "50", "7", "10", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Pumpkaboo(Average)", "710", "Pumpkin", "Grass", "Ghost", "Pickup", "Frisk", "Insomnia", "50", "50", "15", "24", "1 Def.", "80", "0", "20", "2", "17", "Medium Fast", "67", "50" ],
+		[ "Cherubi", "420", "Cherry", "Grass", "NA", "Chlorophyll", "NA", "NA", "50", "50", "5", "15", "1 Sp. Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "55", "50" ],
+		[ "Greedent", "820", "Greedy", "Normal", "NA", "Cheek Pouch", "NA", "Gluttony", "50", "50", "25", "40", "2 HP", "80", "0", "20", "6", "50", "Medium Fast", "161", "50" ],
+		[ "Pidgeotto", "017", "Bird", "Normal", "Flying", "Keen Eye", "Tangled Feet", "Big Pecks", "50", "50", "16", "36", "2 Speed", "80", "0", "20", "3", "40", "Medium Fast", "122", "50" ],
+		[ "Skitty", "300", "Kitten", "Normal", "NA", "Cute Charm", "Normalize", "Wonder Skin", "25", "75", "2", "30", "1 Speed", "80", "0", "20", ".25", "16", "Fast", "52", "50" ],
+		[ "Deerling(Autumn)", "585", "Season", "Normal", "Grass", "Chlorophyll", "Sap Sipper", "Serene Grace", "50", "50", "21", "33", "1 Speed", "80", "0", "20", "2", "17", "Medium Fast", "67", "50" ],
+		[ "Vulpix", "037", "Fox", "Fire", "NA", "Flash Fire", "NA", "Drought", "25", "75", "10", "19", "1 Speed", "80", "0", "20", ".25", "16", "Medium Fast", "60", "50" ],
+		[ "Staravia", "397", "Starling", "Normal", "Flying", "Intimidate", "NA", "Reckless", "50", "50", "15", "33", "2 Speed", "80", "0", "20", "13", "45", "Medium Slow", "119", "50" ]
+	],
+	"landRare":
+	[
+		[ "Weepinbell", "070", "Flycatcher", "Grass", "Poison", "Chlorophyll", "NA", "Gluttony", "50", "50", "21", "50", "2 Atk.", "80", "0", "20", "5", "50", "Medium Slow", "137", "50" ],
+		[ "Pumpkaboo(Large)", "710", "Pumpkin", "Grass", "Ghost", "Pickup", "Frisk", "Insomnia", "50", "50", "15", "24", "1 Def.", "80", "0", "20", "2", "17", "Medium Fast", "67", "50" ],
+		[ "Swadloon", "541", "Leaf-Wrapped", "Bug", "Grass", "Leaf Guard", "Chlorophyll", "Overcoat", "50", "50", "20", "32", "2 Def.", "80", "0", "20", "5", "50", "Medium Slow", "133", "50" ],
+		[ "Nickit", "827", "Fox", "Dark", "NA", "Run Away", "Unburden", "Stakeout", "50", "50", "5", "17", "1 Sp. Def.", "80", "0", "20", "1", "16", "Fast", "49", "50" ]
+	],
+	"landVeryRare":
+	[
+		[ "Pumpkaboo(Super)", "710", "Pumpkin", "Grass", "Ghost", "Pickup", "Frisk", "Insomnia", "50", "50", "15", "24", "1 Def.", "80", "0", "20", "2", "17", "Medium Fast", "67", "50" ],
+		[ "Bulbasaur", "001", "Seed", "Grass", "Poison", "Overgrow", "NA", "Chlorophyll", "87.5", "12.5", "10", "16", "1 Sp. Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "64", "50" ],
+		[ "Fennekin", "653", "Fox", "Fire", "NA", "Blaze", "NA", "Magician", "87.5", "12.5", "5", "15", "1 Sp. Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "61", "50" ]
+	],
+	"landUltraRare":
+	[
+		[ "Butterfree", "012", "Butterfly", "Bug", "Flying", "Compound Eyes", "NA", "Tinted Lens", "50", "50", "10", "50", "2 Sp. Atk., 1 Sp. Def.", "80", "0", "20", "6", "38", "Medium Fast", "178", "50" ],
+		[ "Beedrill", "015", "Poison Bee", "Bug", "Poison", "Swarm", "NA", "Sniper", "50", "50", "10", "50", "2 Atk., 1 Sp. Def.", "80", "0", "20", "6", "47", "Medium Fast", "178", "50" ],
+		[ "Victreebel", "071", "Flycatcher", "Grass", "Poison", "Chlorophyll", "NA", "Gluttony", "50", "50", "45", "50", "3 Atk.", "80", "0", "20", "12", "122", "Medium Slow", "221", "50" ],
+		[ "Gourgeist(Small)", "711", "Pumpkin", "Grass", "Ghost", "Pickup", "Frisk", "Insomnia", "50", "50", "25", "50", "2 Def.", "80", "0", "20", "12", "84", "Medium Fast", "173", "50" ],
+		[ "Gourgeist(Average)", "711", "Pumpkin", "Grass", "Ghost", "Pickup", "Frisk", "Insomnia", "50", "50", "25", "50", "2 Def.", "80", "0", "20", "12", "84", "Medium Fast", "173", "50" ],
+		[ "Gourgeist(Large)", "711", "Pumpkin", "Grass", "Ghost", "Pickup", "Frisk", "Insomnia", "50", "50", "25", "50", "2 Def.", "80", "0", "20", "12", "84", "Medium Fast", "173", "50" ],
+		[ "Gourgeist(Super)", "711", "Pumpkin", "Grass", "Ghost", "Pickup", "Frisk", "Insomnia", "50", "50", "25", "50", "2 Def.", "80", "0", "20", "12", "84", "Medium Fast", "173", "50" ],
+		[ "Ledian", "166", "Five Star", "Bug", "Flying", "Swarm", "Early Bird", "Iron Fist", "50", "50", "18", "30", "2 Sp. Def.", "80", "0", "20", "8", "50", "Fast", "137", "50" ],
+		[ "Leavanny", "542", "Nurturing", "Bug", "Grass", "Swarm", "Chlorophyll", "Overcoat", "50", "50", "35", "40", "3. Atk.", "80", "0", "20", "12", "88", "Medium Slow", "225", "50" ],
+		[ "Pidgeot", "018", "Bird", "Normal", "Flying", "Keen Eye", "Tangled Feet", "Big Pecks", "50", "50", "36", "50", "3 Speed", "80", "0", "20", "10", "77", "Medium Slow", "216", "50" ],
+		[ "Cherrim", "421", "Blossom", "Grass", "NA", "Flower Gift", "NA", "NA", "50", "50", "25", "35", "2 Sp. Atk.", "80", "0", "20", "8", "55", "Medium Fast", "158", "50" ],
+		[ "Delcatty", "301", "Prim", "Normal", "NA", "Cute Charm", "Normalize", "Wonder Skin", "25", "75", "35", "50", "1 HP, 1 Speed", "80", "0", "20", "6", "45", "Fast", "140", "50" ],
+		[ "Thievul", "828", "Fox", "Dark", "NA", "Run Away", "Unburden", "Stakeout", "50", "50", "18", "35", "2 Sp. Def.", "80", "0", "20", "11", "83", "Fast", "159", "50" ],
+		[ "Ivysaur", "002", "Seed", "Grass", "Poison", "Overgrow", "NA", "Chlorophyll", "87.5", "12.5", "16", "32", "1 Sp. Atk, 1 Sp. Def.", "80", "0", "20", "5", "Medium Slow", "142", "50" ],
+		[ "Venusaur", "003", "Seed", "Grass", "Poison", "Overgrow", "NA", "Chlorophyll", "87.5", "12.5", "32", "50", "2 Sp. Atk", "80", "0", "20", "45", "Medium Slow", "236", "50" ],
+		[ "Braixen", "654", "Fox", "Fire", "NA", "Blaze", "NA", "Magician", "87.5", "12.5", "16", "36", "2 Sp. Atk.", "80", "0", "20", "5", "47", "Medium Slow", "143", "50" ],
+		[ "Delphox", "655", "Fox", "Fire", "NA", "Blaze", "NA", "Magician", "87.5", "12.5", "36", "50", "3 Sp. Atk.", "80", "0", "20", "13", "117", "Medium Slow", "240", "50" ],
+		[ "Mime Jr.", "439", "Mime", "Psychic", "Fairy", "Soundproof", "Filter", "Technician", "50", "50", "5", "19", "1 Sp. Def.", "80", "0", "20", "1", "16", "Medium Fast", "62", "50" ],
+		[ "Mr. Mime", "122", "Barrier", "Psychic", "Fairy", "Soundproof", "Filter", "Technician", "50", "50", "20", "50", "2 Sp. Def.", "80", "0", "20", "9", "50", "Medium Fast", "161", "50" ],
+		[ "Ninetales", "038", "Fox", "Fire", "NA", "Flash Fire", "NA", "Drought", "25", "75", "20", "50", "1 Sp.Def., 1 Speed", "80", "0", "20", "7", "40", "Medium Fast", "177", "50" ],
+		[ "Sawsbuck(Autumn)", "586", "Season", "Normal", "Grass", "Chlorophyll", "Sap Sipper", "Serene Grace", "50", "50", "35", "47", "2 Atk.", "80", "0", "20", "10", "55", "Medium Fast", "166", "50" ],
+		[ "Staraptor", "398", "Predator", "Normal", "Flying", "Intimidate", "NA", "Reckless", "50", "50", "35", "55", "3 Atk.", "80", "0", "20", "12", "107", "Medium Slow", "218", "50" ]
+	],
+	"headbuttCommon": [
+		[ "Caterpie", "010", "Worm", "Bug", "NA", "Shield Dust", "NA", "Run Away", "50", "50", "2", "7", "1 HP", "80", "0", "20", ".125", "15", "Medium Fast", "39", "50" ],
+		[ "Weedle", "013", "Hairy Bug", "Bug", "Poison", "Shield Dust", "NA", "Run Away", "50", "50", "2", "7", "1 Speed", "80", "0", "20", ".125", "17", "Medium Fast", "39", "50" ],
+		[ "Pidgey", "016", "Tiny Bird", "Normal", "Flying", "Keen Eye", "Tangled Feet", "Big Pecks", "50", "50", "2", "16", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "50", "50" ],
+		[ "Starly", "396", "Starling", "Normal", "Flying", "Keen Eye", "NA", "Reckless", "50", "50", "5", "13", "1 Speed", "80", "0", "20", ".125", "16", "Medium Slow", "49", "50" ]
+	],
+	"headbuttUncommon": [
+		[ "Metapod", "011", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "7", "10", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Kakuna", "014", "Cocoon", "Bug", "Poison", "Shed Skin", "NA", "NA", "50", "50", "7", "10", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Ledyba", "165", "Five Star", "Bug", "Flying", "Swarm", "Early Bird", "Rattled", "50", "50", "5", "17", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Fast", "53", "50" ],
+		[ "Sewaddle", "540", "Sewing", "Bug", "Grass", "Swarm", "Chlorophyll", "Overcoat", "50", "50", "5", "20", "1 Def.", "80", "0", "20", ".5", "17", "Medium Slow", "62", "50" ],
+		[ "Skwovet", "819", "Cheeky", "Normal", "NA", "Cheek Pouch", "NA", "Gluttony", "50", "50", "5", "20", "1 HP", "80", "0", "20", ".25", "16", "Medium Fast", "55", "50" ],
+		[ "Swadloon", "541", "Leaf-Wrapped", "Bug", "Grass", "Leaf Guard", "Chlorophyll", "Overcoat", "50", "50", "20", "32", "2 Def.", "80", "0", "20", "5", "50", "Medium Slow", "133", "50" ],
+		[ "Pachirisu", "417", "EleSquirrel", "Electric", "NA", "Run Away", "Pickup","Volt Absorb","50", "50", "5", "20", "1 Speed", "80", "0", "20", "6", "20", "Medium Fast", "142","100" ],
+		[ "Pidgeotto", "017", "Bird", "Normal", "Flying", "Keen Eye", "Tangled Feet", "Big Pecks", "50", "50", "16", "36", "2 Speed", "80", "0", "20", "3", "40", "Medium Fast", "122", "50" ],
+		[ "Staravia", "397", "Starling", "Normal", "Flying", "Intimidate", "NA", "Reckless", "50", "50", "15", "33", "2 Speed", "80", "0", "20", "13", "45", "Medium Slow", "119", "50" ]
+
+	],
+	"headbuttRare": [
+		[ "Cherubi", "420", "Cherry", "Grass", "NA", "Chlorophyll", "NA", "NA", "50", "50", "5", "15", "1 Sp. Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "55", "50" ],
+		[ "Greedent", "820", "Greedy", "Normal", "NA", "Cheek Pouch", "NA", "Gluttony", "50", "50", "25", "40", "2 HP", "80", "0", "20", "6", "50", "Medium Fast", "161", "50" ]
+
+	],
+	"headbuttVeryRare": [
+		[ "Ledian", "166", "Five Star", "Bug", "Flying", "Swarm", "Early Bird", "Iron Fist", "50", "50", "18", "30", "2 Sp. Def.", "80", "0", "20", "8", "50", "Fast", "137", "50" ]
+
+	],
+	"headbuttUltraRare": [
+		[ "Butterfree", "012", "Butterfly", "Bug", "Flying", "Compound Eyes", "NA", "Tinted Lens", "50", "50", "10", "50", "2 Sp. Atk., 1 Sp. Def.", "80", "0", "20", "6", "38", "Medium Fast", "178", "50" ],
+		[ "Beedrill", "015", "Poison Bee", "Bug", "Poison", "Swarm", "NA", "Sniper", "50", "50", "10", "50", "2 Atk., 1 Sp. Def.", "80", "0", "20", "6", "47", "Medium Fast", "178", "50" ]
+	],
+	"sweeetscentCommon":[
+		[ "Caterpie", "010", "Worm", "Bug", "NA", "Shield Dust", "NA", "Run Away", "50", "50", "2", "7", "1 HP", "80", "0", "20", ".125", "15", "Medium Fast", "39", "50" ],
+		[ "Weedle", "013", "Hairy Bug", "Bug", "Poison", "Shield Dust", "NA", "Run Away", "50", "50", "2", "7", "1 Speed", "80", "0", "20", ".125", "17", "Medium Fast", "39", "50" ]
+		],
+	"sweetscentUncommon": [
+		[ "Metapod", "011", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "7", "10", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Kakuna", "014", "Cocoon", "Bug", "Poison", "Shed Skin", "NA", "NA", "50", "50", "7", "10", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Ledyba", "165", "Five Star", "Bug", "Flying", "Swarm", "Early Bird", "Rattled", "50", "50", "5", "17", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Fast", "53", "50" ],
+		[ "Cherubi", "420", "Cherry", "Grass", "NA", "Chlorophyll", "NA", "NA", "50", "50", "5", "15", "1 Sp. Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "55", "50" ]
+
+	],
+	"sweetscentRare": [
+		[ "Butterfree", "012", "Butterfly", "Bug", "Flying", "Compound Eyes", "NA", "Tinted Lens", "50", "50", "10", "50", "2 Sp. Atk., 1 Sp. Def.", "80", "0", "20", "6", "38", "Medium Fast", "178", "50" ],
+		[ "Beedrill", "015", "Poison Bee", "Bug", "Poison", "Swarm", "NA", "Sniper", "50", "50", "10", "50", "2 Atk., 1 Sp. Def.", "80", "0", "20", "6", "47", "Medium Fast", "178", "50" ],
+		[ "Ledian", "166", "Five Star", "Bug", "Flying", "Swarm", "Early Bird", "Iron Fist", "50", "50", "18", "30", "2 Sp. Def.", "80", "0", "20", "8", "50", "Fast", "137", "50" ]
+],
+	"sweetscentVeryRare":[
+		[ "Ledian", "166", "Five Star", "Bug", "Flying", "Swarm", "Early Bird", "Iron Fist", "50", "50", "18", "30", "2 Sp. Def.", "80", "0", "20", "8", "50", "Fast", "137", "50" ]
+	],
+	"sweetscentUltraRare": [
+		[ "Cherrim", "421", "Blossom", "Grass", "NA", "Flower Gift", "NA", "NA", "50", "50", "25", "35", "2 Sp. Atk.", "80", "0", "20", "8", "55", "Medium Fast", "158", "50" ]
+	],
+	"itemsCommon":["Poke Ball","Honey","Maple Leaf"],
+	"itemsUncommon":["Great Ball","Forget-me-not","Starf Berry","Lansat Berry","Apicot Berry","Petaya Berry","Salac Berry","Ganlon Berry","Liechi Berry"],
+	"itemsRare":["Max Revive","Ultra Ball","Net Ball","Nest Ball","Grassy Seed","Absorb Bulb","Leaf Stone","Tiny Mushroom","Stardust","Star Piece"],
+	"itemsVeryRare":["Nugget","Big Mushroom"],
+	"itemsUltraRare":["TM Light Screen","TM Reflect","TM X-Scissor","TM Energy Ball","TM Calm Mind","Mirror Herb","Choice Specs","Big Nugget","Balm Mushroom"]
+	
+	
+}

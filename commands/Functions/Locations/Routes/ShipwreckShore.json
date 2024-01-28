@@ -1,0 +1,165 @@
+{
+	"connections": ["Patus Town", "Deep Sea"],
+	"goals": [
+		["Patus Town", "Deep Sea", "6"],
+		["Deep Sea", "Patus Town", "6"]
+	],
+	"locationColor": "",
+	"locationName": "Shipwreck Shore",
+	"locationDescription": "The far shore of Kohalis Island near Misen is a site that has captured the hearts of the paranormal community. Over the region's entire history, too many ships to count have crashed upon the jagged rocks, earning it the name 'Shipwreck Shore'. Now populated by abandoned ships and Ghost-type Pokemon, one question plagues everyone's minds: What causes so many ships to meet their end here?",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["Fishing", "The water of Parasol Beach is just perfect for fishing if you have a fishing rod, but it'll take some time"],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["Fishing", "The water of Parasol Beach is just perfect for fishing if you have a fishing rod, but it'll take some time"],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"],
+		["Gimmighoul", "You found a roaming Gimmighoul! Take its coin!"],
+		["ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?"],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["Roll Obstacle", "A shipwreck is in your way...you'll have to go around. Unless you can manage to work your way through."],
+		["Roll Shortcut", "A shipwreck is in your way...but if you can get through it, you're sure you'll make good progress to getting out"],
+		["Roll Item", "There's an item beyond that shipwreck. If you can get through it, it's yours to claim!"],
+		["Scenery", "Pieces of driftwood litter the beach"],
+		["Scenery", "The sand is coarse, with sharp pieces of seashells in the mix"],
+		["Scenery", "The ocean doesn't look very inviting"],
+		["Scenery", "Smells like a mystery"],
+		["Scenery", "You feel like someone's watching you..."],
+		["Scenery", "You hear a young girl singing a pirate shanty - oh it's just a Chatot"]
+	],
+	"trainersList": [
+		["Ruin Maniac"],
+		["Scientist"],
+		["Researcher"],
+		["Hex Maniac"],
+		["Angler"],
+		["Fisherman"]
+	],
+	"landCommon": [
+		["Mankey", "056", "Pig Monkey", "Fighting", "NA", "Vital Spirit", "Anger Point", "Defiant", "50", "50", "10", "28", "1 Atk.", "80", "0", "20", ".5", "16"]
+	],
+	"landUncommon": [
+		["Wiglett", "960", "Garden Eel", "Water", "NA", "Gooey", "Rattled", "Sand Veil", "50", "50", "10", "26", "1 Speed", "80", "0", "20", ".5", "18"],
+		["Chatot", "441", "Music Note", "Normal", "Flying", "Keen Eye", "Tangled Feet", "Big Pecks", "50", "50", "5", "30", "1 Atk.", "80", "0", "20", "5", "46"],
+		["Yamask", "562", "Spirit", "Ghost", "NA", "Mummy", "NA", "NA", "50", "50", "10", "27", "1 Def.", "80", "0", "20", "1", "17"],
+		["Pyukumuku", "771", "Sea Cucumber", "Water", "NA", "Innards Out", "NA", "Unaware", "50", "50", "20", "40", "2 Sp. Def.", "80", "0", "20", "6", "43"],
+		["Binacle", "688", "Two-Handed", "Rock", "Water", "Tough Claws", "Sniper", "Pickpocket", "50", "50", "22", "38", "1 Atk.", "80", "0", "20", "1", "17"],
+		["Duskull", "355", "Requiem", "Ghost", "NA", "Levitate", "NA", "Frisk", "50", "50", "25", "33", "1 Sp. Def.", "80", "0", "20", "1", "18"],
+		["Honedge", "679", "Sword", "Steel", "Ghost", "No Guard", "NA", "NA", "50", "50", "21", "34", "1 Def.", "80", "0", "20", "1", "17"],
+		["Drifloon", "425", "Balloon", "Ghost", "Flying", "Aftermath", "Unburden", "Flare Boost", "50", "50", "15", "24", "1 HP", "80", "0", "20", "2", "23"],
+		["Shellos(East Sea)", "422", "Sea Slug", "Water", "NA", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "5", "15", "1 HP", "80", "0", "20", "2", "21"]
+	],
+	"landRare": [
+		["Dhelmise", "781", "Sea Creeper", "Ghost", "Grass", "Steelworker", "NA", "NA", "0", "0", "15", "45", "2 Atk.", "80", "0", "20", "11", "85"],
+		["Primeape", "057", "Pig Monkey", "Fighting", "NA", "Vital Spirit", "Anger Point", "Defiant", "50", "50", "28", "50", "2 Atk.", "80", "0", "20", "6", "45"],
+		["Absol", "359", "Disaster", "Dark", "NA", "Pressure", "Super Luck", "Justified", "50", "50", "5", "50", "2 Atk.", "80", "0", "20", "12", "75"]
+	],
+	"landVeryRare": [
+		["Wugtrio", "961", "Garden Eel", "Water", "NA", "Gooey", "Rattled", "Sand Veil", "50", "50", "26", "39", "2 Speed", "80", "0", "20", "8", "55"],
+		["Gimmighoul(Chest)", "999", "Coin Chest", "Ghost", "NA", "Rattled", "NA", "NA", "0", "0", "10", "60", "1 Sp. Atk.", "80", "0", "20", ".5", "17"]
+	],
+	"landUltraRare": [
+		["Annihilape", "979", "Rage Monkey", "Fighting", "Ghost", "Vital Spirit", "Inner Focus", "Defiant", "50", "50", "35", "55", "3 Atk.", "80", "0", "20", "13", "112"],
+		["Barbaracle", "689", "Collective", "Rock", "Water", "Tough Claws", "Sniper", "Pickpocket", "50", "50", "40", "54", "2 Atk.", "80", "0", "20", "12", "84"],
+		["Dusclops", "356", "Beckon", "Ghost", "NA", "Pressure", "NA", "Frisk", "50", "50", "38", "51", "1 Def., 1 Sp. Def.", "80", "0", "20", "12", "80"],
+		["Dusknoir", "477", "Gripper", "Ghost", "NA", "Pressure", "NA", "Frisk", "50", "50", "42", "55", "1 Def., 2 Sp. Def.", "80", "0", "20", "14", "126"],
+		["Doublade", "680", "Sword", "Steel", "Ghost", "No Guard", "NA", "NA", "50", "50", "36", "49", "2 Def.", "80", "0", "20", "10", "76"],
+		["Aegislash(Blade)", "681", "Royal Sword", "Steel", "Ghost", "Stance Guard", "NA", "NA", "50", "50", "50", "62", "2 Atk.,1 Sp. Atk.", "80", "0", "20", "13", "120"],
+		["Aegislash(Shield)", "681", "Royal Sword", "Steel", "Ghost", "Stance Guard", "NA", "NA", "50", "50", "50", "62", "2 Def.,1 Sp. Def.", "80", "0", "20", "13", "120"],
+		["Drifblim", "426", "Blimp", "Ghost", "Flying", "Aftermath", "Unburden", "Flare Boost", "50", "50", "30", "40", "2 HP", "80", "0", "20", "9", "77"],
+		["Gastrodon(East Sea)", "423", "Sea Slug", "Water", "Ground", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "40", "60", "2 HP", "80", "0", "20", "9", "71"]
+	],
+	"waterCommon": [],
+	"waterUncommon": [
+		["Frillish(Male)", "592", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "100", "0", "22", "39", "1 Sp. Def.", "80", "0", "20", "2", "17"],
+		["Frillish(Female)", "592", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "0", "100", "22", "39", "1 Sp. Def.", "80", "0", "20", "2", "17"],
+		["Shellos(East Sea)", "422", "Sea Slug", "Water", "NA", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "5", "15", "1 HP", "80", "0", "20", "2", "21"],
+		["Pyukumuku", "771", "Sea Cucumber", "Water", "NA", "Innards Out", "NA", "Unaware", "50", "50", "20", "40", "2 Sp. Def.", "80", "0", "20", "6", "43"],
+		["Binacle", "688", "Two-Handed", "Rock", "Water", "Tough Claws", "Sniper", "Pickpocket", "50", "50", "22", "38", "1 Atk.", "80", "0", "20", "1", "17"],
+		["Skrelp", "690", "Mock Kelp", "Poison", "Water", "Poison Point", "Poison Touch", "Adaptability", "50", "50", "33", "47", "1 Sp. Def.", "80", "0", "20", ".5", "17"]
+	],
+	"waterRare": [
+		["Mareanie", "747", "Brutal Star", "Poison", "Water", "Merciless", "Limber", "Regenerator", "50", "50", "15", "37", "1 Def.", "80", "0", "20", "1", "19"]
+	],
+	"waterVeryRare": [],
+	"waterUltraRare": [
+		["Jellicent(Male)", "593", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "100", "0", "41", "57", "2 Sp. Def.", "80", "0", "20", "12", "88"],
+		["Jellicent(Female)", "593", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "0", "100", "41", "57", "2 Sp. Def.", "80", "0", "20", "12", "88"],
+		["Gastrodon(East Sea)", "423", "Sea Slug", "Water", "Ground", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "40", "60", "2 HP", "80", "0", "20", "9", "71"],
+		["Dragalge", "691", "Mock Kelp", "Poison", "Dragon", "Poison Point", "Poison Touch", "Adaptability", "50", "50", "48", "64", "2 Sp. Def.", "80", "0", "20", "12", "92"],
+		["Toxapex", "748", "Brutal Star", "Poison", "Water", "Merciless", "Limber", "Regenerator", "50", "50", "38", "55", "2 Def.", "80", "0", "20", "12", "97"]
+	],
+	"oldrodCommon": [],
+	"oldrodUncommon": [
+		["Pyukumuku", "771", "Sea Cucumber", "Water", "NA", "Innards Out", "NA", "Unaware", "50", "50", "20", "40", "2 Sp. Def.", "80", "0", "20", "6", "43"]
+	],
+	"oldrodRare": [],
+	"oldrodVeryRare": [],
+	"oldrodUltraRare": [],
+	"goodrodCommon": [],
+	"goodrodUncommon": [
+		["Frillish(Male)", "592", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "100", "0", "22", "39", "1 Sp. Def.", "80", "0", "20", "2", "17"],
+		["Frillish(Female)", "592", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "0", "100", "22", "39", "1 Sp. Def.", "80", "0", "20", "2", "17"],
+		["Shellos(East Sea)", "422", "Sea Slug", "Water", "NA", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "5", "15", "1 HP", "80", "0", "20", "2", "21"],
+		["Pyukumuku", "771", "Sea Cucumber", "Water", "NA", "Innards Out", "NA", "Unaware", "50", "50", "20", "40", "2 Sp. Def.", "80", "0", "20", "6", "43"],
+		["Skrelp", "690", "Mock Kelp", "Poison", "Water", "Poison Point", "Poison Touch", "Adaptability", "50", "50", "33", "47", "1 Sp. Def.", "80", "0", "20", ".5", "17"],
+		["Mareanie", "747", "Brutal Star", "Poison", "Water", "Merciless", "Limber", "Regenerator", "50", "50", "15", "37", "1 Def.", "80", "0", "20", "1", "19"]
+	],
+	"goodrodRare": [],
+	"goodrodVeryRare": [
+		["Gastrodon(East Sea)", "423", "Sea Slug", "Water", "Ground", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "40", "60", "2 HP", "80", "0", "20", "9", "71"]
+	],
+	"goodrodUltraRare": [],
+	"superrodCommon": [],
+	"superrodUncommon": [
+		["Frillish(Male)", "592", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "100", "0", "22", "39", "1 Sp. Def.", "80", "0", "20", "2", "17"],
+		["Frillish(Female)", "592", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "0", "100", "22", "39", "1 Sp. Def.", "80", "0", "20", "2", "17"],
+		["Shellos(East Sea)", "422", "Sea Slug", "Water", "NA", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "5", "15", "1 HP", "80", "0", "20", "2", "21"],
+		["Gastrodon(East Sea)", "423", "Sea Slug", "Water", "Ground", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "40", "60", "2 HP", "80", "0", "20", "9", "71"],
+		["Skrelp", "690", "Mock Kelp", "Poison", "Water", "Poison Point", "Poison Touch", "Adaptability", "50", "50", "33", "47", "1 Sp. Def.", "80", "0", "20", ".5", "17"]
+	],
+	"superrodRare": [],
+	"superrodVeryRare": [
+		["Mareanie", "747", "Brutal Star", "Poison", "Water", "Merciless", "Limber", "Regenerator", "50", "50", "15", "37", "1 Def.", "80", "0", "20", "1", "19"]
+	],
+	"superrodUltraRare": [
+		["Jellicent(Male)", "593", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "100", "0", "41", "57", "2 Sp. Def.", "80", "0", "20", "12", "88"],
+		["Jellicent(Female)", "593", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "0", "100", "41", "57", "2 Sp. Def.", "80", "0", "20", "12", "88"],
+		["Dhelmise", "781", "Sea Creeper", "Ghost", "Grass", "Steelworker", "NA", "NA", "0", "0", "15", "45", "2 Atk.", "80", "0", "20", "11", "85"],
+		["Dragalge", "691", "Mock Kelp", "Poison", "Dragon", "Poison Point", "Poison Touch", "Adaptability", "50", "50", "48", "64", "2 Sp. Def.", "80", "0", "20", "12", "92"],
+		["Toxapex", "748", "Brutal Star", "Poison", "Water", "Merciless", "Limber", "Regenerator", "50", "50", "38", "55", "2 Def.", "80", "0", "20", "12", "97"]
+	],
+	"headbuttCommon": [],
+	"headbuttUncommon": [
+		["Mankey", "056", "Pig Monkey", "Fighting", "NA", "Vital Spirit", "Anger Point", "Defiant", "50", "50", "10", "28", "1 Atk.", "80", "0", "20", ".5", "16"]
+	],
+	"headbuttRare": [],
+	"headbuttVeryRare": [
+		["Chatot", "441", "Music Note", "Normal", "Flying", "Keen Eye", "Tangled Feet", "Big Pecks", "50", "50", "5", "30", "1 Atk.", "80", "0", "20", "5", "46"]
+	],
+	"headbuttUltraRare": [
+		["Primeape", "057", "Pig Monkey", "Fighting", "NA", "Vital Spirit", "Anger Point", "Defiant", "50", "50", "28", "50", "2 Atk.", "80", "0", "20", "6", "45"]
+	],
+	"rocksmashCommon": [],
+	"rocksmashUncommon": [
+		["Binacle", "688", "Two-Handed", "Rock", "Water", "Tough Claws", "Sniper", "Pickpocket", "50", "50", "22", "38", "1 Atk.", "80", "0", "20", "1", "17"]
+	],
+	"rocksmashRare": [],
+	"rocksmashVeryRare": [],
+	"rocksmashUltraRare": [
+		["Barbaracle", "689", "Collective", "Rock", "Water", "Tough Claws", "Sniper", "Pickpocket", "50", "50", "40", "54", "2 Atk.", "80", "0", "20", "12", "84"]
+	],
+	"itemsCommon": ["Poke Ball", "Gimmighoul Coins(10)"],
+	"itemsUncommon": ["Great Ball", "Gimmighoul Coins(50)", "Shell"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Net Ball", "Gimmighoul Coins(100)", "Pearl", "Water Stone"],
+	"itemsVeryRare": ["Gimmighoul Coins(150)", "Spell Tag", "Big Pearl", "Eye Patch"],
+	"itemsUltraRare": ["Gimmighoul Coins(200)", "TM Brine", "Pearl String", "Pirate Hat"]
+}

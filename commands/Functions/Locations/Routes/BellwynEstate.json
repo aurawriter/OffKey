@@ -1,0 +1,192 @@
+{
+		"connections": ["Bellwyn City","Mirage Forest"],
+		
+		"goals": 
+		[
+			["Bellwyn City","Mirage Forest", "7"],
+			["Mirage Forest","Bellwyn City","7"]
+		],
+		"locationColor": "#FDFDE9",
+		
+		"locationName": "Bellwyn Estate",
+		
+		"locationDescription": "A highly maintained and extremely expensive public garden designed to cater to the rich living next door in Bellwyn City. Decorative water fountains and beds of perfect, colour coordinated tulips are a commonality. An odd mansion sits at the end of a long path, guarded by a massive gate. Do NOT walk on the grass.",
+
+	"happeningsList": [
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LootPokemon", "You spot a Pokemon holding an item. If you want to claim the item, you have to defeat it!" ],
+		[ "WaterPokemon", "You come across a water fountain with a Pokemon." ],
+		[ "SweetScent", "A sweet scent is wafting through the area...if you stick around, a Pokemon may appear!" ],
+		[ "ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?" ],
+		[ "Scenery", "You're making absolutely sure you're not touching the grass." ],
+		[ "Scenery", "Take some time to smell the roses...oh wait. There are none" ],
+		[ "Scenery", "Take some time to smell the tulips." ],
+		[ "Scenery", "How bad could it possibly be to touch the grass?" ],
+		[ "Scenery", "Smells like rich people" ],
+		[ "Scenery", "Even the grass looks expensive" ],
+		[ "Scenery", "You feel like you're not welcome here" ],
+		[ "Scenery", "Two old people glare at you as you walk past." ],
+		[ "Scenery", "You pass yet another decorative water fountain" ],
+		[ "Scenery", "This is a lovely place for rich people to pretend like they didn't set the world on fire." ],
+		[ "TrainerBattle", "When trainers eyes meet, a fight can break out!" ],
+		[ "HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..." ],
+		[ "Roll Shortcut", "If you can sneak over this patch of grass without getting caught, you'll be out of the garden in no time!" ],
+		[ "Roll Item", "There's an item over there. If you can sneak over this patch of grass without getting caught, you'll be able to claim it!" ]
+		],
+		"trainersList":
+		[
+		["Old Man","#A8A878","Male","200","Chatot","Hoothoot","Noctowl","Persian","Flaaffy","Growlithe","Roserade","Slowking","Granbull","Umbreon","Delcatty","Lillipup","Stoutland","Jolteon","Murkrow","Growlithe","Ponyta","Eevee","Sandshrew","Meowth","Vulpix","Polteageist"],
+		["Socialite","#A8A878","Female","200","Lopunny","Glameow","Roselia","Swoobat","Furfrou","Carbink","Comfey","Roselia","Kricketot","Chimecho","Purugly"],
+		["Gentleman","#A8A878","Male","200","Chatot","Hoothoot","Noctowl","Persian","Flaaffy","Growlithe","Roserade","Slowking","Granbull","Umbreon","Delcatty","Lillipup","Stoutland","Jolteon","Murkrow","Growlithe","Ponyta","Eevee","Sandshrew","Meowth","Vulpix","Polteageist"],
+		["Gardener","#78C850","Female","64","Corphish","Gabite","Petilil","Roselia","Gossifleur","Budew","Roserade","Eldegoss","Snivy","Servine","Serperior"],
+		["Rich Boy,","#A8A878","Male","120","Azumarill","Ampharos","Tranquill","Poochyena","Wooper","Poliwag","Prinplup","Blissey","Aipom","Murkrow","Blitzle","Patrat","Herdier","Lanturn","Furfrou","Pyroar"],
+		["Lady","#A8A878","Female","120","Roselia","Luvdisc","Lotad","Mareep","Flaaffy","Hoppip","Skiploom","Persian","Buneary","Lopunny","Cleffa","Clefairy","Cherubi","Cherrim","Bellossom","Meowth","Vulpix","Eevee","Stoutland","Vileplume","Corsola","Pyroar","Mismagius"],
+		["Butler","#A8A878","Male","80","Clefairy","Growlithe","Cinccino","Klefki"],
+		["Maid","#A8A878","Female","60","Clefairy","Growlithe","Cinccino","Klefki"],
+		["Elite Trainer","#A8A878","Male","100","Weezing","Bronzong","Eelektross","Steelix","Electrode","Kangaskhan","Absol","Chandelure","Lanturn","Marowak","Ampharos","Carbink","Kingdra","Beartic","Vanilluxe","Mamoswine"],
+		["Top Trainer","#A8A878","Female","100","Weavile","Sharpedo","Gardevoir","Sneasel","Cloyster","Magcargo","Sableye","Crustle","Granbull","Helioptile","Cryogonal","Piloswine"]
+		],
+		
+		"landCommon":
+		[
+		["Lillipup","506","Puppy","Normal","NA","Vital Spirit","Pickup","Run Away","50","50","4","15","1 Atk.","80","0","20",".25","17","Medium Slow","55","50"],
+		["Glameow","431","Catty","Normal","NA","Limber","Own Tempo","Keen Eye","25","75","20","37","1 Speed","80","0","20","2","17","Fast","62","50"],
+		["Meowth","052","Scratch Cat","Normal","NA","Pickup","Technician","Unnerve","50","50","10","28","1 Speed","80","0","20",".5","16","Medium Fast","58","50"],
+		["Wurmple","265","Worm","Bug","NA","Shield Dust","NA","Run Away","50","50","4","8","1 HP","80","0","20",".125","16","Medium Fast","56","50"]
+		],
+		"landUncommon":
+		[
+		["Petilil","548","Bulb","Grass","NA","Chlorophyll","Own Tempo","Leaf Guard","0","100","13","27","1 Sp. Atk.","80","0","20",".25","17","Medium Fast","56","50"],
+		["Furfrou","676","Poodle","Normal","NA","Fur Coat","NA","NA","50","50","10","23","1 Speed","80","0","20","10","59","Medium Fast","165","50"],
+		["Furfrou","676","Poodle","Normal","NA","Fur Coat","NA","NA","50","50","42","46","1 Speed","80","0","20","10","59","Medium Fast","165","50"],
+		[ "Plusle", "311", "Cheering", "Electric", "NA", "Plus", "NA", "Lightning Rod", "50", "50", "5", "20", "1 Speed", "80", "0", "20", "6", "40", "Medium Fast", "142","50"],
+		["Minun","312","Cheering","Electric","NA","Minus","NA","Lightning Rod","50","50","5","20","1 Speed","80","0","20","6","40","Medium Fast","142","50"],
+		["Sinistea(Phony)","854","Black Tea","Ghost","NA","Weak Armor","NA","Cursed Body","0","0","10","30","1 Sp. Atk.","80","0","20","2","18","Medium Fast","62","50"],
+		["Herdier","507","Loyal Dog","Normal","NA","Intimidate","Sand Rush","Scrappy","50","50","17","31","2 Atk.","80","0","20","7","50","Medium Slow","130","50"],
+		["Minccino","572","Chinchilla","Normal","NA","Cute Charm","Technician","Skill Link","25","75","15","24","1 Speed","80","0","20",".5","17","Fast","60","50"],
+		["Roselia","315","Thorn","Grass","Poison","Natural Cure","Poison Point","Leaf Guard","50","50","12","25","2 Sp. Atk.","80","0","20","5","43","Medium Slow","140","50"],
+		["Gossifleur","829","Flowering","Grass","NA","Cotton Down","Regenerator","Effect Spore","50","50","5","19","1 Sp. Def.","80","0","20",".5","17","Medium Fast","50","50"],
+		["Spritzee","682","Perfume","Fairy","NA","Healer","NA","Aroma Veil","50","50","22","35","1 HP","80","0","20","2","22","Medium Fast","68","50"],
+		["Oricorio(Pa'u)","741","Dancing","Psychic","Flying","Dancer","NA","NA","25","75","10","35","2 Sp. Atk.","80","0","20","7","50","Medium Fast","167","50"],
+		["Flabébé(Red)","669","Single Bloom","Fairy","NA","Flower Veil","NA","Symbiosis","0","100","6","18","1. Sp. Def","80","0","20",".5","17","Medium Fast","61","50"],
+			[ "Flabébé(Yellow)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+			[ "Flabébé(Orange)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+			[ "Flabébé(Blue)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+			[ "Flabébé(White)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ]
+		],
+		"landRare":
+		[
+		["Klefki","707","Key Ring","Steel","Fairy","Prankster","NA","Magician","50","50","42","54","1 Def.","80","0","20","8","48","Fast","165","50"],
+		["Budew","406","Bud","Grass","Poison","Natural Cure","Poison Point","Leaf Guard","50","50","5","14","1 Sp.Atk.","80","0","20",".25","17","Medium Slow","56","50"],
+		["Silcoon","266","Cocoon","Bug","NA","Shed Skin","NA","NA","50","50","6","11","2 Def.","80","0","20","1","29","Medium Fast","72","50"],
+		["Cascoon","268","Cocoon","Bug","NA","Shed Skin","NA","NA","50","50","6","11","2 Def.","80","0","20","1","29","Medium Fast","72","50"]
+		],
+		"landVeryRare":
+		[
+		["Sinistea(Antique)","854","Black Tea","Ghost","NA","Weak Armor","NA","Cursed Body","0","0","10","30","1 Sp. Atk.","80","0","20","2","18","Medium Fast","62","50"],
+		["Purugly","432","Tiger Cat","Normal","NA","Thick Fat","Own Tempo","Defiant","25","75","39","50","2 Speed","80","0","20","8","50","Fast","158","50"],
+		["Persian","053","Classy Cat","Normal","NA","Limber","Technician","Unnerve","50","50","28","50","2 Speed","80","0","20","7","40","Medium Fast","154","50"],
+		["Quaxly","912","Duckling","Water","NA","Torrent","NA","Moxie","87.5","12.5","5","10","1 Atk.","0","50","50",".5","17","Medium Slow","62","50"]
+		],
+		"landUltraRare":
+		[
+		["Lilligant","549","Flowering","Grass","NA","Chlorophyll","Own Tempo","Leaf Guard","0","100","28","41","2 Sp. Atk.","80","0","20","9","55","Medium Fast","168","50"],
+		["Quaxwell","913","Practicing","Water","NA","Torrent","NA","Moxie","87.5","12.5","16","34","2 Atk.","0","50","50","5","50","Medium Slow","144","50"],
+		["Quaquaval","914","Dancer","Water","NA","Moxie","87.5","12.5","36","49","3 Atk.","0","50","50","13","117","Medium Slow","265","50"],
+		["Stoutland","508","Big-Hearted","Normal","NA","Intimidate","Sand Rush","Scrappy","50","50","33","46","3 Atk.","80","0","20","14","122","Medium Slow","225","50"],
+		["Cinccino","573","Scarf","Normal","NA","Cute Charm","Technician","Skill Link","25","75","25","37","2 Speed","80","0","20","9","50","Fast","165","50"],
+		["Roserade","407","Bouquet","Grass","Poison","Natural Cure","Poison Point","Technician","50","50","35","50","3 Sp. Atk.","80","0","20","12","70","Medium Slow","232","50"],
+		["Eldegoss","830","Cotton Bloom","Grass","NA","Cotton Down","Regenerator","Effect Spore","50","50","20","40","2 Sp. Def.","80","0","20","Medium Fast","161","50"],
+		["Beautifly","267","Butterfly","Bug","Flying","Swarm","NA","Rivalry","50","50","10","12","3 Sp.Atk.","80","0","20","6","45","Medium Fast","178","50"],
+		["Dustox","269","Poison Moth","Bug","Poison","Shield Dust","NA","Compound Eyes","50","50","10","12","3 Sp. Def.","80","0","20","7","50","Medium Fast","173","50"],
+			[ "Floette(Red)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+			[ "Floette(Yellow)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+			[ "Floette(Orange)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+			[ "Floette(Blue)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+			[ "Floette(White)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+			[ "Florges(Red)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Florges(Yellow)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Florges(Orange)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Florges(Blue)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Florges(White)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Snivy", "495", "Grass Snake", "Grass", "NA", "Overgrow", "NA", "Contrary", "87.5", "12.5", "5", "16", "1 Speed", "80", "0", "20", ".5", "17", "Medium Fast", "248", "50" ],
+			[ "Servine", "496", "Grass Snake", "Grass", "NA", "Overgrow", "NA", "Contrary", "87.5", "12.5", "17", "35", "2 Speed", "80", "0", "20", "5", "50", "Medium Slow", "145", "50" ],
+			[ "Serperior", "497", "Regal", "Grass", "NA", "Overgrow", "NA", "Contrary", "87.5", "12.5", "36", "45", "3 Speed", "80", "0", "20", "13", "107", "Medium Slow", "238", "50" ],
+			[ "Aromatisse", "683", "Fragrance", "Fairy", "NA", "Healer", "NA", "Aroma Veil", "50", "50", "36", "48", "2 HP", "80", "0", "20", "12", "110", "Medium Fast", "162", "50" ]
+		],
+		"waterCommon":[],
+		"waterUncommon":[],
+		"waterRare":[],
+		"waterUltraRare":[],
+	"waterVeryRare": [
+		[ "Quaxly", "912", "Duckling", "Water", "NA", "Torrent", "NA", "Moxie", "87.5", "12.5", "5", "10", "1 Atk.", "0", "50", "50", ".5", "17", "Medium Slow", "62", "50" ]
+	],
+		"sweetscentCommon":[],
+	"sweetscentUncommon": [
+		[ "Lillipup", "506", "Puppy", "Normal", "NA", "Vital Spirit", "Pickup", "Run Away", "50", "50", "4", "15", "1 Atk.", "80", "0", "20", ".25", "17", "Medium Slow", "55", "50" ],
+		[ "Minccino", "572", "Chinchilla", "Normal", "NA", "Cute Charm", "Technician", "Skill Link", "25", "75", "15", "24", "1 Speed", "80", "0", "20", ".5", "17", "Fast", "60", "50" ],
+		[ "Gossifleur", "829", "Flowering", "Grass", "NA", "Cotton Down", "Regenerator", "Effect Spore", "50", "50", "5", "19", "1 Sp. Def.", "80", "0", "20", ".5", "17", "Medium Fast", "50", "50" ],
+		[ "Wurmple", "265", "Worm", "Bug", "NA", "Shield Dust", "NA", "Run Away", "50", "50", "4", "8", "1 HP", "80", "0", "20", ".125", "16", "Medium Fast", "56", "50" ],
+		[ "Silcoon", "266", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Cascoon", "268", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+		[ "Flabébé(Red)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Yellow)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Orange)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Blue)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(White)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ]
+	],
+	"sweetscentRare": [
+		[ "Roselia", "315", "Thorn", "Grass", "Poison", "Natural Cure", "Poison Point", "Leaf Guard", "50", "50", "12", "25", "2 Sp. Atk.", "80", "0", "20", "5", "43", "Medium Slow", "140", "50" ],
+		[ "Floette(Red)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Yellow)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Orange)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Blue)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(White)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ]
+	],
+	"sweetscentVeryRare": [
+		[ "Herdier", "507", "Loyal Dog", "Normal", "NA", "Intimidate", "Sand Rush", "Scrappy", "50", "50", "17", "31", "2 Atk.", "80", "0", "20", "7", "50", "Medium Slow", "130", "50" ],
+		[ "Budew", "406", "Bud", "Grass", "Poison", "Natural Cure", "Poison Point", "Leaf Guard", "50", "50", "5", "14", "1 Sp.Atk.", "80", "0", "20", ".25", "17", "Medium Slow", "56", "50" ],
+		[ "Spritzee", "682", "Perfume", "Fairy", "NA", "Healer", "NA", "Aroma Veil", "50", "50", "22", "35", "1 HP", "80", "0", "20", "2", "22", "Medium Fast", "68", "50" ],
+		[ "Beautifly", "267", "Butterfly", "Bug", "Flying", "Swarm", "NA", "Rivalry", "50", "50", "10", "12", "3 Sp.Atk.", "80", "0", "20", "6", "45", "Medium Fast", "178", "50" ],
+		[ "Dustox", "269", "Poison Moth", "Bug", "Poison", "Shield Dust", "NA", "Compound Eyes", "50", "50", "10", "12", "3 Sp. Def.", "80", "0", "20", "7", "50", "Medium Fast", "173", "50" ],
+		[ "Aromatisse", "683", "Fragrance", "Fairy", "NA", "Healer", "NA", "Aroma Veil", "50", "50", "36", "48", "2 HP", "80", "0", "20", "12", "110", "Medium Fast", "162", "50" ]
+	],
+		"sweetscentUltraRare":
+		[
+			[ "Lilligant", "549", "Flowering", "Grass", "NA", "Chlorophyll", "Own Tempo", "Leaf Guard", "0", "100", "28", "41", "2 Sp. Atk.", "80", "0", "20", "9", "55", "Medium Fast", "168", "50" ],
+			[ "Cinccino", "573", "Scarf", "Normal", "NA", "Cute Charm", "Technician", "Skill Link", "25", "75", "25", "37", "2 Speed", "80", "0", "20", "9", "50", "Fast", "165", "50" ],
+			[ "Roserade", "407", "Bouquet", "Grass", "Poison", "Natural Cure", "Poison Point", "Technician", "50", "50", "35", "50", "3 Sp. Atk.", "80", "0", "20", "12", "70", "Medium Slow", "232", "50" ],
+			[ "Eldegoss", "830", "Cotton Bloom", "Grass", "NA", "Cotton Down", "Regenerator", "Effect Spore", "50", "50", "20", "40", "2 Sp. Def.", "80", "0", "20", "Medium Fast", "161", "50" ],
+			[ "Florges(Red)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Florges(Yellow)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Florges(Orange)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Florges(Blue)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+			[ "Florges(White)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ]
+		],
+		"headbuttCommon":[],
+		"headbuttUncommon":
+		[
+			[ "Wurmple", "265", "Worm", "Bug", "NA", "Shield Dust", "NA", "Run Away", "50", "50", "4", "8", "1 HP", "80", "0", "20", "0.125", "16", "Medium Fast", "56", "50" ]
+		],
+		"headbuttRare":[],
+		"headbuttVeryRare":
+		[
+			[ "Silcoon", "266", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ],
+			[ "Cascoon", "268", "Cocoon", "Bug", "NA", "Shed Skin", "NA", "NA", "50", "50", "6", "11", "2 Def.", "80", "0", "20", "1", "29", "Medium Fast", "72", "50" ]
+		],
+		"headbuttUltraRare":
+		[
+			[ "Beautifly", "267", "Butterfly", "Bug", "Flying", "Swarm", "NA", "Rivalry", "50", "50", "10", "12", "3 Sp.Atk.", "80", "0", "20", "6", "45", "Medium Fast", "178", "50" ],
+			[ "Dustox", "269", "Poison Moth", "Bug", "Poison", "Shield Dust", "NA", "Compound Eyes", "50", "50", "10", "12", "3 Sp. Def.", "80", "0", "20", "7", "50", "Medium Fast", "173", "50" ]
+		],
+		"itemsCommon": ["Poke Ball","Honey"],
+		"itemsUncommon":["Great Ball","Red Tulip","Orange Tulip","Pink Nectar"],
+		"itemsRare": ["Max Revive","Ultra Ball","Luxury Ball","Nugget","Sachet","Shiny Stone","Chipped Pot","Cracked Pot"],
+		"itemsVeryRare":["TM Attract","TM Captivate","TM Swagger","Stardust"],
+		"itemsUltraRare":["TM Play Rough","TM Dazzling Gleam","TM Taunt","Amulet Coin","Clear Amulet","Big Nugget"]
+	}

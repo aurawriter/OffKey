@@ -1,0 +1,24 @@
+{
+	"dialogue":
+	[
+	["Neutral","Random","'Ever since the circus moved in, I've been having carnival food for breakfast lunch and dinner. I love it, but my gut sure doesn't! Haw haw haw!'"],
+	["Neutral","Random","'I don't think these carnival rides are OSHA-compliant.'"],
+	["Neutral","Clown","'Honk!'"],
+	["Neutral","Random","'… I’m so scared of clowns. That one over there is watching me, I know it!'"],
+	["Corp","Clown","'Hey there, honk honk! Lookin' for Otto? She's in the big top, as usual, honk!'"],
+	["Knight","Clown","'Honk ho—gah! Knights!? What are you doing here!?'"],
+	["Neutral","Random","'You know these games are rigged, right?'"],
+	["Neutral","Random","'I know these games aren’t rigged! I saw the lady who runs the place winning toys left and right for some kids!'"],
+	["Neutral","Random","'I’m thinking about entering my Machoke into the Strongman Contest. Or is it Strong-Pokeman Contest? … Nevermind, I don’t really like that.'"],
+	["Neutral","Random","'Sigh... The kids are certainly pleased, but I miss when Larkspur was a quiet town. This is not the environment I expected to raise a baby in.'"],
+	["Neutral","Random","'I tried to win the pie eating contest. I really, really tried.'"],
+	["Neutral","Random","'All this greasy carnival food is bad for my skin. I'm breaking out!'"],
+	["Neutral","Random","'I was thinking of moving to Falnook, but apparently they've got their own problems...'"],
+	["Neutral","Random","'The gym leader's moves that should be not very effective are super effective, I don't understand...'"],
+	["Neutral","ConspiracyGuy","'What if...the champion...is one of these clowns...'"]
+	],
+	"quests":
+	[
+	["Sonny","306296046575681546","-1","2","'I can’t believe I forgot… There’s no way I can show my face there *now!* What do I do?'","NA","Quest: Better Than a Text at Least"],
+	]
+}

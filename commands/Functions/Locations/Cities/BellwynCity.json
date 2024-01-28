@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		[ "Neutral", "Random", "'Sighh.... I like, think Klefki are cute and all, but I just wish they didn't live so close. This is the fourth key of mine I've had gone missing. My neighbour got locked out of her house the other day. What pesky little creatures!'" ],
+		[ "Neutral", "Random", "'On days where the wind is strong, you can smell the faint stench of trash from the junkyard. It's disgusting! I didn't pay a fortune to have my senses assaulted like this!'" ],
+		[ "Neutral", "Random", "'Oh god, I think I just swallowed a Cutiefly!'" ],
+		[ "Neutral", "Random", "'Do you think they'll demolish that abandoned house in this neighborhood eventually? It's unsightly.'" ],
+		[ "Neutral", "Random", "'Did you know we have a contest star who moved here from overseas? Just goes to show how desirable of a city Bellwyn is! I mean, she’s nowhere near *Juli’s* level, but—'" ],
+		[ "Neutral", "Random", "'There’s a strange man who, every day after dark, takes a walk through the city with his Noivern. I haven’t seen them in a while though… What? I’m not gossiping!'" ],
+		[ "Neutral", "Random", "'… Hm. You’re not from around here are you? Oh, I can tell. Not that that’s a *bad* thing… I guess.'" ],
+		[ "Neutral", "Random", "'Oh sweetheart, are you lost? Perhaps you were looking for Larkspur? Fufufu~'" ],
+		[ "Neutral", "Random", "'Do you get to the Bellwyn Estate very often? Oh, what am I saying, of course you don't.'" ],
+		[ "Neutral", "Random", "'You *clearly* don’t own an *air fryer.*'" ],
+		[ "Neutral", "Random", "'Marlene! Have you seen Jessica's Furfrou? Oh Arceus, that cut is *horrendous*. The poor thing! ....Uh, excuse me? Do you mind? This is a private conversation.'" ],
+		[ "Neutral", "Random", "'I just bought some new socks! They cost your entire year's salary!'" ],
+		[ "Neutral", "Random", "'Hey! Watch where you're going! If you hurt me, my father will sue you.'" ],
+		[ "Neutral", "Random", "'The secret to my wealth? I put most of my money in a bank account over in Johto... What do you mean, 'that's illegal?''" ],
+		[ "Neutral", "Random", "'Ugh, my idiot Dad bought me a *green* Espeon. I wanted a pink one!'" ],
+		[ "Neutral", "Random", "'I thought it'd be cool living so close to the Restoration Corporation's leader, but he's rarely ever home...'" ],
+		[ "Neutral", "Random", "'The way Sableye chow down on gemstones make them look real tasty... but no, I shouldn't..... Or should I?'" ],
+		[ "Neutral", "Random", "'I occasionally see some Quaxly in the fountains in the estate...they look so cute!'" ],
+		[ "Neutral", "Random", "'Did you know? Fukase's daughter is actually adopted. He's so kind... Do you think he's looking for a wife?'" ],
+		[ "Corp", "Kaz", "'Piss off, WAGE SLAVE'" ],
+		[ "Neutral", "Random", "'I have a Ducklett and a Quaxly. They don't seem to get along though...'" ],
+		[ "Neutral", "Random", "'I hear that scary girl from Team Knight used to live here. Good riddance, honestly!'" ],
+		[ "Knight", "Ariea", "'If you're not here to switch to the *right* team, we have no business talking'" ]
+	],
+	"quests": [
+		[ "Braeden", "306296046575681546", "-1", "-3", "'*There is no pain as great as the memory of joy in present grief…* Oh, how I miss her so! The night feels far too empty now…'", "NA", "Quest: Going Batty" ],
+		[ "Vinny", "218031294209064962", "-2", "1", "'Excuse me, are you with the Knights? I've got a small favor to ask.'", "'Hm? I look like I need help? Do I, now?'", "Quest: Ponyta Express" ],
+		[ "Ariea", "306296046575681546", "11", "-5", "NA", "'Have you seen that nerdy assistant to the Knight's *so-called* professor? I think he has something we may want. You'll get it for me, *right?*'", "Mission: I Want That Twink Obliterated" ]
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"dialogue": [
+		[ "Neutral", "Random", "'Why is ice cream so popular in cold climates? People here are weird.'" ],
+		[ "Neutral", "Random", "'There’s nothing better than a ice cream cone on a cold day!'" ],
+		[ "Neutral", "Random", "'... Ice cream makes my teeth hurt... What? You’re not *supposed* to bite it?'" ],
+		[ "Neutral", "Random", "'AAAAAAAAH BRAINFREEZE-'" ],
+		[ "Neutral", "Random", "'It’s always fun seeing tourists underestimate how cold the city is. Or how slippery the roads are. Watch your step!'" ],
+		[ "Neutral", "Random", "'I found the *cutest* clothes for my pokémon here! Now they’ll be all bundled up and cozy!'" ],
+		[ "Neutral", "Random", "'Have you been to the restaurant *'Frost Bites'*? The name is a bit silly, but they have the best food in Misen! Their desserts are well worth the trek up here.'" ],
+		[ "Neutral", "Random", "'… I feel like the head chef is being overworked or something. Last time I went for lunch, he brought out my food and took a seat in the booth with me. Then he falls asleep! What am I supposed to *do8 about that?!'" ],
+		[ "Neutral", "Random", "'My three-year old is having trouble telling ice-cream apart from the Vanniluxe line. I had to stop her from taking a bite of some poor sod's pokemon the other day...'" ],
+		[ "Neutral", "Random", "'You better be dressed for the weather out here. Sugartop Mountain's a cute name and all, but there's nothing cute about the icy talons of natural selection.'" ],
+		[ "Neutral", "Random", "'When you drink a hot beverage and you feel the heat spilling and blooming in your chest... There is nothing like it!'" ],
+		[ "Neutral", "Random", "'Yeah, I totally saw the champion once. They gave me like five bucks and a brown paper bag and then walked away.'" ],
+		[ "Corp", "Random", "'I'm thinking about joining the Restoration Corporation. What's your pay like?'" ],
+		[ "Knight", "Random", "'Soo... You terrorise people for what? Just for fun?'" ],
+		[ "Neutral", "Random", "'I'm making a snow Pikachu, but the ears keep breaking...'" ]
+	],
+	"quests":
+	[	]
+}

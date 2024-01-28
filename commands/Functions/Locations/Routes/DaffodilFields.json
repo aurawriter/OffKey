@@ -1,0 +1,137 @@
+{
+	"connections": ["Larkspur Town", "Weybus City"],
+	"goals": [
+		["Larkspur Town", "Weybus City", "10"],
+		["Weybus City", "Larkspur Town", "10"]
+	],
+	"locationColor": "#8AAD61",
+	"locationName": "Daffodil Fields",
+	"locationDescription": "A field covered in daffodils, known well for its history as the main battleground in the war between Siose and Misen. Despite its gruesome history, the grasslands is known now as a beautiful and tranquil location. Many Honedge and Fairy-types roam this area. However, tourists beware, as catching any of the Honedge line is considered incredibly taboo in Misen.",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?"],
+		["SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["Scenery", "Smells like a sad memory of a war-long past"],
+		["Scenery", "It's hard to imagine what this area looked like while it was a warzone"],
+		["Scenery", "A sea of yellow and white flowers stretches before you"],
+		["Scenery", "The amount of pollen here is enough to make anyone sneeze"],
+		["Scenery", "So peaceful, so serene"],
+		["Scenery", "A calming breeze blows against your face"]
+	],
+	"landCommon": [
+		[ "Hoppip", "187", "Cottonweed", "Grass", "Flying", "Chlorophyll", "Leaf Guard", "Infiltrator", "50", "50", "5", "17", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Slow", "50", "50" ],
+		[ "Stufful", "759", "Flailing", "Normal", "Fighting", "Fluffy", "Klutz", "Cute Charm", "50", "50", "10", "26", "1 Atk.", "80", "0", "20", "1", "20", "Medium Fast", "68", "50" ],
+		[ "Scatterbug", "664", "Scatterdust", "Bug", "NA", "Shield Dust", "Compound Eyes", "Friend Guard", "50", "50", "3", "8", "1 Def.", "80", "0", "20", ".125", "16", "Medium Fast", "40", "50" ]
+	],
+	"landUncommon": [
+		[ "Sunkern", "191", "Seed", "Grass", "NA", "Chlorophyll", "Solar Power", "Early Bird", "50", "50", "2", "50", "1 Sp. Atk.", "80", "0", "20", ".25", "18", "Medium Slow", "36", "50" ],
+		[ "Cottonee", "546", "Cotton Puff", "Grass", "Fairy", "Prankster", "Infiltrator", "Chlorophyll", "50", "50", "5", "25", "1 Speed", "80", "0", "20", ".5", "17", "Medium Fast", "56", "50" ],
+		[ "Flabébé(Red)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Yellow)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Orange)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Blue)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(White)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Fomantis", "753", "Sickle Grass", "Grass", "NA", "Leaf Guard", "NA", "Contrary", "50", "50", "10", "30", "1 Atk.", "80", "0", "20", ".125", "16", "Medium Fast", "50", "50" ],
+		[ "Combee", "415", "Tiny Bee", "Bug", "Flying", "Honey Gather", "NA", "Hustle", "87.5", "12.5", "6", "16", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "49", "50" ],
+		[ "Cutiefly", "742", "Bee Fly", "Bug", "Fairy", "Honey Gather", "Shield Dust", "Sweet Veil", "50", "50", "5", "24", "1 Speed", "80", "0", "20", ".25", "16", "Medium Fast", "61", "50" ],
+		[ "Honedge", "679", "Sword", "Steel", "Ghost", "No Guard", "NA", "NA", "50", "50", "15", "34", "1 Def.", "80", "0", "20", "1", "17", "Medium Fast", "65", "50" ],
+		[ "Oricorio(Pom-Pom)", "741", "Dancing", "Electric", "Flying", "Dancer", "NA", "NA", "25", "75", "10", "35", "2 Sp. Atk.", "80", "0", "20", "7", "50", "Medium Fast", "167", "50" ]
+	],
+	"landRare": [
+		[ "Eevee", "133", "Evolution", "Normal", "NA", "Run Away", "Adaptability", "Anticipation", "87.5", "12.5", "10", "15", "1 Sp. Def.", "80", "0", "20", ".5", "16", "Medium Fast", "65", "50" ],
+		[ "Comfey", "764", "Posy Picker", "Fairy", "NA", "Flower Veil", "Triage", "Natural Cure", "25", "75", "15", "35", "2 Sp. Def.", "80", "0", "20", "9", "43", "Fast", "170", "50" ],
+		[ "Skiploom", "188", "Cottonweed", "Grass", "Flying", "Chlorophyll", "Leaf Guard", "Infiltrator", "50", "50", "18", "26", "2 Speed", "80", "0", "20", "6", "50", "Medium Slow", "119", "50" ],
+		[ "Spewpa", "665", "Scatterdust", "Bug", "NA", "Shed Skin", "NA", "Friend Guard", "50", "50", "10", "11", "2 Def.", "80", "0", "20", "1", "24", "Medium Fast", "75", "50" ],
+		[ "Vivillon(Fancy)", "666", "Scale", "Bug", "Flying", "Shield Dust", "Compound Eyes", "Friend Guard", "50", "50", "13", "24", "1 HP,1 Sp. Atk.,1 Speed", "80", "0", "20", "8", "61", "Medium Fast", "185", "50" ],
+		[ "Vivillon(Garden)", "666", "Scale", "Bug", "Flying", "Shield Dust", "Compound Eyes", "Friend Guard", "50", "50", "13", "24", "1 HP,1 Sp. Atk.,1 Speed", "80", "0", "20", "8", "61", "Medium Fast", "185", "50" ],
+		[ "Vivillon(Meadow)", "666", "Scale", "Bug", "Flying", "Shield Dust", "Compound Eyes", "Friend Guard", "50", "50", "13", "24", "1 HP,1 Sp. Atk.,1 Speed", "80", "0", "20", "8", "61", "Medium Fast", "185", "50" ],
+		[ "Vivillon(Sun)", "666", "Scale", "Bug", "Flying", "Shield Dust", "Compound Eyes", "Friend Guard", "50", "50", "13", "24", "1 HP,1 Sp. Atk.,1 Speed", "80", "0", "20", "8", "61", "Medium Fast", "185", "50" ]
+	],
+	"landVeryRare": [
+	],
+	"landUltraRare": [
+		[ "Togepi", "175", "Spike Ball", "Fairy", "NA", "Hustle", "Serene Grace", "Super Luck", "87.5", "12.5", "5", "14", "1 Sp. Def.", "80", "0", "20", "1", "17", "Fast", "49", "50" ],
+		[ "Togetic", "176", "Happiness", "Fairy", "Flying", "Hustle", "Serene Grace", "Super Luck", "87.5", "12.5", "15", "50", "2 Sp. Def.", "80", "0", "20", "8", "45", "Fast", "142", "50" ],
+		[ "Togekiss", "468", "Jubilee", "Fairy", "Flying", "Hustle", "Serene Grace", "Super Luck", "87.5", "12.5", "45", "55", "2 Sp. Atk., 1 Sp. Def.", "80", "0", "20", "14", "131", "Fast", "245", "50" ],
+		[ "Leafeon", "470", "Verdant", "Grass", "NA", "Leaf Guard", "NA", "Chlorophyll", "87.5", "12.5", "45", "50", "2 Def.", "80", "0", "20", "8", "55", "Medium Fast", "184","35" ],
+		[ "Sunflora", "192", "Sun", "Grass", "NA", "Chlorophyll", "Solar Power", "Early Bird", "50", "50", "10", "50", "2 Sp. Atk.", "80", "0", "20", "7", "55", "Medium Slow", "149", "50" ],
+		[ "Whimsicott", "547", "Windveiled", "Grass", "Fairy", "Prankster", "Infiltrator", "Chlorophyll", "50", "50", "25", "35", "2 Speed", "80", "0", "20", "8", "50", "Medium Fast", "168", "50" ],
+		[ "Floette(Red)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Yellow)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Orange)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Blue)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(White)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Florges(Red)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Florges(Yellow)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Florges(Orange)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Florges(Blue)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Florges(White)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Jumpluff", "189", "Cottonweed", "Grass", "Flying", "Chlorophyll", "Leaf Guard", "Infiltrator", "50", "50", "27", "55", "3 Speed", "80", "0", "20", "13", "107", "Medium Slow", "207", "50" ],
+		[ "Lurantis", "754", "Bloom Sickle", "Grass", "NA", "Leaf Guard", "NA", "Contrary", "50", "50", "34", "50", "2 Atk.", "80", "0", "20", "10", "72", "Medium Fast", "168", "50" ],
+		[ "Vespiquen", "416", "Beehive", "Bug", "Flying", "Pressure", "NA", "Unnerve", "0", "100", "26", "44", "1 Def.,1 Sp. Def.", "80", "0", "20", "8", "55", "Medium Slow", "166", "50" ],
+		[ "Ribombee", "743", "Bee Fly", "Bug", "Fairy", "Honey Gather", "Shield Dust", "Sweet Veil", "50", "50", "25", "45", "2 Speed", "80", "0", "20", "7", "50", "Medium Fast", "162", "50" ],
+		[ "Smeargle", "235", "Painter", "Normal", "NA", "Own Tempo", "Technician", "Moody", "50", "50", "5", "40", "1 Speed", "80", "0", "20", "1", "18", "Fast", "88", "50" ],
+		[ "Bewear", "760", "Strong Arm", "Normal", "Fighting", "Fluffy", "Klutz", "Unnerve", "50", "50", "27", "45", "2 Atk.", "80", "0", "20", "10", "71", "Medium Fast", "175", "50" ],
+		[ "Doublade", "680", "Sword", "Steel", "Ghost", "No Guard", "NA", "NA", "50", "50", "36", "49", "2 Def.", "80", "0", "20", "10", "76", "Medium Fast", "157", "50" ],
+		[ "Aegislash(Blade)", "681", "Royal Sword", "Steel", "Ghost", "Stance Guard", "NA", "NA", "50", "50", "50", "62", "2 Atk.,1 Sp. Atk.", "80", "0", "20", "13", "120", "Medium Fast", "234", "50" ],
+		[ "Aegislash(Shield)", "681", "Royal Sword", "Steel", "Ghost", "Stance Guard", "NA", "NA", "50", "50", "50", "62", "2 Def.,1 Sp. Def.", "80", "0", "20", "13", "120", "Medium Fast", "234", "50" ]
+	],
+	"sweetscentCommon": [
+			],
+	"sweetscentUncommon": [
+		[ "Sunkern", "191", "Seed", "Grass", "NA", "Chlorophyll", "Solar Power", "Early Bird", "50", "50", "2", "50", "1 Sp. Atk.", "80", "0", "20", ".25", "18", "Medium Slow", "36", "50" ],
+		[ "Flabébé(Red)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Yellow)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Orange)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(Blue)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Flabébé(White)", "669", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "6", "18", "1. Sp. Def", "80", "0", "20", ".5", "17", "Medium Fast", "61", "50" ],
+		[ "Combee", "415", "Tiny Bee", "Bug", "Flying", "Honey Gather", "NA", "Hustle", "87.5", "12.5", "6", "16", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "49", "50" ],
+		[ "Cutiefly", "742", "Bee Fly", "Bug", "Fairy", "Honey Gather", "Shield Dust", "Sweet Veil", "50", "50", "5", "24", "1 Speed", "80", "0", "20", ".25", "16", "Medium Fast", "61", "50" ]
+	],
+	"sweetscentRare": [
+		[ "Floette(Red)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Yellow)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Orange)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(Blue)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ],
+		[ "Floette(White)", "670", "Single Bloom", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "15", "22", "2 Sp. Def.", "80", "0", "20", "8", "52", "Medium Fast", "130", "50" ]
+	],
+	"sweetscentVeryRare": [
+		],
+	"sweetscentUltraRare": [
+		[ "Sunflora", "192", "Sun", "Grass", "NA", "Chlorophyll", "Solar Power", "Early Bird", "50", "50", "10", "50", "2 Sp. Atk.", "80", "0", "20", "7", "55", "Medium Slow", "149", "50" ],
+		[ "Florges(Red)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Florges(Yellow)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Florges(Orange)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Florges(Blue)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Florges(White)", "671", "Garden", "Fairy", "NA", "Flower Veil", "NA", "Symbiosis", "0", "100", "34", "49", "3 Sp. Def.", "80", "0", "20", "14", "127", "Medium Fast", "248", "50" ],
+		[ "Vespiquen", "416", "Beehive", "Bug", "Flying", "Pressure", "NA", "Unnerve", "0", "100", "26", "44", "1 Def.,1 Sp. Def.", "80", "0", "20", "8", "55", "Medium Slow", "166", "50" ],
+		[ "Ribombee", "743", "Bee Fly", "Bug", "Fairy", "Honey Gather", "Shield Dust", "Sweet Veil", "50", "50", "25", "45", "2 Speed", "80", "0", "20", "7", "50", "Medium Fast", "162", "50" ],
+		[ "Vivillon(Poke Ball)", "666", "Scale", "Bug", "Flying", "Shield Dust", "Compound Eyes", "Friend Guard", "50", "50", "13", "24", "1 HP,1 Sp. Atk.,1 Speed", "80", "0", "20", "8", "61", "Medium Fast", "185", "50" ]
+	],
+	"headbuttCommon": [
+		],
+	"headbuttUncommon": [
+		[ "Combee", "415", "Tiny Bee", "Bug", "Flying", "Honey Gather", "NA", "Hustle", "87.5", "12.5", "6", "16", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "49", "50" ],
+		[ "Scatterbug", "664", "Scatterdust", "Bug", "NA", "Shield Dust", "Compound Eyes", "Friend Guard", "50", "50", "3", "8", "1 Def.", "80", "0", "20", ".125", "16", "Medium Fast", "40", "50" ]
+	],
+	"headbuttRare": [
+		[ "Spewpa", "665", "Scatterdust", "Bug", "NA", "Shed Skin", "NA", "Friend Guard", "50", "50", "10", "11", "2 Def.", "80", "0", "20", "1", "24", "Medium Fast", "75", "50" ]
+	],
+	"headbuttVeryRare": [
+		],
+	"headbuttUltraRare": [
+		[ "Vespiquen", "416", "Beehive", "Bug", "Flying", "Pressure", "NA", "Unnerve", "0", "100", "26", "44", "1 Def.,1 Sp. Def.", "80", "0", "20", "8", "55", "Medium Slow", "166", "50" ]
+	],
+	"itemsCommon": ["Poke Ball", "Yellow Daffodil", "Honey"],
+	"itemsUncommon": ["Great Ball", "Yellow Nectar", "White Daffodil"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Nest Ball", "Grassy Seed", "Oval Stone", "Shiny Stone"],
+	"itemsVeryRare": ["TM Silver Wind", "TM Safeguard", "TM Protect", "TM Cut", "Silver Powder", "Stardust", "Malicious Armor", "Auspicious Armor"],
+	"itemsUltraRare": ["TM Swords Dance", "TM Draining Kiss", "Ability Shield", "Bright Powder"]
+
+}

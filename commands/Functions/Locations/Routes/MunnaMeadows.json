@@ -1,0 +1,94 @@
+{
+	"connections": ["Yarnhop Village", "Meobi Village"],
+	"goals": [
+		["Yarnhop Village", "Meobi Village", "8"],
+		["Meobi Village", "Yarnhop Village", "8"]
+	],
+	"locationColor": "#3F702A",
+	"locationName": "Munna Meadows",
+	"locationDescription": "Munna Meadows, as the name implies, is home to many Munna as well as various pokemon commonly used for farming such as Miltank and Mareep. It is an expansive, flat area covered in grass, vegetable plants, and fruit trees grown from rogue seeds carried by Pokemon who commonly feast upon the farms of Meobi Village. A strange, lone church resides on he outskirts, backing Mirage Forest.",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?"],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"],
+		["Roll Obstacle", "There's a rather high fence here...you'll have to go around. Unless you can manage to climb over it"],
+		["Roll Shortcut", "There's a rather high fence here...but if you can get over it, you're sure you'll make good progress to getting out"],
+		["Roll Item", "There's an item behind a rather high fence. If you can get over it, it's yours to claim!"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["DistressedPokemon", "There's a Mareep that's somehow found itself flipped over and stuck on its back...do you want to help?"],
+		["Discovery Church", "There's a quaint little building here...it looks almost like a church! Would you like to approach?"],
+		["Scenery", "Smells like it's a big world outside"],
+		["Scenery", "The grass rolls in the wind"],
+		["Scenery", "You pass a quaint patch of carrots"],
+		["Scenery", "You pass a fruit tree"],
+		["Scenery", "Smells like you just stepped in Miltank dung...oh no."],
+		["Scenery", "You see Pokemon running in the distance."],
+		[ "Scenery", "You hear church bells ringing." ]	
+
+	],
+	"trainersList": [
+		["Caretaker", "#78C850", "Female", "64", "Mareep", "Lechonk", "Miltank", "Audino", "Tandemaus", "Buneary", "Wooloo", "Oinkologne", "Flaaffy"],
+		["Gardener", "#78C850", "Male", "64", "Gogoat", "Skiddo", "Corphish", "Gabite"],
+		["Pokemon Groomer", "#78C850", "Male", "64", "Mareep", "Lechonk", "Tauros", "Combusken", "Tandemaus", "Mudbray", "Wooloo", "Oinkologne", "Flaaffy"],
+		["Pokemon Breeder", "#78C850", "Female", "64", "Mareep", "Lechonk", "Miltank", "Audino", "Tandemaus", "Buneary", "Wooloo", "Oinkologne", "Flaaffy"],
+		["Rancher", "#78C850", "Male", "64", "Mareep", "Lechonk", "Tauros", "Combusken", "Tandemaus", "Mudbray", "Wooloo", "Oinkologne", "Flaaffy"]
+	],
+	"landCommon": [
+		[ "Taillow", "276", "Tiny Swallow", "Normal", "Flying", "Guts", "NA", "Scrappy", "50", "50", "5", "20", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "54", "50" ],
+		[ "Mareep", "179", "Wool", "Electric", "NA", "Static", "NA", "Plus", "50", "50", "5", "15", "1 Sp.Atk.", "80", "0", "20", ".25", "17", "Medium Slow", "56", "50" ],
+		[ "Lechonk", "915", "Hog", "Normal", "NA", "Aroma Veil", "Gluttony", "Thick Fat", "50", "50", "5", "17", "1 HP", "80", "0", "20", ".25", "16", "Medium Fast", "51", "50" ],
+		[ "Munna", "517", "Dream Eater", "Psychic", "NA", "Forewarn", "Synchronize", "Telepathy", "50", "50", "6", "17", "1 HP", "80", "0", "20", "2", "20", "Fast", "58", "50" ]
+	],
+	"landUncommon": [
+		[ "Miltank", "241", "Milk Cow", "Normal", "NA", "Thick Fat", "Scrappy", "Sap Sipper", "0", "100", "5", "15", "2 Def.", "80", "0", "20", "10", "80", "Slow", "172", "50" ],
+		[ "Skiddo", "672", "Mount", "Grass", "NA", "Sap Sipper", "NA", "Grass Pelt", "50", "50", "19", "31", "1 HP", "80", "0", "20", "1", "20", "Medium Fast", "70", "50" ],
+		[ "Spoink", "325", "Bounce", "Psychic", "NA", "Thick Fat", "Own Tempo", "Gluttony", "50", "50", "10", "25", "1 Sp.Def.", "80", "0", "20", ".5", "18", "Fast", "66", "50" ],
+		[ "Buneary", "427", "Rabbit", "Normal", "NA", "Run Away", "Klutz", "Limber", "50", "50", "7", "17", "1 Speed", "80", "0", "20", "2", "17", "Medium Fast", "70", "0" ],
+		[ "Mudbray", "749", "Donkey", "Ground", "NA", "Own Tempo", "Stamina", "Inner Focus", "50", "50", "10", "29", "1 Atk.", "80", "0", "20", "10", "29", "Medium Fast", "77", "50" ],
+		[ "Wooloo", "831", "Sheep", "Normal", "NA", "Fluffy", "Run Away", "Bulletproof", "50", "50", "7", "20", "1 Def.", "80", "0", "20", ".25", "16", "Medium Fast", "122", "50" ],
+		[ "Oinkologne(Male)", "916", "Hog", "Normal", "NA", "Lingering Aroma", "Gluttony", "Thick Fat", "100", "0", "18", "33", "2 HP", "80", "0", "20", "6", "50", "Medium Fast", "171", "50" ],
+		[ "Oinkologne(Female)", "916", "Hog", "Normal", "NA", "Aroma Veil", "Gluttony", "Thick Fat", "0", "100", "18", "33", "2 HP", "80", "0", "20", "6", "50", "Medium Fast", "171", "50" ]
+	],
+	"landRare": [
+		[ "Flaaffy", "180", "Wool", "Electric", "NA", "Static", "NA", "Plus", "50", "50", "15", "30", "2 Sp. Atk.", "80", "0", "20", "4", "50", "Medium Slow", "128", "50" ],
+		[ "Tauros", "128", "Wild Bull", "Normal", "NA", "Intimidate", "Anger Point", "Sheer Force", "100", "0", "15", "50", "1 Atk.,1 Speed", "0", "50", "50", "10", "70", "Slow", "172", "50" ],
+		[ "Audino", "531", "Hearing", "Normal", "NA", "Healer", "Regenerator", "Klutz", "50", "50", "28", "46", "2 HP", "80", "0", "20", "10", "70", "Fast", "390", "50" ],
+		[ "Tandemaus", "924", "Couple", "Normal", "NA", "Run Away", "Pickup", "Own Tempo", "0", "0", "10", "24", "1 Speed", "80", "0", "20", ".5", "16", "Fast", "61", "50" ],
+		[ "Elgyem", "605", "Cerebral", "Psychic", "NA", "Telepathy", "Synchronize", "Analytic", "50", "50", "30", "41", "1 Sp.Atk.", "80", "0", "20", "1", "18", "Medium Fast", "67", "50" ]
+	],
+	"landVeryRare": [
+		[ "Torchic", "255", "Chick", "Fire", "NA", "Blaze", "NA", "Speed Boost", "87.5", "12.5", "5", "15", "1 Sp. Atk.", "80", "0", "20", ".5", "16", "Medium Slow", "62", "50" ]
+	],
+	"landUltraRare": [
+		[ "Swellow", "277", "Swallow", "Normal", "Flying", "Guts", "NA", "Scrappy", "50", "50", "25", "35", "2 Speed", "80", "0", "20", "6", "40", "Medium Slow", "159", "50" ],
+		[ "Musharna", "518", "Drowsing", "Psychic", "NA", "Forewarn", "Synchronize", "Telepathy", "50", "50", "22", "35", "2 HP", "80", "0", "20", "13", "105", "Fast", "170", "50" ],
+		[ "Combusken", "256", "Young Fowl", "Fire", "Fighting", "Blaze", "NA", "Speed Boost", "87.5", "12.5", "16", "35", "1 Atk.,1 Sp.Atk.", "80", "0", "20", "5", "45", "Medium Slow", "142", "50" ],
+		[ "Ampharos", "181", "Light", "Electric", "NA", "Static", "NA", "Plus", "50", "50", "30", "50", "3 Sp. Atk.", "80", "0", "20", "12", "107", "Medium Slow", "230", "50" ],
+		[ "Gogoat", "673", "Mount", "Grass", "NA", "Sap Sipper", "NA", "Grass Pelt", "50", "50", "33", "46", "2 HP", "80", "0", "20", "12", "109", "Medium Fast", "186", "50" ],
+		[ "Grumpig", "326", "Manipulate", "Psychic", "NA", "Thick Fat", "Own Tempo", "Gluttony", "50", "50", "35", "50", "2 Sp. Def.", "80", "0", "20", "11", "88", "Fast", "165", "50" ],
+		[ "Lopunny", "428", "Rabbit", "Normal", "NA", "Cute Charm", "Klutz", "Scrappy", "50", "50", "28", "47", "2 Speed", "80", "0", "20", "9", "55", "Medium Fast", "168", "50" ],
+		[ "Mudsdale", "750", "Draft Horse", "Ground", "NA", "Own Tempo", "Stamina", "Inner Focus", "50", "50", "30", "50", "2 Atk.", "80", "0", "20", "10", "66", "Medium Fast", "175", "50" ],
+		[ "Dubwool", "832", "Sheep", "Normal", "NA", "Fluffy", "Steadfast", "Bulletproof", "50", "50", "25", "40", "2 Def.", "80", "0", "20", "12", "88", "Medium Fast", "172", "50" ],
+		[ "Beheeyem", "606", "Cerebral", "Psychic", "NA", "Telepathy", "Synchronize", "Analytic", "50", "50", "43", "54", "2 Sp. Atk.", "80", "0", "20", "11", "80", "Medium Fast", "170", "50" ],
+		[ "Maushold(Four)", "925", "Family", "Normal", "NA", "Friend Guard", "Cheek Pouch", "Technician", "0", "0", "26", "50", "2 Speed", "80", "0", "20", "10", "66", "Fast", "165", "50" ]
+	],
+	"headbuttCommon": [],
+	"headbuttUncommon": [
+		[ "Taillow", "276", "Tiny Swallow", "Normal", "Flying", "Guts", "NA", "Scrappy", "50", "50", "5", "20", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "54", "50" ]
+	],
+	"headbuttRare": [],
+	"headbuttVeryRare": [],
+	"headbuttUltraRare": [
+		[ "Swellow", "277", "Swallow", "Normal", "Flying", "Guts", "NA", "Scrappy", "50", "50", "25", "35", "2 Speed", "80", "0", "20", "6", "40", "Medium Slow", "159", "50" ]
+	],
+	"itemsCommon": ["Poke Ball", "Honey", "Light Green Leaf"],
+	"itemsUncommon": ["Great Ball", "Cheri Berry", "Chesto Berry", "Pecha Berry", "Rawst Berry", "Aspear Berry", "Oran Berry", "Persim Berry"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Grassy Seed", "Sitrus Berry", "Lum Berry"],
+	"itemsVeryRare": ["TM Natural Gift", "TM Fling", "Silk Scarf", "Destiny Knot", "Miracle Seed"],
+	"itemsUltraRare": ["TM Bullet Seed", "TM Solar Beam", "Leftovers"]
+}

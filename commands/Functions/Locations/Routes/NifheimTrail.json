@@ -1,0 +1,105 @@
+{
+	"connections": ["Potumel City", "Sugartop Mountains", "Steldom City"],
+	"goals": [
+		["Potumel City", "Sugartop Mountains", "10"],
+		["Potumel City", "Steldom City", "16"],
+		["Sugartop Mountains", "Potumel City", "10"],
+		["Sugartop Mountains", "Steldom City", "6"],
+		["Steldom City", "Potumel City", "16"],
+		["Steldom City", "Sugartop Mountains", "6"]
+	],
+	"locationColor": "#C6D4DE",
+	"locationName": "Nifheim Trail",
+	"locationDescription": "Many avoid traversing the Nifheim Trail on foot, and for good reason. Unlike the Sugartop Mountains, the slopes here are far steeper and far more dangerous. Only the most experienced hikers are recommended to travel on their own. Most others can easily find a guide from Potumel or Steldom in a pinch. While Ice-type Pokemon are a given, seeing the snowy atmosphere, Rock-types have also been found to enjoy the mountainous terrain. A chair lift exists to take people up and down the mountains, but it is often out of order due to frequent malfunctioning.",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?"],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["Roll Obstacle", "The rocks are rather sharp here...you'll have to go around. Unless you can manage to work your way through."],
+		["Roll Shortcut", "The rocks are rather sharp here...but if you can get through them, you're sure you'll make good progress to getting out"],
+		["Roll Item", "There's an item beyond some rather sharp rocks. If you can get through them, it's yours to claim!"],
+		["Roll Navigation", "Especially with the blizzard, it's easy to get lost, and end up somewhere you didn't mean to be going..."],
+		["Discovery SmallCave", "There's a cave to the side of the trail here...it'll be a nice shelter from the constant blizzard if you'd like to go in!"],
+		["Scenery", "It's hard to see anything through the raging snow."],
+		["Scenery", "It's hard to think about anything besides how cold you are."],
+		[ "Scenery", "Your teeth chatter." ],
+		["Scenery","It is impossible to tell what time it is thanks to the blizzard"],
+		["Scenery", "How long does it take for frostbite to set in? ...how long have you been here?"],
+		["Scenery", "Smells like hypothermia"],
+		["Scenery", "The danger of this place is quite beautiful, in a way."]
+	],
+	"trainersList": [
+		[ "Hiker", "#A8B820", "Male", "40","Geodude","Rhyhorn","Golett" ],
+		[ "Backpacker", "#A8B820", "Male", "40", "Geodude", "Rhyhorn", "Golett" ],
+		[ "Expert", "#A8B820", "Male", "80","Meditite" ],
+		[ "Specialist", "#A8B820", "Male", "80","Meditite"]
+	],
+	"landCommon": [
+		[ "Geodude", "074", "Rock", "Rock", "Ground", "Rock Head", "Sturdy", "Sand Veil", "50", "50", "10", "25", "1 Def.", "80", "0", "20", ".5", "18", "Medium Slow", "60", "50" ]
+	],
+	"landUncommon": [
+		[ "Snorunt", "361", "Snow Hat", "Ice", "NA", "Inner Focus", "Ice Body", "Moody", "50", "50", "15", "30", "1 HP", "50", "50", "0", ".25", "17", "Medium Fast", "60", "50" ],
+		[ "Bergmite", "712", "Ice Chunk", "Ice", "NA", "Own Tempo", "Ice Body", "Sturdy", "50", "50", "23", "36", "1 Def.", "80", "0", "20", ".25", "19", "Medium Fast", "61", "50" ],
+		["Sneasel", "215", "Sharp Claw", "Dark", "Ice", "Inner Focus", "Keen Eye", "Pickpocket", "50", "50", "5", "35", "1 Speed", "80", "0", "20", "4", "30","Medium Slow","86","35"],
+		[ "Rhyhorn", "111", "Spikes", "Ground", "Rock", "Lightning Rod", "Rock Head", "Reckless", "50", "50", "20", "34", "1 Def.", "70", "0", "30", "3", "40", "Slow", "69", "50" ],
+		[ "Golett", "622", "Automaton", "Ground", "Ghost", "Iron Fist", "Klutz", "No Guard", "0", "0", "10", "43", "1 Atk.", "80", "0", "20", "1", "17", "Medium Fast", "61", "50" ],
+		[ "Meditite", "307", "Meditate", "Fighting", "Psychic", "Pure Power", "NA", "Telepathy", "50", "50", "13", "31", "1 Speed", "80", "0", "20", ".5", "17", "Medium Fast", "56", "50" ]
+	],
+	"landRare": [
+		[ "Graveler", "074", "Rock", "Rock", "Ground", "Rock Head", "Sturdy", "Sand Veil", "50", "50", "25", "36", "2 Def.", "80", "0", "20", "6", "5", "Medium Slow", "137", "50" ],
+		[ "Frigibax", "996", "Ice Fin", "Dragon", "Ice", "Thermal Exchange", "NA", "Ice Body", "50", "50", "15", "34", "1 Atk.", "80", "0", "20", "1", "18", "Slow", "64", "50" ],
+		["Absol", "359", "Disaster", "Dark", "NA", "Pressure", "Super Luck", "Justified", "50", "50", "5", "50", "2 Atk.", "80", "0", "20", "12", "75","Medium Slow","163","35"]
+	],
+	"landVeryRare": [],
+	"landUltraRare": [
+		[ "Nosepass", "299", "Compass", "Rock", "NA", "Sturdy", "Magnet Pull", "Sand Force", "50", "50", "10", "50", "1 Def.", "80", "0", "20", "4", "21", "Medium Fast", "75", "50" ],
+		[ "Probopass", "476", "Compass", "Rock", "Steel", "Sturdy", "Magnet Pull", "Sand Force", "50", "50", "35", "50", "1 Def.,2 Sp. Def.", "80", "0", "20", "13", "97", "Medium Fast", "184", "50" ],
+		[ "Cryogonal", "615", "Crystallizing", "Ice", "NA", "Levitate", "NA", "NA", "0", "0", "10", "30", "2 Sp. Def.", "0", "50", "50", "11", "78", "Medium Fast", "180", "50" ],
+		[ "Glalie", "362", "Face", "Ice", "NA", "Inner Focus", "Ice Body", "Moody", "50", "50", "40", "60", "2 HP", "0", "30", "70", "11", "97", "Medium Fast", "168", "50" ],
+		[ "Froslass", "478", "Snow Land", "Ice", "Ghost", "Snow Cloak", "NA", "Cursed Body", "0", "100", "25", "40", "2 Speed", "0", "30", "70", "11", "97", "Medium Fast", "168", "50" ],
+		[ "Onix", "095", "Rock Snake", "Rock", "Ground", "Rock Head", "Sturdy", "Weak Armor", "50", "50", "10", "50", "1 Def.", "80", "0", "20", "10", "65", "Medium Fast", "77", "50" ],
+		[ "Steelix", "208", "Iron Snake", "Steel", "Ground", "Rock Head", "Sturdy", "Sheer Force", "50", "50", "30", "59", "2 Def.", "80", "0", "20", "14", "147", "Medium Fast", "179", "50" ],
+		[ "Golem", "076", "Megaton", "Rock", "Ground", "Rock Head", "Study", "Sand Veil", "50", "50", "35", "49", "3 Def.", "80", "0", "20", "13", "117", "Medium Slow", "223", "50" ],
+		[ "Rhydon", "112", "Drill", "Ground", "Rock", "Lightning Rod", "Rock Head", "Reckless", "50", "50", "42", "49", "2 Atk.", "80", "0", "20", "11", "128", "Slow", "170", "50" ],
+		[ "Rhyperior", "112", "Drill", "Ground", "Rock", "Lightning Rod", "Solid Rock", "Reckless", "50", "50", "50", "60", "3 Atk.", "80", "0", "20", "14", "184", "Slow", "241", "50" ],
+		[ "Avalugg", "713", "Iceberg", "Ice", "NA", "Own Tempo", "Ice Body", "Sturdy", "50", "50", "38", "50", "2 Def.", "80", "0", "20", "13", "93", "Medium Fast", "180", "50" ],
+		[ "Golurk", "623", "Automaton", "Ground", "Ghost", "Iron Fist", "Klutz", "No Guard", "0", "0", "43", "55", "2 Atk.", "80", "0", "20", "11", "80", "Medium Fast", "169", "50" ],
+		[ "Arctibax", "997", "Ice Fin", "Dragon", "Ice", "Thermal Exchange", "NA", "Ice Body", "50", "50", "35", "55", "2 Atk.", "80", "0", "20", "8", "50", "Slow", "148", "50" ],
+		[ "Baxcalibur", "998", "Ice Dragon", "Dragon", "Ice", "Thermal Exchange", "NA", "Ice Body", "50", "50", "54", "65", "3 Atk.", "80", "0", "20", "14", "184", "Slow", "300", "50" ],
+		[ "Crabominable", "740", "Woolly Crab", "Fighting", "Ice", "Hyper Cutter", "Iron Fist", "Anger Point", "50", "50", "15", "35", "2 Atk.", "80", "0", "20", "8", "60", "Medium Fast", "167", "50" ],
+		[ "Medicham", "308", "Meditate", "Fighting", "Psychic", "Pure Power", "NA", "Telepathy", "50", "50", "38", "45", "2 Speed", "80", "0", "20", "10", "72", "Medium Fast", "144", "50" ],
+		["Weavile", "461", "Sharp Claw", "Dark", "Ice", "Pressure", "NA", "Pickpocket", "50", "50", "30", "55", "1 Atk.,1 Speed", "80", "0", "20", "11", "78","Medium Slow","179","35"]
+	],
+	"rocksmashCommon": [
+		[ "Geodude", "074", "Rock", "Rock", "Ground", "Rock Head", "Sturdy", "Sand Veil", "50", "50", "10", "25", "1 Def.", "80", "0", "20", ".5", "18", "Medium Slow", "60", "50" ]
+	],
+	"rocksmashUncommon": [
+		[ "Snorunt", "361", "Snow Hat", "Ice", "NA", "Inner Focus", "Ice Body", "Moody", "50", "50", "15", "30", "1 HP", "50", "50", "0", ".25", "17", "Medium Fast", "60", "50" ],
+		[ "Bergmite", "712", "Ice Chunk", "Ice", "NA", "Own Tempo", "Ice Body", "Sturdy", "50", "50", "23", "36", "1 Def.", "80", "0", "20", ".25", "19", "Medium Fast", "61", "50" ]
+	],
+	"rocksmashRare": [
+		[ "Onix", "095", "Rock Snake", "Rock", "Ground", "Rock Head", "Sturdy", "Weak Armor", "50", "50", "10", "50", "1 Def.", "80", "0", "20", "10", "65", "Medium Fast", "77", "50" ],
+		[ "Graveler", "074", "Rock", "Rock", "Ground", "Rock Head", "Sturdy", "Sand Veil", "50", "50", "25", "36", "2 Def.", "80", "0", "20", "6", "5", "Medium Slow", "137", "50" ]
+	],
+	"rocksmashVeryRare": [],
+	"rocksmashUltraRare": [],
+	"sweetscentCommon": [],
+	"sweetscentUncommon": [],
+	"sweetscentRare": [
+		[ "Sneasel", "215", "Sharp Claw", "Dark", "Ice", "Inner Focus", "Keen Eye", "Pickpocket", "50", "50", "5", "35", "1 Speed", "80", "0", "20", "4", "30", "Medium Slow", "86","35" ]
+	],
+	"sweetscentVeryRare": [],
+	"sweetscentUltraRare": [],
+	"itemsCommon": ["Poke Ball", "Snowball"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Icy Rock", "Ice Stone", "Razor Claw"],
+	"itemsVeryRare": ["TM Roar", "TM Rock Polish", "Never Melt Ice", "Hard Stone", "Razor Fang", "Yache Berry", "Shuca Berry", "Charti Berry", "Babiri Berry", "Haban Berry"],
+	"itemsUltraRare": ["TM Avalanche", "TM Stone Edge", "TM Dragon Pulse", "Quick Claw", "Safety Goggles"]
+}

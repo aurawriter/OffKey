@@ -1,0 +1,52 @@
+{
+	"connections": ["Victory Road","???"],
+	"goals":
+	[
+		["Victory Road","???","25"],
+		["???","Victory Road","25"]
+	],
+	"locationColor": "#3F2723",
+	"locationName": "Shattered House",
+	"locationDescription": "Be warned. The Shattered House and surrounding area is dangerous, and should not be entered under any circumstances. The rules of physics have been observed to not fully apply to the area, causing dangerous conditions. People who enter the surrounding area are never seen again, so rescue attempts will not be made. If you realize you have entered the area, attempt to retrace your steps immediately and leave before it is too late.",
+	"happeningsList":
+	[
+		["Scenery","Turn back"],
+		["Scenery","You idiot"],
+		["Scenery","You fool"],
+		["Scenery","You still have time to leave"],
+		["Scenery","Smells like  ̴̻̇r̶̛̙͆é̵̢̝͑à̴̞̔l̵̠̼̉̈i̵̧̖̅̾t̶̬̀̀y̸̘̖͒͑ ̴̞͒͜b̵͕̿̈́r̸̤̂ḙ̶̮̔ạ̷̖́̄ķ̴̓͋į̴́n̵̹͕͆g̴͜͝"],
+		["Scenery","You stop moving. You still hear floorboards creaking."],
+		["Scenery","\u200B"],
+		["Scenery","I̵̢͇̐͗t̷͇͌'̵̘̲͒̋s̸̿͜ ̶̙̋́b̴̪̆̉ͅr̸̥͎̉͑o̵̧̊k̴̹̐̊e̵͚̐̀ṇ̴̒̉"],
+		["Scenery","Time is distorting."],
+		["Scenery","Space is distorting"],
+		["Scenery","You go down the stairs to reach the top of the stairs"],
+		["Scenery","You walk on the walls"],
+		["Scenery","You walk on the ceiling"],
+		["Scenery","You walk on yourself"],
+		["Scenery","Hell will have final jurisdiction over your soul"],
+		["Scenery","You hear a distant memory"],
+		["Scenery","Loneliness is the only listener"],
+		["Scenery","Blood covers the floor."],
+		["Scenery","The curse continues"],
+		["Scenery","You don't have to do this"],
+		["Scenery","You see a singing in front of your eyes, it sings the empty truth."],
+		["Scenery","What happens when people die?"],
+		["Scenery","History is doomed to repeat, just like this house is doomed to shatter"],
+		["Scenery","You look out the window. You can see the back of your head."],
+		["Scenery","If nobody ever comes back, where do the stories come from?"],
+		["Scenery","Up is down, left is right, and the end is beginning."],
+		["Scenery","Do you have a death wish?"],
+		["Scenery","Everything becomes shapes and those shapes become everything"],
+		["Scenery","The dreams begin."],
+		["Scenery","The old must end. The new must end."],
+		["Scenery","Shadows spread like oil across the floor"],
+		["Scenery","You feel like you should stay in this house forever..."],
+		["Scenery","There's a crack in the wall...it looks like it was made for you..."],
+		["Scenery","History is less certain than we are taught"],
+		["Scenery","Do not attempt to speak"],
+		["Scenery","You're never alone."],
+		["Scenery","This house looked much smaller on the outside"],
+		["Scenery","Are you the same you you used to be?"]
+]
+}

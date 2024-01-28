@@ -1,0 +1,21 @@
+{
+  "dialogue": [
+    [ "Neutral", "Random", "'See that van out n' the outskirts? This young man and his cousin live there. The property technically doesn't belong to em', but they looked so defeated when they arrived, I think the owner jus' decided to look the other way. I've tried talking to them, y'know, but they're real shy. At least the younger one is, I think the older is just anti-social. I worry about them though. Must be hard getting around in a wheelchair with all this sand.'" ],
+    [ "Neutral", "Random", "'No matter how many buildings fall into disrepair, Niccolai's always there to rebuild them. You think he'd give up at this point, but... I'm kind of happy that he doesn't. It makes me feel cared for.'" ],
+    [ "Neutral", "Random", "'You see that empty patch of land over by the gym leader's apartment? Don't go over there. It belongs to some guy who keeps insisting he can grow a garden out here. The scariest part is I kind of believe he could do it... but I also think he wants me dead.'" ],
+    [ "Neutral", "Random", "'I hate sand.'" ],
+    [ "Neutral", "Rnadom", "'We used to get a lot more Ground- and Rock-types around here. They've mostly moved elsewhere now that the pollution has gotten so bad.'" ],
+    [ "Neutral", "Random", "'A Joltik chewed through my phone cable the other day. I don't blame the little guy for eating, but man does it suck not being able to contact anyone outside of this place.'" ],
+    [ "Knight", "Random", "'Everybody says you guys are up to no good, but I kinda think you've got a point. Maybe the past ought to stay where it is.'" ],
+    [ "Corp", "Random", "'What do *you* want, ya wage slave?'" ],
+    [ "Neutral", "Random", "'Wanna buy some pocket sand? It's Misen's number one self defense tool—hey, don't just scoop some off the ground! That's stealing!'" ],
+    [ "Neutral", "Random", "'My Herdier thinks you smell weird.'" ],
+    [ "Neutral", "Random", "'I tried going through Victory Road since there's no one guarding the entrance anymore. Bad idea. The pokemon in there are really strong, and the damn ceiling almost collapsed on me. That was scary, man. I almost *died.*'" ],
+    [ "Neutral", "Random", "'Who gives a damn about the Champion? They obviously haven't done Misen any good!'" ],
+    [ "Neutral", "Random", "'Listen to me! Listen to me! All of us are just dictated by code written by some coder and none of this is real!' *The man's brain is obviously fried by the heat.* 'My brain is NOT fried by the heat, you have to listen to me--"]
+  ],
+  "quests": [
+    [ "Hattie", "403812429185810432", "-1", "3", "'Somebody race against me! I wanna race!'", "NA", "Quest: A Wild West-ish Request" ],
+    [ "Gabriel", "218031294209064962", "-1", "-4", "'Unless it's urgent, don't waste my time talking to me, please.'", "NA", "Quest: In The Garden" ]
+  ]
+}

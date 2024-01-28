@@ -1,0 +1,15 @@
+{
+  "characterName": "Sardina",
+  "characterFaction": "Restoration Corporation",
+  "levelCap": 20,
+  "quest": false,
+  "mission": false,
+  "pokemonCaught": 1,
+  "party": [
+
+    [ "Archen", "Archen", "Female", "Defeatist", "OspinaCity", "15", "3806", "Medium Fast", "100", "1", "1", "1", "1", "1", "1", "Adamant", 31, 31, 31, 31, 31, 31, "Archen0" ],
+    [ "Teddiursa", "Teddiursa", "Male", "Quick Feet", "mirageforest", "14", "2791", "Medium Fast", "100", "1", "1", "1", "1", "1", "1", "Gentle", 11, 8, 14, 9, 19, 11, "Teddiursa1" ],
+    [ "Ralts", "Ralts", "Male", "Trace", "mirageforest", "8", "640", "Slow", "100", "1", "1", "1", "1", "1", "1", "Serious", 2, 24, 11, 12, 13, 26, "Ralts1" ]
+  ],
+  "box": []
+}

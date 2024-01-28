@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		[ "Neutral", "Random", "'I asked mommy what happened to the old gym leader. She said it was too sad to talk about. Grr, now I'm even more curious!'" ],
+		[ "Neutral", "Random", "'The last gym leader was an awful spoiled brat. At least the new one doesn't talk.'" ],
+		[ "Neutral", "Random", "'My friends and I figured that old sound studio was abandoned, so we went there to hang out, but get this! There was music coming from inside. A wicked guitar solo! I guess Kalliope never left after all.'" ],
+		[ "Neutral", "Random", "'I used to be in the same class as the old gym leader. I always thought he was stuck up, but I never expected him to do something so cruel. Good riddance.'" ],
+		[ "Neutral", "Random", "'Heh.. heh.. hehe... You see that graffiti over there? On the wall? The one that says the P word? Hehehehe... I did that.'" ],
+		[ "Neutral", "Random", "'I'm ditching school today... Don't tell anyone.'" ],
+		[ "Neutral", "Random", "'You ***need*** to go to an Inbalancers concert! They're SO amazing!'" ],
+		[ "Neutral", "Random", "'The gym leader get super annoyed if a battle takes too long so she does everything she can to make it go by in a blitz...and it works, usually to her advantage. Think fast when you're battling her.'" ],
+		[ "Neutral", "Random", "'There's no reason to debate it, heh.....I'm great at...y'know...crimes.'" ],
+		[ "Neutral", "Random", "'I stole some bubblegum! I'm great at crime!'" ],
+		[ "Neutral", "Random", "'I just came here for a concert and I've already been pickpocketed, like, twice. This town sucks.'" ],
+		[ "Corp", "Random", "'Hey, the gym leader here works for you guys, are you ever gonna bother doing something about these atrocious crime rates with all that money of yours?'" ],
+		[ "Knight", "Random", "'Please don't mug me.'" ],
+		[ "Neutral", "Random", "'Aw shit, someone stole my bubblegum.'" ],
+		[ "Neutral", "Random", "'There’s a Snorlax who keeps attacking this one guy. Every day. I wonder what’s going on with that…'" ],
+		[ "Neutral", "Random", "'I really like Kalliope and the Inbalancers, but I can’t remember any of the song names. Do they even name their songs?'" ],
+		[ "Neutral", "Random", "'I don't understand basic rhyme structure'" ],
+		[ "Neutral", "Random", "I bet the real champion was the friends we made along the way" ],
+		[ "Neutral", "Random", "'Sunnet may be shady, but they easily have the best concerts in Misen. Nothing like that overpriced orchestral shit they have in Bellwyn, or Steldom's pop garbage.'" ],
+		[ "Neutral", "Random", "'What kind of music do you like? If you say country we can't be friends.'" ],
+		[ "Neutral", "Random", "I work at the school. I teach math.....You looked like you wanted me to say something." ],
+		[ "Corp", "Random", "'Restoration corporation? What is that? A fancy word for cop? Stay out of our town!'" ],
+		[ "Knight", "Random", "'Team Knight? That's the lamest name I've ever heard. Stay out of our town'" ],
+		[ "Neutral", "Random", "'I don't like the Restoration Corporation, but I'll make an exception for Kalliope. She's so cool.'" ],
+		[ "Neutral", "Random", "'Our school is a primary school, and middle school, and high school. Yeah, it sucks'" ],
+		[ "Neutral", "Random", "'What am I doing? What are you, a cop?" ],
+		[ "Neutral", "Junpei", "I teach at the school...I thought they were hiring me as a librarian and now I have to deal with how loud these damn kids are...'" ],
+		[ "Neutral", "Random", "'Sometimes, when it's all a bit much, I'll sit in Reverb Cave for hours. Just listening.'" ]
+	],
+	"quests": [
+		[ "Kalliope", "232689259902009355", "5", "11", "Kalliope is standing outside her gym. She glares at you, sighs, then motions you over", "Kalliope is standing outside her gym. She motions you over", "Quest: Fine, You'll Do" ],
+		[ "Blake", "306296046575681546", "-1", "-3", "'Who’s there?! I have a repel and I’m *not* afraid to use it!'", "NA", "Quest: A BIG Problem" ]
+	]
+}

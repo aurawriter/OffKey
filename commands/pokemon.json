@@ -1,0 +1,99 @@
+{
+	"fomelhautForestCommon":
+	[
+		["Caterpie","010","Worm","Bug","NA","Shield Dust","NA","Run Away","50","50","2","7","1 HP","80","0","20"],
+		["Weedle","013","Hairy Bug","Bug","Poison","Shield Dust","NA","Run Away","50","50","2","7","1 Speed","80","0","20"],
+		["Bellsprout","069","Flower","Grass","Poison","Chlorophyll","NA","Gluttony","50","50","2","21","1 Atk.","80","0","20"],
+		["Pumpkaboo(Small)","710","Pumpkin","Grass","Ghost","Pickup","Frisk","Insomnia","50","50","15","24","1 Def.","80","0","20"],
+		["Ledyba","165","Five Star","Bug","Flying","Swarm","Early Bird","Rattled","50","50","5","17","1 Sp. Def.","80","0","20"],
+		["Sewaddle","540","Sewing","Bug","Grass","Swarm","Chlorophyll","Overcoat","50","50","5","20","1 Def.","80","0","20"],
+		["Skwovet","819","Cheeky","Normal","NA","Cheek Pouch","NA","Gluttony","50","50","5","20","1 HP","80","0","20"],
+		["Pachirisu","417","EleSquirrel","Electric","NA","Run Away","Pickup","50","50","5","20","1 Speed","80","0","20"],
+		["Pidgey","016","Tiny Bird","Normal","Flying","Keen Eye","Tangled Feet","Big Pecks","50","50","2","16","1 Speed","80","0","20"]
+	],
+	"fomelhautForestUncommon":
+	[
+		["Metapod","011","Cocoon","Bug","NA","Shed Skin","NA","NA","50","50","7","10","2 Def.","80","0","20"],
+		["Kakuna","014","Cocoon","Bug","Poison","Shed Skin","NA","NA","50","50","7","10","2 Def.","80","0","20"],
+		["Vulpix","037","Fox","Fire","NA","Flash Fire","NA","Drought","25","75","10","19","1 Speed","80","0","20"],
+		["Pumpkaboo(Average)","710","Pumpkin","Grass","Ghost","Pickup","Frisk","Insomnia","50","50","15","24","1 Def.","80","0","20"],
+		["Cherubi","420","Cherry","Grass","NA","Chlorophyll","NA","NA","50","50","5","15","1 Sp. Atk.","80","0","20"],
+		["Greedent","820","Greedy","Normal","NA","Cheek Pouch","NA","Gluttony","50","50","25","40","2 HP","80","0","20"],
+		["Pidgeotto","017","Bird","Normal","Flying","Keen Eye","Tangled Feet","Big Pecks","50","50","16","36","2 Speed","80","0","20"],
+		["Skitty","300","Kitten","Normal","NA","Cute Charm","Normalize","Wonder Skin","25","75","2","30","1 Speed","80","0","20"]
+	],
+	"fomelhautForestRare":
+	[
+		["Weepinbell","070","Flycatcher","Grass","Poison","Chlorophyll","NA","Gluttony","50","50","21","50","2 Atk.","80","0","20"],
+		["Pumpkaboo(Large)","710","Pumpkin","Grass","Ghost","Pickup","Frisk","Insomnia","50","50","15","24","1 Def.","80","0","20"],
+		["Swadloon","541","Leaf-Wrapped","Bug","Grass","Leaf Guard","Chlorophyll","Overcoat","50","50","20","32","2 Def.","80","0","20"],
+		["Nickit","827","Fox","Dark","NA","Run Away","Unburden","Stakeout","50","50","5","17","1 Sp. Def.","80","0","20"]
+	],
+	"fomelhautForestVeryRare":
+	[
+		["Pumpkaboo(Super)","710","Pumpkin","Grass","Ghost","Pickup","Frisk","Insomnia","50","50","15","24","1 Def.","80","0","20"]
+	],
+	"fomelhautForestUltraRare":
+	[
+		["Butterfree","012","Butterfly","Bug","Flying","Compound Eyes","NA","Tinted Lens","50","50","10","50","2 Sp. Atk., 1 Sp. Def.","80","0","20"],
+		["Beedrill","015","Poison Bee","Bug","Poison","Swarm","NA","Sniper","50","50","10","50","2 Atk., 1 Sp. Def.","80","0","20"],
+		["Ninetales","038","Fox","Fire","NA","Flash Fire","NA","Drought","25","75","20","50","1 Sp. Def., 1 Speed","80","0","20"],
+		["Victreebel","071","Flycatcher","Grass","Poison","Chlorophyll","NA","Gluttony","50","50","45","50","3 Atk.","80","0","20"],
+		["Ledian","166","Five Star","Bug","Flying","Swarm","Early Bird","Iron Fist","50","50","18","30","2 Sp. Def.","80","0","20"],
+		["Leavanny","542","Nurturing","Bug","Grass","Swarm","Chlorophyll","Overcoat","50","50","35","40","3. Atk.","80","0","20"],
+		["Bulbasaur","001","Seed","Grass","Poison","Overgrow","NA","Chlorophyll","87.5","12.5","10","16","1 Sp. Atk.","80","0","20"],
+		["Ivysaur","002","Seed","Grass","Poison","Overgrow","NA","Chlorophyll","87.5","12.5","16","32","1 Sp. Atk, 1 Sp. Def.","80","0","20"],
+		["Venusaur","003","Seed","Grass","Poison","Overgrow","NA","Chlorophyll","87.5","12.5","32","50","2 Sp. Atk","80","0","20"],
+		["Snivy","495","Grass Snake","Grass","NA","Overgrow","NA","Contrary","87.5","12.5","5","16","1 Speed","80","0","20"],
+		["Servine","496","Grass Snake","Grass","NA","Overgrow","NA","Contrary","87.5","12.5","17","35","2 Speed","80","0","20"],
+		["Serperior","497","Regal","Grass","NA","Overgrow","NA","Contrary","87.5","12.5","36","45","3 Speed","80","0","20"],
+		["Cherrim-Overcast","421","Blossom","Grass","NA","Flower Gift","NA","50","50","25","35","2 Sp. Atk.","80","0","20"],
+		["Thievul","828","Fox","Dark","NA","Run Away","Unburden","Stakeout","50","50","18","35","2 Sp. Def.","80","0","20"],
+		["Pidgeot","018","Bird","Normal","Flying","Keen Eye","Tangled Feet","Big Pecks","50","50","36","50","3 Speed","80","0","20"],
+		["Delcatty","301","Prim","Normal","NA","Cute Charm","Normalize","Wonder Skin","25","75","35","50","1 HP, 1 Speed","80","0","20"],
+		["Mr. Mime","122","Barrier","Psychic","Fairy","Soundproof","Filter","Technician","50","50","20","50","2 Sp. Def.","80","0","20"]
+	],
+	"boletaBogCommon":
+	[
+		["Wooper-Paldea","194","Poison Fish","Poison","Ground","Poison Point","Water Absorb","Unaware","50","50","5","19","1 HP","80","0","20"],
+		["Shroomish","285","Mushroom","Grass","NA","Effect Spore","Poison Heal","Quick Feet","50","50","2","22","1 HP","80","0","20"]
+	],
+	"boletaBogUncommon":
+	[
+		["Dewpider","751","Water Bubble","Water","Bug","Water Bubble","NA","Water Absorb","50","50","9","21","2 Sp. Atk.","80","0","20"],
+		["Paras","046","Mushroom","Bug","Grass","Effect Spore","Dry Skin","Damp","50","50","10","24","1 Atk.","80","0","20"],
+		["Toedscool","948","Woodear","Ground","Grass","Mycelium Might","NA","NA","50","50","8","30","1 Sp. Def.","80","0","20"],
+		["Foongus","590","Mushroom","Grass","Poison","Effect Spore","NA","Regenerator","50","50","20","38","1 HP","80","0","20"],
+		["Morelull","755","Illuminating","Grass","Fairy","Illuminate","Effect Spore","Rain Dish","50","50","7","23","1 Sp. Def.","80","0","20"],
+		["Oddish","043","Weed","Grass","Poison","Chlorophyll","NA","Run Away","50","50","5","21","1 Sp. Atk.","80","0","20"],
+		["Yanma","193","Clear Wing","Bug","Flying","Speeed Boost","Compound Eyes","Frisk","50","50","5","25","1 Speed","80","0","20"]
+	],
+	"boletaBogRare":
+	[
+		["Clodsire","980","Spiny Fish","Poison","Ground","Poison Point","Water Absorb","Unaware","50","50","20","50","2 HP","80","0","20"]
+	],
+	"boletaBogVeryRare":
+	[
+		["Breloom","286","Mushroom","Effect Spore","Poison Heal","Technician","50","50","23","65","2 Atk.","80","0","20"]
+	
+	],
+	"boletaBogUltraRare":
+	[
+		["Araquanid","752","Water Bubble","Water","Bug","Water Bubble","NA","Water Absorb","50","50","22","40","2 Sp. Def.","80","0","20"],
+		["Parasect","047","Mushroom","Bug","Grass","Effect Spore","Dry Skin","Damp","50","50","24","50","2 Atk., 1 Def.","80","0","20"],
+		["Toedscruel","949","Woodear","Ground","Grass","Mycelium Might","NA","NA","50","50","30","50","2 Sp. Def.","80","0","20"],
+		["Amoonguss","591","Mushroom","Grass","Poison","Effect Spore","NA","Regenerator","50","50","40","55","2 HP","80","0","20"],
+		["Shiinotic","756","Illuminating","Grass","Fairy","Illuminate","Effect Spore","Rain Dish","50","50","24","45","2 Sp. Def.","80","0","20"],
+		["Gloom","044","Weed","Grass","Poison","Chlorophyll","NA","Stench","50","50","21","50","2 Sp. Atk.","80","0","20"],
+		["Vileplume","045","Flower","Grass","Poison","Chlorophyll","NA","Effect Spore","50","50","30","50","3 Sp. Atk.","80","0","20"],
+		["Totodile","158","Big Jaw","Water","NA","Torrent","NA","Sheer Force","87.5","12.5","10","18","1 Atk.","80","0","20"],
+		["Feraligatr","160","Big Jaw","Water","NA","Torrent","NA","Sheer Force","87.5","12.5","30","50","2 Atk., 1 Def.","80","0","20"],
+		["Mudkip","258","Mud Fish","Water","NA","Torrent","NA","Damp","87.5","12.5","2","10","1 Atk.","80","0","20"],
+		["Marshtomp","259","Mud Fish","Water","Ground","Torrent","NA","Damp","87.5","12.5","16","35","2 Atk.","80","0","20"],
+		["Swampert","260","Mud Fish","Water","Ground","Torrent","NA","Damp","87.5","12.5","36","50","3 Atk.","80","0","20"],
+		["Turtwig","387","Tiny Leaf","Grass","NA","Overgrowth","NA","Shell Armor","87.5","12.5","10","13","1 Atk.","80","0","20"],
+		["Grotle","388","Grove","Grass","NA","Overgrowth","NA","Shell Armor","87.5","12.5","20","35","1 Atk., 1 Def","80","0","20"],
+		["Torterra","389","Continent","Grass","Ground","Overgrowth","NA","Shell Armor","87.5","12.5","36","45","2 Atk., 1 Def","80","0","20"],
+		["Yanmega","469","Ogre Darner","Bug","Flying","Speeed Boost","Tinted Lens","Frisk","50","50","34","45","2 Atk.","80","0","20"]
+	]
+}

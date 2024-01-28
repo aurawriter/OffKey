@@ -1,0 +1,20 @@
+{
+  "dialogue": [
+    [ "Neutral", "Random", "'Relwick used to be really well-known for its fossil excavating before, y'know.... I guess it'd be disrespectful to try digging anything up now.'" ],
+    [ "Neutral", "Random", "'I don't care what weird cult you're a part of. This is not the place to spread your propaganda. If you're not here to pay your respects, leave.'" ],
+    [ "Neutral", "Random", "'Death is so sad. I hope Juli lives forever.'" ],
+    [ "Neutral", "Random", "'My grandparents used to live right here. We're standing in their living room—well, where it used to be, anyway.'" ],
+    [ "Neutral", "Random", "'I wanna steal bones.'" ],
+    [ "Neutral", "Random", "'I’ve heard people talking about the Champion like they didn’t have a face…but the only way you wouldn’t have a face is if…you were dead!'" ],
+    [ "Neutral", "Random", "'I've heard rumours that the souls of people and pokemon buried here persist after death. If I bury my Growlithe here, do you think he'll come back as a ghost?'" ],
+    [ "Neutral", "Random", "'*Shush.* No talking.'" ],
+    [ "Neutral", "Random", "'Oh, I didn't know any of the victims. I'm just here to do a photo shoot for my Porygram. Do you think you could get a picture of me leaning on that gravestone?'" ],
+    [ "Neutral", "Random", "'I'll never forgive whatever idiot thought having a pokemon battle with a Fire-type in a dry forest was a good idea.'" ],
+    [ "Neutral", "Random", "'I used to live here. I was one of the lucky ones.'" ],
+    [ "Neutral", "Random", "'I can't look at Fire-type pokemon the same way anymore...'" ]
+  ],
+  "quests": 
+  [
+    [ "Cassandra", "232689259902009355", "0", "0", "O-oh g-god...I...it's been too long...I don't remember...", "NA", "Quest: One Last Dance" ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue": [
+    [ "Corp", "Random", "'Do you think you'll be able to revive normal pokemon soon? My mom said that bodies need to be centuries old to be considered fossils, but the Restoration Corp people say they'll be able to bring Keigi back, even though it's not that old. My Glameow died last year… Dad buried her in the backyard. If you guys end up bringing keigi back, can you bring her back too?'" ],
+    [ "Knight", "Random", "'Why don't you want the Restoration corporation to bring Keigi back? You can't hate a pokemon you've never met, right?'" ],
+    [ "Neutral", "Random", "'The league went kaput a few years back, but Hershe will still battle anyone who asks. She even still has her gym challenge set up in the back of her store. She's the best.'" ],
+    [ "Neutral", "Random", "'Hershe's gym challenge is all about friendship. Ironically, it was the main thing that drove a wedge between me and my old mate. We still don't really talk anymore.'" ],
+    [ "Neutral", "Random", "'The fashion here is so unique! I'm sure these accessories will give me a leg up in the next contest I enter.'" ],
+    [ "Neutral", "Random", "'This village felt like home the moment I saw it. I can't think of a better place in Misen to live.'" ],
+    [ "Neutral", "Random", "'I was supposed to take on the gym challenge once I turned twelve, but the league got shut down just before my birthday. It's not fair... I had a starter pokemon and everything. Now my Eevee just sleeps on my bed all day getting fat.'" ],
+    [ "Neutral", "Random", "'It's quiet here... too quiet. Wanna help me stir up some trouble?'" ],
+    [ "Neutral", "Random", "'I wish I lived in Galar. Pokemon battling is really big over there.'" ],
+    [ "Neutral", "Random", "'Grepa berries are easy to acquire and easy to eat.'" ],
+    [ "Neutral", "Random", "'I wanted to try taking on the gym here. Y'know, just for fun, but none of my friends wanted to do it with me.'" ],
+    [ "Neutral", "ConspiracyGuy", "'What if, the champion didn't disappear, and we just never had one in the first place?'" ],
+    [ "Neutral", "Random", "'Apparently, the champion will only appear when someone who's beaten all gym leaders and elite four challenges them. Sounds bogus to me. In fact, I'm beginning to doubt they're even real.'" ],
+    [ "Neutral", "Random", "'This village is nice and all, but it's also really *boring*'" ],
+    [ "Neutral", "Random", "'Sooo apparently the gym leaders don't even give out badges anymore. What's the point then?'" ],
+    [ "Corp", "Random", "'Hershe is the heart of this village. Since she joined the Restoration Corporation, I've given them my full support.'" ],
+    [ "Knight", "Random", "'Sorry, I just can't trust you knight folks.'" ],
+    [ "Neutral", "Random", "'Hershe got me a present for my birthday. I was so surprised. I think I've only talked to her once or twice. It was a really nice scarf too...'" ],
+    [ "Neutral", "Random", "'Living in Yarnhop... It makes me feel like I'm part of one very big family.'" ],
+    [ "Neutral", "Random", "'My best friend gave me an Applin yesterday. Like thanks? Kinda random though. Now I gotta figure out how to take care of the little guy. I'm open to name suggestions.'" ],
+    [ "Neutral", "Random", "'I tried confessing to my crush, but they didn't understand...'" ],
+    ["Neutral","Random","'That person's cloak was so cute!'"]
+  ],
+  "quests": [
+    [ "Sugar", "232689259902009355", "0", "0", "'Oh, Milcery! If you were an Alcremie I wouldn't be able to resist gobbling you up!'", "NA", "Quest: Getting Your Just Desserts" ],
+    [ "Yuuto", "306296046575681546", "3", "2", "'Ungrateful… Unappreciative. Every last one of them.'", "NA", "Quest: Terrors for Tots" ]
+  ]
+}

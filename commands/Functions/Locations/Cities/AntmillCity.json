@@ -1,0 +1,27 @@
+	{
+		"dialogue": [
+			["Neutral", "Random", "'Every time I think about how much I hate this place and wish I could move, I think about the people in Sternwater and try to remember how much worse they have it. That makes me feel a little better... sometimes...'"],
+			["Neutral", "Random", "'I've had it with all these ants! Why didn't anyone tell me there would be so many ants here?'"],
+			["Neutral", "Random", "'I keep hearing loud noises coming from some old abandoned warehouse on the outskirts of the city! Who sets off fireworks in the middle of the night?!'"],
+			["Neutral", "Random", "'Ugh...these fumes are giving me a headache.'"],
+			["Neutral", "Random", "'Honestly, I think this city may be bad for my health.'"],
+			["Neutral", "Random", "'I love the smell of this city. Is that weird? Maybe I’ve just gotten used to it.'"],
+			["Neutral", "Random", "'Good thing I brought my Heatmor with me when I took a job here!'"],
+			["Neutral", "Random", "'I once saw a non-local get as far as the first factory before puking and running back. They were probably from Bellwyn.'"],
+			["Neutral", "Random", "'They cancelled Coordinator Brawl, but Smile with Juli gets to be renewed for the 10000th time? When will the public learn to appreciate *true* entertainment?!'"],
+			["Neutral", "Random", "'Remember when you could see the sun through all the smog out here? Me neither.'"],
+			["Neutral", "Random", "'I actually took on the gym challenge when it was still running. I even made it all the way to the Elite Four. One of their strategies was so annoying though... I ended up quitting mid battle.'"],
+			[ "Corp", "Amber", "'Just keep walking buddy. Nothing to see here.'" ]
+		],
+		"quests": [
+			[ "Taleon", "306296046575681546", "4", "4", "'Ew, hero complex much? Beat it nerd, unless you’re here to make yourself *actually* useful!'", "'Ew, a bootlicker? Leave me alone! I doubt someone like you would wanna help with a project like this, so go bother somebody else!'", "Quest: Having a BLAST" ],
+			[ "Bludwyn", "306296046575681546", "1", "3", "'Hey! My big brother said not to talk to strangers, but you’re not that scary! Hey, are you a trainer? Can you catch things?'", "NA", "Quest: Bath Time" ],
+			[ "Cordelia", "306296046575681546", "2", "3", "'... My brother said not to talk to strangers. Unless I can get something out of it… Are you a trainer?'", "NA", "Quest: Better Than Melatonin, Guaranteed" ],
+			[ "Amber", "403812429185810432", "-5", "11", "'Hey there rookie! I have a very illegal idea. You in?'", "NA", "Mission: Factory Flop" ]
+		],
+		"trainers": [
+			[ "Worker" ],
+			[ "Engineer" ],
+			["Street Thug"]
+		]
+	}

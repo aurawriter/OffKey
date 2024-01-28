@@ -1,0 +1,22 @@
+{
+	"dialogue": [
+		[ "Neutral", "Random", "'The best way to get through Mirage Forest is to pick a direction and stick to it no matter what. Those pokemon will make you see some crazy things.'" ],
+		[ "Neutral", "Random", "'Did you know? This city was the first to be claimed by the Siosen army, but people don't like to talk about that.'" ],
+		[ "Neutral", "Random", "'I think I'm failing all my classes.'" ],
+		[ "Neutral", "Random", "'I'm supposed to be paying attention to my college courses but instead I'm programming every minute of class...I should be fine though, right?'" ],
+		[ "Neutral", "Random", "'This is gonna sound crazy, but I'm half convinced there's some... thing living in one of the science buildings on campus. There's this one room that's always locked, and sometimes you can hear this really weird beeping coming from it, like 'UN UN UN' or something like that. The faculty just say it's one of the resident scientist's pokemon, but I've never heard anything with a cry like that. It's crazy suspicious.'" ],
+		[ "Neutral", "Random", "'My daughter had been begging non-stop for a Beautifly like Juli's for months. I got her a Wurmple. Well, turns out Wurmples can evolve into something totally different. I now have a VERY unhappy seven-year-old. Suppose I should have done my research...'" ],
+		[ "Neutral", "Random", "'It's all *Juli this, Juli that*—Ariea's style is WAY better than hers.'" ],
+		[ "Neutral", "Random", "'A girl with a stripey hat recently tried to sell me a Burmy for a lot of money. She said it was 'a rare breed.' I obviously said no, but she was scary persistent... I ended up caving. What am I supposed to do with this thing now?'" ],
+		[ "Neutral", "Random", "'Can we talk later? I'm late to class...'" ],
+		[ "Neutral", "Random", "'Piece of advice—if you see a really tall guy wandering around the lecture hall, turn around and walk in the opposite direction. If you make eye contact with him he'll start screaming.'" ],
+		[ "Neutral", "Random", "'There's some guy who comes up with crazy conspiracy theories about what happened to the champion, he travels the region just...making stuff up.'" ],
+		[ "Neutral", "Random", "'My older sister said that rain's been falling since the prehistoric era and that drinking rain is the same as drinking Tyrantrum pee. I really hope she's just messing with me!'" ],
+		[ "Neutral", "Random", "'I got a letter from the university I applied to, but I'm too nervous to open it. Heughh... It's been 3 weeks. *Heeuugghhh.*'" ],
+		[ "Neutral", "Random", "'I used to live in Antmill. I never realised just how bad the air was there before I moved here.'" ],
+		[ "Neutral", "Random", "'I love the city, I love nature. This place is perfect for me.'" ]
+	],
+	"quests":
+	[
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"dialogue": [
+		[ "Neutral", "Random", "'My daughter moved to Steldom City to become a star last year. I don't quite understand it myself, but I know she'll become something great out there. I just wish she would write home more often.'" ],
+		[ "Corp", "Random", "'Ah.. You're one of them right? Those Restoration Corps people? Wanna explain why you're catching all the Munna around here? What on earth do you need that many for? At this rate there'll be none left. What would we call Munna Meadows then?'" ],
+		[ "Knight", "Random", "'Those Restoration Corps people have been loitering about here far too long for comfort. Not only that, they're taking all the munna too! I'm gonna start having bad dreams again…'" ],
+		[ "Knight", "Random", "'Hey you, did you happen to see a church in Munna Meadows on your way here? That church just appeared there one morning, like poof. Some rich guy purchased the land recently and he had some guys come and start building pretty much immediately. I don't get it though. We already have a church here in Meobi. I've seen those uniformed folks go in, but not out. It's weird, right?? Tell me I'm not crazy.'" ],
+		[ "Neutral", "Random", "'Dad says I'm gonna take over the farm when I'm older, but that's stupid! I'm gonna learn to dance instead and get crazy famous!'" ],
+		[ "Neutral", "Random", "'There's a guy living around here who can get you some herbs, *if you know what I mean?* ... Revival Herbs. What did YOU think I meant?'" ],
+		[ "Neutral", "Random", "'There's something wrong with the television that Restoration Corp lady gave me. It won't let me switch the damn channel.'" ],
+		[ "Neutral", "Random", "'They're puttin' TVs in! Now I don't have to go to the internet cafe to watch Smile with Juli!'" ],
+		[ "Neutral", "ConspiracyGuy", "'What if...*I'm* the champion, and I've just been made to forget it? How do I go about unlocking memories that have been removed?!'" ],
+		[ "Neutral", "Random", "'Grumpig is the Manipulate Pokemon! So...where's the Mansplain Pokemon? Or the malewife pokemon?'" ],
+		[ "Neutral", "Random", "'This is my Mareep Crumpet, and this is my Wooloo Cupcake!'" ],
+		[ "Neutral", "Random", "'Please! Take some oran berries! My harvest was a tad too successful. Now I have more than I know what to do with!' **You received 5 Oran Berries!**" ],
+		[ "Knight", "Ariea", "'...Ew, don't talk to me.'" ]
+	],
+	"quests": [
+		[ "Bebe", "232689259902009355", "-3", "-3", "'*Pardonne-moi*, could I ask for your assistance? I'm a bit shorthanded...'", "NA", "Quest: Busy As A Bee!" ],
+		[ "Poppy", "306296046575681546", "0", "0", "'Sigh...Those dumb birds... If only someone with more motivation than me came along with a solution... *If only...*", "NA", "Quest: Pest Control" ],
+		[ "Spencer", "306296046575681546", "0", "2", "'Aw man... My Gloom is so demanding...'", "NA", "Quest: Stone For A Stoner" ],
+		[ "Ariea", "306296046575681546", "11", "-5", "NA", "'Ugh. What a dump... Hey, you. Lend me a hand.'", "Mission: Charity Case" ]
+	]
+}

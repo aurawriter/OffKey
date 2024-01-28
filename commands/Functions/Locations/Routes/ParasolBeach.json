@@ -1,0 +1,186 @@
+{
+	"connections": ["Lantern Reef", "Nisorim City"],
+	"goals": [
+		["Lantern Reef", "Nisorim City", "6"],
+		["Nisorim City", "Lantern Reef", "6"]
+	],
+	"locationColor": "#5ACDF5",
+	"locationName": "Parasol Beach",
+	"locationDescription": "Come on down to Parasol Beach! The water's perfect, the sand is perfect, and everything else is just perfect for a day out in the sun. Swim, build sandcastles, sunbathe, play volleyball. Anything you do here will be fun, and your worries will melt away just as quickly as your ice cream in the summer sun. Who knows, you may even meet a Water-type friend for life!",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["Fishing", "The water of Parasol Beach is just perfect for fishing if you have a fishing rod, but it'll take some time"],
+		["WaterPokemon", "There's a Pokemon on the surface of the water near you."],
+		["Fishing", "The water of Parasol Beach is just perfect for fishing if you have a fishing rod, but it'll take some time"],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"],
+		["SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?"],
+		["ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?"],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["Roll Obstacle", "It's way too crowded here...you'll have to go around. Unless you can manage to work your way through."],
+		["Roll Shortcut", "It's way too crowded here...but if you can get through them, you're sure you'll make good progress to getting out"],
+		["Roll Item", "There's an item beyond this huge crowd. If you can get through them, it's yours to claim!"],
+		["Scenery", "Smells like sunscreen"],
+		["Scenery", "It almost feels like someone is forcing the day to be perfect."],
+		["Scenery", "The beach is packed with people."],
+		["Scenery", "Lifeguards are present not only to ensure swim safety, but to protect the public from any unfriendly wild Pokemon encounters."],
+		["Scenery", "You just stepped on a child's sandcastle. You monster."],
+		["Scenery", "A Wingull circles you, looking for food."],
+		["Scenery", "The sand is soft and spotless"]
+	],
+	"trainersList": [
+		[ "Tuber Girl", "#78C850", "Female", "4", "Krabby", "Corphish", "Wingull", "Slowpoke", "Sandygast", "Pincurchin", "Aipom", "Crabrawler", "Shellos(West)" ],
+		[ "Tuber Boy", "#78C850", "Female", "4", "Krabby", "Corphish", "Wingull", "Slowpoke", "Sandygast", "Pincurchin", "Aipom", "Crabrawler", "Shellos(West)" ],
+		[ "Swimmer", "#78C850", "Female", "16", "Krabby", "Corphish", "Finneon", "Shellos(West)", "Clobbopus", "Pincurchin", "Finizen", "Luvdisc", "Staryu" ],
+		[ "Beach Girl", "#78C850", "Female", "16", "Krabby", "Corphish", "Finneon", "Shellos(West)", "Clobbopus", "Pincurchin", "Finizen", "Luvdisc", "Staryu" ],
+		[ "Pro Swimmer", "#78C850", "Female", "16", "Shellder", "Grapploct", "Wimpod", "Gastrodon(West)" ],
+		[ "Triathlete Swimmer", "#78C850", "Female", "40", "Shellder", "Grapploct", "Wimpod", "Gastrodon(West)" ]
+	],
+	"landCommon": [
+		["Krabby", "098", "River Crab", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "15", "28", "1 Atk.", "80", "0", "20", ".25", "17","Medium Fast","65","50"],
+		["Corphish", "341", "Ruffian", "Water", "NA", "Hyper Cutter", "Shell Armor", "Adaptability", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", ".25", "16","Fluctuating","62","50"]
+	],
+	"landUncommon": [
+		["Wingull", "278", "Seagull", "Water", "Flying", "Keen Eye", "Hydration", "Rain Dish", "50", "50", "5", "24", "1 Speed", "80", "0", "20", ".25", "16","Medium Fast","54","50"],
+		["Slowpoke", "079", "Dopey", "Water", "Psychic", "Oblivious", "Own Tempo", "Regenerator", "50", "50", "15", "37", "1 HP", "80", "0", "20", ".5", "20","Medium Fast","63","50"],
+		["Sandygast", "769", "Sand Heap", "Ghost", "Ground", "Water Compaction", "NA", "Sand Veil", "50", "50", "20", "40", "1 Def.", "80", "0", "20", "1", "19","Medium Fast","64","50"],
+		["Pincurchin", "871", "Sea Urchin", "Electric", "NA", "Lightning Rod", "NA", "Electric Surge", "50", "50", "20", "40", "2 Atk.", "80", "0", "20", "8", "44","Medium Fast","152","50"],
+		["Aipom", "190", "Long Tail", "Normal", "NA", "Run Away", "Pickup", "Skill Link", "50", "50", "5", "30", "1 Speed", "80", "0", "20", "3", "25","Fast","72","50"],
+		["Crabrawler", "739", "Boxing", "Fighting", "NA", "Hyper Cutter", "Iron Fist", "Anger Point", "50", "50", "15", "35", "1 Atk.", "80", "0", "20", "1", "17","Medium Fast","68","50"],
+		["Shellos(West Sea)", "422", "Sea Slug", "Water", "NA", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "5", "15", "1 HP", "80", "0", "20", "2", "21","Medium Fast","65","50"]
+	],
+	"landRare": [
+		["Shellder", "090", "Bivalve", "Water", "NA", "Shell Armor", "Skill Link", "Overcoat", "50", "50", "5", "15", "1 Def.", "80", "0", "20", ".5", "18","Slow","61","50"],
+		["Tropius", "357", "Fruit", "Grass", "Flying", "Chlorophyll", "Solar Power", "Harvest", "50", "50", "15", "30", "2 HP", "80", "0", "20", "11", "82","Slow","161","50"],
+		["Wimpod", "767", "Turn Tail", "Bug", "Water", "Wimp Out", "NA", "NA", "50", "50", "15", "29", "1 Speed", "80", "0", "20", ".25", "17","Medium Fast","46","50"]
+	],
+	"landVeryRare": [
+		["Pelipper", "279", "Water Bird", "Water", "Flying", "Keen Eye", "Drizzle", "Rain Dish", "50", "50", "25", "55", "2 Def.", "80", "0", "20", "7", "50","Medium Fast","154","50"]
+	],
+	"landUltraRare": [
+		["Slowbro", "080", "Hermit Crab", "Water", "Psychic", "Oblivious", "Own Tempo", "Regenerator", "50", "50", "37", "50", "2 Def.", "80", "0", "20", "11", "97","Medium Fast","172","50"],
+		["Slowking", "199", "Royal", "Water", "Psychic", "Oblivious", "Own Tempo", "Regenerator", "50", "50", "30", "49", "3 Sp. Def.", "80", "0", "20", "11", "97","Medium Fast","172","50"],
+		["Palossand", "770", "Sand Castle", "Ghost", "Ground", "Water Compaction", "NA", "Sand Veil", "50", "50", "42", "55", "2 Def.", "80", "0", "20", "11", "89","Medium Fast","168","50"],
+		["Ambipom", "424", "Long Tail", "Normal", "NA", "Technician", "Pickup", "Skill Link", "50", "50", "33", "45", "2 Speed", "80", "0", "20", "11", "94","Fast","169","100"],
+		["Kingler", "099", "Pincer", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "28", "50", "2 Atk.", "80", "0", "20", "8", "50","Medium Fast","166","50"],
+		["Golisopod", "767", "Hard Scale", "Bug", "Water", "Emergency Exit", "NA", "NA", "50", "50", "30", "55", "2 Def.", "80", "0", "20", "9", "50","Medium Fast","186","50"],
+		["Crawdaunt", "342", "Rogue", "Water", "Dark", "Hyper Cutter", "Shell Armor", "Adaptability", "50", "50", "30", "55", "2 Atk.", "80", "0", "20", "5", "50","Fluctuating","164","50"],
+		["Gastrodon(West Sea)", "423", "Sea Slug", "Water", "Ground", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "40", "60", "2 HP", "80", "0", "20", "9", "71","Medium Fast","166","50"]
+	],
+	"waterCommon": [
+		[ "Krabby", "098", "River Crab", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "15", "28", "1 Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "65", "50" ],
+		[ "Corphish", "341", "Ruffian", "Water", "NA", "Hyper Cutter", "Shell Armor", "Adaptability", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", ".25", "16", "Fluctuating", "62", "50" ],
+		["Finneon", "456", "Wing Fish", "Water", "NA", "Swift Swim", "Storm Drain", "Water Veil", "50", "50", "19", "30", "1 Speed", "80", "0", "20", "2", "17","Erratic","66","50"]
+	],
+	"waterUncommon": [
+		[ "Shellos(West Sea)", "422", "Sea Slug", "Water", "NA", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "5", "15", "1 HP", "80", "0", "20", "2", "21", "Medium Fast", "65", "50" ],
+		["Clobbopus", "852", "Tantrum", "Fighting", "NA", "Limber", "NA", "Technician", "50", "50", "10", "30", "1 Atk.", "80", "0", "20", ".5", "17","Medium Slow","62","50"],
+		[ "Pincurchin", "871", "Sea Urchin", "Electric", "NA", "Lightning Rod", "NA", "Electric Surge", "50", "50", "20", "40", "2 Atk.", "80", "0", "20", "8", "44", "Medium Fast", "152", "50" ],
+		["Finizen", "963", "Dolphin", "Water", "NA", "Water Veil", "NA", "NA", "50", "50", "14", "38", "1 Speed", "80", "0", "20", "1", "24","Slow","63","50"],
+		["Luvdisc", "370", "Rendezvous", "Water", "NA", "Swift Swim", "NA", "Hydration", "25", "75", "15", "25", "1 Speed", "80", "0", "20", "5", "38","Fast","116","50"],
+		["Staryu", "120", "Star Shape", "Water", "NA", "Illuminate", "Natural Cure", "Analytic", "0", "0", "10", "15", "1 Speed", "80", "0", "20", ".5", "16","Slow","68","50"]
+	],
+	"waterRare": [
+		[ "Shellder", "090", "Bivalve", "Water", "NA", "Shell Armor", "Skill Link", "Overcoat", "50", "50", "5", "15", "1 Def.", "80", "0", "20", ".5", "18", "Slow", "61", "50" ],
+		["Grapploct", "853", "Jujitsu", "Fighting", "NA", "Limber", "NA", "Technician", "50", "50", "35", "50", "2 Atk.", "80", "0", "20", "11", "57","Medium Slow","168","50"],
+		[ "Wimpod", "767", "Turn Tail", "Bug", "Water", "Wimp Out", "NA", "NA", "50", "50", "15", "29", "1 Speed", "80", "0", "20", ".25", "17", "Medium Fast", "46", "50" ]
+	],
+	"waterVeryRare": [],
+	"waterUltraRare": [
+		[ "Gastrodon(West Sea)", "423", "Sea Slug", "Water", "Ground", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "40", "60", "2 HP", "80", "0", "20", "9", "71", "Medium Fast", "166", "50" ],
+		["Cloyster", "091", "Bivalve", "Water", "Ice", "Shell Armor", "Skill Link", "Overcoat", "50", "50", "35", "50", "2 Def.", "80", "0", "20", "8", "55","Slow","184","50"],
+		[ "Kingler", "099", "Pincer", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "28", "50", "2 Atk.", "80", "0", "20", "8", "50", "Medium Fast", "166", "50" ],
+		["Starmie", "121", "Mysterious", "Water", "Psychic", "Illuminate", "Natural Cure", "Analytic", "0", "0", "30", "50", "2 Speed", "80", "0", "20", "9", "64","Slow","182","50"],
+		["Lapras", "131", "Transport", "Water", "Ice", "Water Absorb", "Shell Armor", "Hydration", "50", "50", "20", "50", "2 HP", "80", "0", "20", "10", "70","Slow","187","50"],
+		["Lumineon", "457", "Neon", "Water", "NA", "Swift Swim", "Storm Drain", "Water Veil", "50", "50", "32", "43", "2 Speed", "80", "0", "20", "9", "55","Erratic","161","50"]
+	],
+	"goodrodCommon": [],
+	"goodrodUncommon": [
+		[ "Shellos(West Sea)", "422", "Sea Slug", "Water", "NA", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "5", "15", "1 HP", "80", "0", "20", "2", "21", "Medium Fast", "65", "50" ],
+		[ "Shellder", "090", "Bivalve", "Water", "NA", "Shell Armor", "Skill Link", "Overcoat", "50", "50", "5", "15", "1 Def.", "80", "0", "20", ".5", "18", "Slow", "61", "50" ],
+		[ "Clobbopus", "852", "Tantrum", "Fighting", "NA", "Limber", "NA", "Technician", "50", "50", "10", "30", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "62", "50" ],
+		[ "Krabby", "098", "River Crab", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "15", "28", "1 Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "65", "50" ],
+		[ "Wimpod", "767", "Turn Tail", "Bug", "Water", "Wimp Out", "NA", "NA", "50", "50", "15", "29", "1 Speed", "80", "0", "20", ".25", "17", "Medium Fast", "46", "50" ],
+		[ "Corphish", "341", "Ruffian", "Water", "NA", "Hyper Cutter", "Shell Armor", "Adaptability", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", ".25", "16", "Fluctuating", "62", "50" ],
+		[ "Luvdisc", "370", "Rendezvous", "Water", "NA", "Swift Swim", "NA", "Hydration", "25", "75", "15", "25", "1 Speed", "80", "0", "20", "5", "38", "Fast", "116", "50" ],
+		[ "Finneon", "456", "Wing Fish", "Water", "NA", "Swift Swim", "Storm Drain", "Water Veil", "50", "50", "19", "30", "1 Speed", "80", "0", "20", "2", "17", "Erratic", "66", "50" ]
+	],
+	"goodrodRare": [
+		[ "Staryu", "120", "Star Shape", "Water", "NA", "Illuminate", "Natural Cure", "Analytic", "0", "0", "10", "15", "1 Speed", "80", "0", "20", ".5", "16", "Slow", "68", "50" ]
+	],
+	"goodrodVeryRare": [
+		[ "Gastrodon(West Sea)", "423", "Sea Slug", "Water", "Ground", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "40", "60", "2 HP", "80", "0", "20", "9", "71", "Medium Fast", "166", "50" ],
+		[ "Pincurchin", "871", "Sea Urchin", "Electric", "NA", "Lightning Rod", "NA", "Electric Surge", "50", "50", "20", "40", "2 Atk.", "80", "0", "20", "8", "44", "Medium Fast", "152", "50" ]
+	],
+	"goodrodUltraRare": [
+		[ "Lumineon", "457", "Neon", "Water", "NA", "Swift Swim", "Storm Drain", "Water Veil", "50", "50", "32", "43", "2 Speed", "80", "0", "20", "9", "55", "Erratic", "161", "50" ]
+	],
+	"superrodCommon": [],
+	"superrodUncommon": [
+		[ "Shellos(West Sea)", "422", "Sea Slug", "Water", "NA", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "5", "15", "1 HP", "80", "0", "20", "2", "21", "Medium Fast", "65", "50" ],
+		[ "Gastrodon(West Sea)", "423", "Sea Slug", "Water", "Ground", "Sticky Hold", "Storm Drain", "Sand Force", "50", "50", "40", "60", "2 HP", "80", "0", "20", "9", "71", "Medium Fast", "166", "50" ],
+		[ "Shellder", "090", "Bivalve", "Water", "NA", "Shell Armor", "Skill Link", "Overcoat", "50", "50", "5", "15", "1 Def.", "80", "0", "20", ".5", "18", "Slow", "61", "50" ],
+		[ "Clobbopus", "852", "Tantrum", "Fighting", "NA", "Limber", "NA", "Technician", "50", "50", "10", "30", "1 Atk.", "80", "0", "20", ".5", "17", "Medium Slow", "62", "50" ],
+		[ "Pincurchin", "871", "Sea Urchin", "Electric", "NA", "Lightning Rod", "NA", "Electric Surge", "50", "50", "20", "40", "2 Atk.", "80", "0", "20", "8", "44", "Medium Fast", "152", "50" ],
+		[ "Krabby", "098", "River Crab", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "15", "28", "1 Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "65", "50" ],
+		[ "Wimpod", "767", "Turn Tail", "Bug", "Water", "Wimp Out", "NA", "NA", "50", "50", "15", "29", "1 Speed", "80", "0", "20", ".25", "17", "Medium Fast", "46", "50" ],
+		[ "Golisopod", "767", "Hard Scale", "Bug", "Water", "Emergency Exit", "NA", "NA", "50", "50", "30", "55", "2 Def.", "80", "0", "20", "9", "50", "Medium Fast", "186", "50" ],
+		[ "Corphish", "341", "Ruffian", "Water", "NA", "Hyper Cutter", "Shell Armor", "Adaptability", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", ".25", "16", "Fluctuating", "62", "50" ],
+		[ "Luvdisc", "370", "Rendezvous", "Water", "NA", "Swift Swim", "NA", "Hydration", "25", "75", "15", "25", "1 Speed", "80", "0", "20", "5", "38", "Fast", "116", "50" ],
+		[ "Staryu", "120", "Star Shape", "Water", "NA", "Illuminate", "Natural Cure", "Analytic", "0", "0", "10", "15", "1 Speed", "80", "0", "20", ".5", "16", "Slow", "68", "50" ],
+		[ "Finneon", "456", "Wing Fish", "Water", "NA", "Swift Swim", "Storm Drain", "Water Veil", "50", "50", "19", "30", "1 Speed", "80", "0", "20", "2", "17", "Erratic", "66", "50" ]
+	],
+	"superrodRare": [],
+	"superrodVeryRare": [
+		[ "Kingler", "099", "Pincer", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "28", "50", "2 Atk.", "80", "0", "20", "8", "50", "Medium Fast", "166", "50" ],
+		[ "Lumineon", "457", "Neon", "Water", "NA", "Swift Swim", "Storm Drain", "Water Veil", "50", "50", "32", "43", "2 Speed", "80", "0", "20", "9", "55", "Erratic", "161", "50" ]
+	],
+	"superrodUltraRare": [
+		[ "Cloyster", "091", "Bivalve", "Water", "Ice", "Shell Armor", "Skill Link", "Overcoat", "50", "50", "35", "50", "2 Def.", "80", "0", "20", "8", "55", "Slow", "184", "50" ],
+		[ "Grapploct", "853", "Jujitsu", "Fighting", "NA", "Limber", "NA", "Technician", "50", "50", "35", "50", "2 Atk.", "80", "0", "20", "11", "57", "Medium Slow", "168", "50" ],
+		[ "Starmie", "121", "Mysterious", "Water", "Psychic", "Illuminate", "Natural Cure", "Analytic", "0", "0", "30", "50", "2 Speed", "80", "0", "20", "9", "64", "Slow", "182", "50" ]
+	],
+	"sweetscentCommon": [],
+	"sweetscentUncommon": [
+		[ "Slowpoke", "079", "Dopey", "Water", "Psychic", "Oblivious", "Own Tempo", "Regenerator", "50", "50", "15", "37", "1 HP", "80", "0", "20", ".5", "20", "Medium Fast", "63", "50" ]
+	],
+	"sweetscentRare": [],
+	"sweetscentVeryRare": [],
+	"sweetscentUltraRare": [
+		[ "Slowbro", "080", "Hermit Crab", "Water", "Psychic", "Oblivious", "Own Tempo", "Regenerator", "50", "50", "37", "50", "2 Def.", "80", "0", "20", "11", "97", "Medium Fast", "172", "50" ]
+	],
+	"headbuttCommon": [],
+	"headbuttUncommon": [
+		[ "Aipom", "190", "Long Tail", "Normal", "NA", "Run Away", "Pickup", "Skill Link", "50", "50", "5", "30", "1 Speed", "80", "0", "20", "3", "25", "Fast", "72", "50" ]
+	],
+	"headbuttRare": [],
+	"headbuttVeryRare": [
+		[ "Ambipom", "424", "Long Tail", "Normal", "NA", "Technician", "Pickup", "Skill Link", "50", "50", "33", "45", "2 Speed", "80", "0", "20", "11", "94", "Fast", "169", "100" ]
+	],
+	"headbuttUltraRare": [
+		[ "Crabrawler", "739", "Boxing", "Fighting", "NA", "Hyper Cutter", "Iron Fist", "Anger Point", "50", "50", "15", "35", "1 Atk.", "80", "0", "20", "1", "17", "Medium Fast", "68", "50" ]
+	],
+	"rocksmashCommon": [
+		[ "Krabby", "098", "River Crab", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "15", "28", "1 Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "65", "50" ],
+		[ "Corphish", "341", "Ruffian", "Water", "NA", "Hyper Cutter", "Shell Armor", "Adaptability", "50", "50", "5", "29", "1 Atk.", "80", "0", "20", ".25", "16", "Fluctuating", "62", "50" ]
+	],
+	"rocksmashUncommon": [],
+	"rocksmashRare": [],
+	"rocksmashVeryRare": [],
+	"rocksmashUltraRare": [
+		[ "Kingler", "099", "Pincer", "Water", "NA", "Hyper Cutter", "Shell Armor", "Sheer Force", "50", "50", "28", "50", "2 Atk.", "80", "0", "20", "8", "50", "Medium Fast", "166", "50" ]
+	],
+	"itemsCommon": ["Poke Ball", "Seashell"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Net Ball", "Pearl", "Water Stone"],
+	"itemsVeryRare": ["Big Pearl"],
+	"itemsUltraRare": ["TM Sunny Day", "Shell Bell", "Pearl String"]
+}

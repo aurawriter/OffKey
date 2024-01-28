@@ -1,0 +1,26 @@
+	{
+  "dialogue": 
+  [
+    [ "Neutral", "Random", "'Do you ever wonder how Juli is able to work so many hours? My theory is that her ditto subs in for her sometimes. What do you think? Pretty plausible, right?'" ],
+    [ "Neutral", "Random", "'You don't look like you're from here. Well, if you've come hoping to become a star, you might as well turn back now. I left behind everything I had to become an actress and was turned away at every single agency. It was all, 'try being more like Juli' and then 'you seem like you're trying too hard to emulate Juli.' WHICH IS IT THEN?! I *hate* this place.'" ],
+    [ "Neutral", "Random", "'Don't you know who I am? I placed fourth in my hometown's master rank cute contest! I'm basically as famous as Juli!'" ],
+    [ "Neutral", "Random", "'All the talent agents here are jerks. Nobody in the contest scene appreciates my avant-garde post-shoegaze progcore liminal jazz choreography.'" ],
+    [ "Neutral", "Random", "'I moved here from Unova! These big cities feel like home to me.'" ],
+    [ "Neutral", "Random", "'You're never going to believe this, but I saw Juli, in PERSON. *OFF CAMERA*. I tried to follow her, but her really scary bodyguard came after me - I barely evaded her! I'll never forget that glorious day.'" ],
+    [ "Neutral", "Random", "'Heehee... Do you think Arlie and Ariea get along off camera? Do you think they could be dating? Heeheehee~'" ],
+    [ "Neutral", "Random", "'I hope they never invite the Litore gym leader back. He's a terrible judge.'" ],
+    [ "Neutral", "Random", "'Why'd *Yarnhop* get a gym leader, but not us? It's not like this is the biggest city in the region or anything... I bet it's nepotism.'" ],
+    [ "Neutral", "Random", "'Having trouble making it big? Most people do. Save your money and go home.'" ],
+    [ "Neutral", "Random", "'I got to see Juli in person! I'm never blinking again!'" ],
+	[ "Neutral","Random","'Juli would make a perfect gym leader if the league was still a thing. Her theme? :sparkles: perfection :sparkles:'"],
+    [ "Neutral", "ConspiracyGuy", "'Hear me out, have you ever seen Juli and the champion in the same room?'" ],
+    [ "Neutral", "Random", "'Trivia Tuesday prizes have been getting lazy lately. It's not 'exclusive merch' it's leftover stock from the Smile with Juli advent calender released two years ago.'" ],
+    [ "Neutral", "Random", "'My Clefairy has put on some weight after I started feeding her pokegran bars. I thought they were supposed to be healthy?'" ],
+    [ "Knight", "Ariea", "'...Are you a fan of Juli? You sure look the part. What? I'm not implying anything.'" ],
+	["Knight","Yamano","'...I don't have anything to say to you'"]
+  ],
+  "quests": [
+    [ "Gumm.i", "232689259902009355", "0", "0", "*There's...what looks like a puddle of blue and pink slime on the floor...*","NA", "Quest: The Idol's Indecisiveness" ],
+    [ "Ariea", "306296046575681546", "11", "-5", "NA", "'Juli's 'iconic' set... Wouldn't it be a bad look if the Knights ruined such a... *beloved* Misen staple?'", "Mission: Set Sabotage" ]
+  ]
+}

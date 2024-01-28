@@ -1,0 +1,31 @@
+{
+	"dialogue": [
+		[ "Corp", "Random", "'I can't believe they still let that awful scientist lady work here. Not only a pokemon abuser, but a terrorist now too? I feel unsafe just walking past that building...'" ],
+		[ "Knight", "Random", "'I can't believe they still let that awful scientist lady work here. Not only a pokemon abuser, but a terrorist now too? I feel unsafe just walking past that building.... Ack! That symbol! Don't tell me, you're one of them too?'" ],
+		[ "Neutral", "Random", "'I just gambled my kid's college money away... and lost. Ha... hahaha... You wouldn't happen to have a spare 2500000 pokedollars would you?'" ],
+		[ "Neutral", "Random", "'This city needs a better sanitation service! I keep seeing poor Rattata who've been dyed black in soot!'" ],
+		[ "Neutral", "Random", "'I got my Poochyena from a shelter here! He’s so well trained, and he’s gonna be my bestest friend forever! The boy who trained him for me gave me a 100% guarantee on that!'" ],
+		[ "Neutral", "Random", "'Sometimes I wish we could still see the stars here. There’s just so many lights! Maybe I’ll visit Meobi or something… The city may be too hectic for me.'" ],
+		[ "Neutral", "Random", "'Why'd they let a guy from Galar become a gym leader for Misen, anyway?'" ],
+		[ "Neutral", "Random", "'The professor here is human garbage, but her assistant at least seems like a nice boy. It's sad how decent people get swept up into the wrong crowd.'" ],
+		[ "Neutral", "Random", "'I just won big at the casino!'" ],
+		[ "Neutral", "Random", "'I just lost hard at the casino...'" ],
+		[ "Neutral", "Random", "'The lights are too bright here. I wish I could see the stars...'" ],
+		[ "Neutral", "Random", "'My husband got us a penthouse suite at this hotel for our honeymoon! Isn't he the best?'" ],
+		[ "Neutral", "Random", "'My Dad says my Stufful isn't allowed to evolve since our apartment is too small, so I made her collar with bits of everstone in it. Isn't it cute?'" ],
+		[ "Neutral", "Random", "'Okay, everyone's talking about who the champion is, or where the champion is, but I have a more important question: Do you think they're single?'" ],
+		[ "Neutral", "Random", "'My sister has been distant ever since she joined the Restoration Corporation. I get that it's a demanding job, but would it really hurt for her to pick up the phone once in a while?'" ],
+		[ "Neutral", "Random", "'That professor... I forget her name, but she has one of those long-necked Exeggutors. Sometimes she'll let it stick its head through her office's skylight. It's a pretty amusing sight.'" ],
+		[ "Corp", "Random", "'They tried to build a Restoration Corporation base here not long ago, but those Team Knight guys went on the *attack*. I guess they consider Weybus their 'turf'. Scary...'" ],
+		[ "Knight", "Random", "'D-don't mind me! I'm just minding my business over here.'" ],
+		[ "Corp", "Random", "'I don't feel safe with all these gangsters walking around the city. When is the government going to step in and do something about that lot?'" ],
+		[ "Knight", "Random", "'Stay back! My Butterfree knows Hyper Beam!'" ],
+		[ "Corp", "Alphie", "'... N-Nothing to see here...'" ],
+		[ "Corp","Alphie", "'...Y-Your starter pokemon... They're, um... Interesting.'" ],
+		["Corp","Pup","'Hm? Oh, I can't be friends with any Restoration Corporation people right now! Maybe one day!'"]
+	],
+	"quests": [
+		[ "Taisei", "403812429185810432", "-1", "1", "'Not even enough for one Pokeball...yeesh...'", "NA", "Quest: A Friend Of My Own" ]
+
+	]
+}

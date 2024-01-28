@@ -1,0 +1,72 @@
+{
+	"connections": ["Shipwreck Shore", "Lantern Reef"],
+	"goals": [
+		["Shipwreck Shore", "Lantern Reef", "8"],
+		["Lantern Reef", "Shipwreck Shore", "8"]
+	],
+	"locationColor": "#0B1413",
+
+	"locationName": "Deep Sea",
+
+	"locationDescription": "For the daring to explore, the deep sea is a near pitch black area inhabited by many aggressive Pokemon. Old shipwrecks litter the sea bed.",
+	"happeningsList": [
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["WaterPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["ShipInvestigation", "You can see a faintly illuminated ship wreck. Will you investigate?"],
+		["TrainerBattle", "When trainers eyes meet, a fight can break out!"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["Roll Obstacle", "There's a large amount of kelp in your way. You'll have to get through here or go around"],
+		["Roll Item", "There's an item in the middle of some kelp. If you can get through it, you can claim the item"],
+		["Roll Shortcut", "If you can get through this kelp, your journey will be sped up!"],
+		["Scenery", "Smells like - are you sure you want to be checking how things smell right now?"],
+		["Scenery", "Something smooth brushes past your leg"],
+		["Scenery", "You can't see anything besides the faint glows of Chinchou, Lanturn, Finneon, and Lumineon"],
+		["Scenery", "It'd suck if your air ran out down here..."]
+	],
+	"trainersList": [
+		[ "Free Diver", "#A8B820", "Male", "40", "Wishiwashi", "Finneon", "Horsea", "Chinchou", "Clauncher", "Frillish(Female)", "Skrelp", "Inkay" ],
+		[ "Scuba Diver", "#A8B820", "Male", "40", "Wishiwashi", "Finneon", "Horsea", "Chinchou", "Clauncher", "Frillish(Male)", "Skrelp", "Inkay" ]
+	],
+	"waterCommon": [
+		[ "Wishiwashi(Solo)", "746", "Small Fry", "Water", "NA", "Schooling", "NA", "NA", "50", "50", "19", "19", "1 HP", "80", "0", "20", "5", "18", "Fast", "61", "50" ],
+		[ "Wishiwashi(School)", "746", "Small Fry", "Water", "NA", "Schooling", "NA", "NA", "50", "50", "20", "30", "1 HP", "80", "0", "20", "5", "18", "Fast", "61", "50" ],
+		[ "Finneon", "456", "Wing Fish", "Water", "NA", "Swift Swim", "Storm Drain", "Water Veil", "50", "50", "19", "30", "1 Speed", "80", "0", "20", "2", "17", "Erratic", "66", "50" ]
+	],
+	"waterUncommon": [
+		[ "Horsea", "116", "Dragon", "Water", "NA", "Swift Swim", "Sniper", "Damp", "50", "50", "10", "32", "1 Sp. Atk.", "80", "0", "20", ".5", "16", "Medium Fast", "59", "50" ],
+		[ "Chinchou", "170", "Angler", "Water", "Electric", "Volt Absorb", "Illuminate", "Water Absorb", "50", "50", "12", "27", "1 HP", "80", "0", "20", ".25", "17", "Slow", "66", "50" ],
+		[ "Clauncher", "692", "Water Gun", "Water", "NA", "Mega Launcher", "NA", "NA", "50", "50", "24", "36", "1 Sp. Atk.", "80", "0", "20", "1", "18", "Slow", "66", "50" ],
+		[ "Frillish(Male)", "592", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "100", "0", "22", "39", "1 Sp. Def.", "80", "0", "20", "2", "17", "Medium Fast", "67", "50" ],
+		[ "Frillish(Female)", "592", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "0", "100", "22", "39", "1 Sp. Def.", "80", "0", "20", "2", "17", "Medium Fast", "67", "50" ],
+		[ "Skrelp", "690", "Mock Kelp", "Poison", "Water", "Poison Point", "Poison Touch", "Adaptability", "50", "50", "33", "47", "1 Sp. Def.", "80", "0", "20", ".5", "17", "Medium Fast", "64", "50" ],
+		[ "Inkay", "686", "Revolving", "Dark", "Psychic", "Contrary", "Suction Cups", "Infiltrator", "50", "50", "18", "29", "1 Atk.", "80", "0", "20", "1", "17", "Medium Fast", "58", "50" ]
+	],
+	"waterRare": [
+		[ "Dhelmise", "781", "Sea Creeper", "Ghost", "Grass", "Steelworker", "NA", "NA", "0", "0", "15", "45", "2 Atk.", "80", "0", "20", "11", "85", "Medium Fast", "181", "50" ],
+		[ "Veluza", "976", "Jettison", "Water", "Psychic", "Mold Breaker", "NA", "Sharpness", "50", "50", "49", "56", "2 Atk.", "0", "50", "50", "8", "60", "Fast", "167", "50" ]
+	],
+	"waterVeryRare": [
+		[ "Seadra", "117", "Dragon", "Water", "NA", "Poison Point", "Sniper", "Damp", "50", "50", "32", "40", "1 Def.,1 Sp. Atk.", "80", "0", "20", "8", "64", "Medium Fast", "154", "50" ]
+	],
+	"waterUltraRare": [
+		[ "Kingdra", "118", "Dragon", "Water", "Dragon", "Swift Swim", "Sniper", "Damp", "50", "50", "45", "59", "1 Atk.,1 Sp. Def.,1 Sp. Atk.", "80", "0", "20", "12", "99", "Medium Fast", "243", "50" ],
+		[ "Lanturn", "171", "Light", "Water", "Electric", "Volt Absorb", "Illuminate", "Water Absorb", "50", "50", "27", "50", "2 HP", "80", "0", "20", "6", "50", "Slow", "161", "50" ],
+		[ "Clawitzer", "693", "Howitzer", "Water", "NA", "Mega Launcher", "NA", "NA", "50", "50", "38", "50", "2 Sp. Atk.", "80", "0", "20", "11", "84", "Slow", "100", "50" ],
+		[ "Jellicent(Male)", "593", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "100", "0", "41", "57", "2 Sp. Def.", "80", "0", "20", "12", "88", "Medium Fast", "168", "50" ],
+		[ "Jellicent(Female)", "593", "Floating", "Water", "Ghost", "Water Absorb", "Cursed Body", "Damp", "0", "100", "41", "57", "2 Sp. Def.", "80", "0", "20", "12", "88", "Medium Fast", "168", "50" ],
+		[ "Dragalge", "691", "Mock Kelp", "Poison", "Dragon", "Poison Point", "Poison Touch", "Adaptability", "50", "50", "48", "64", "2 Sp. Def.", "80", "0", "20", "12", "92", "Medium Fast", "173", "50" ],
+		[ "Malamar", "687", "Overturning", "Dark", "Psychic", "Contrary", "Suction Cups", "Infiltrator", "50", "50", "31", "45", "2 Atk.", "80", "0", "20", "11", "57", "Medium Fast", "169", "50" ],
+		[ "Feebas", "349", "Fish", "Water", "NA", "Swift Swim", "Oblivious", "Adaptability", "50", "50", "10", "25", "1 Speed", "80", "0", "20", ".25", "16", "Erratic", "40", "50" ],
+		[ "Milotic", "350", "Tender", "Water", "NA", "Marvel Scale", "Competitive", "Cute Charm", "50", "50", "30", "50", "2 Sp. Def.", "80", "0", "20", "10", "88", "Erratic", "189", "50" ],
+		[ "Lumineon", "457", "Neon", "Water", "NA", "Swift Swim", "Storm Drain", "Water Veil", "50", "50", "32", "43", "2 Speed", "80", "0", "20", "9", "55", "Erratic", "161", "50" ]
+	],
+	"itemsCommon": ["Poke Ball", "Gimmighoul Coins(10)"],
+	"itemsUncommon": ["Great Ball", "Gimmighoul Coins(50)"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Net Ball", "Dive Ball", "Dusk Ball", "Gimmighoul Coins(100)", "Sticky Barb", "Pearl", "Prism Scale", "Dragon Scale", "Water Stone"],
+	"itmesVeryRare": ["Gimmighoul Coins(150)", "TM Torment", "TM Snatch", "Mystic Water", "Spell Tag", "Deep Sea Tooth", "Deep Sea Scale", "Big Pearl"],
+	"itemsUltraRare": ["Gimmighoul Coins(200)", "TM Shadow Ball", "Shell Bell", "Pearl String", "Malicious Armor", "Auspicious Armor"]
+}

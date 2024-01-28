@@ -1,0 +1,64 @@
+{
+	"connections":["Nisorim City","Patus Town"],
+	"goals":
+	[
+	["Patus Town","Nisorim City","10"],
+	["Nisorim City","Patus Town","10"]
+	],
+	"locationColor":"",
+	"locationName":"Wailord's Jungle",
+	"locationDescription":"An ominous jungle that appears to have a mind of its own. If one stays still for too long in this jungle, the flora will attempt to trap and absorb them. A commonly known Misenian folk story is that a Wailord was once beached on the island many centuries ago and died. That wailord supposedly became the jungle as it stands today, and is still trying to stay alive by absorbing whatever nutrients it can. Only Ghost Pokemon are capable of inhabiting this area.",
+	"happeningsList":
+	[
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LandPokemon","A Pokemon is blocking your path! You must defeat it to advance!"],
+	["LootPokemon","You spot a Pokemon holding an item. If you want to claim the item, you have to defeat it!"],
+	["Roll Obstacle","The trees are rather thick here...you'll have to go around. Unless you can manage to work your way through."],
+	["Roll Shortcut","The trees are rather thick here...but if you can get through them, you're sure you'll make good progress to getting out"],
+	["Roll Item","There's an item behind some rather thick trees. If you can get through them, it's yours to claim!"],
+	["HiddenItem","You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],		
+	["Scenery","Those trees weren't in front of you before, right?"],
+	["Scenery","You can't hear anything."],
+	["Scenery","Just keep walking."],
+	["Scenery","Don't stop moving."],
+	["Scenery","You spot a Pokemon's skeleton"],
+	["DistressedPokemon","An Aipom is stuck in place, writhing about as the jungle tries to consume it. Save it?"]
+	],
+	"landCommon":[],
+	"landUncommon":
+	[
+	["Gastly","092","Gas","Ghost","Poison","Levitate","NA","NA","50","50","8","25","1 Sp. Atk.","80","0","20",".5","16"],
+	["Duskull","355","Requiem","Ghost","NA","Levitate","NA","Frisk","50","50","25","33","1 Sp. Def.","80","0","20","1","18"],
+	["Oricorio(Sensu)","741","Dancing","Ghost","Flying","Dancer","NA","NA","25","75","10","35","2 Sp. Atk.","80","0","20","7","50"],
+	["Shuppet","353","Puppet","Ghost","NA","Insomnia","Frisk","Cursed Body","50","50","15","31","1 Atk.","80","0","20","1","16"]
+	],
+	"landRare":
+	[
+	["Dreepy","885","Lingering","Dragon","Ghost","Clear Body","Infiltrator","Cursed Body","50","50","25","45","1 Speed","80","0","20","1","16"],
+	["Misdreavus","200","Screech","Ghost","NA","Levitate","NA","NA","50","50","10","30","1 Sp. Def.","80","0","20","7","40"]
+	],
+	"landVeryRare":
+	[
+	["Haunter","093","Gas","Ghost","Poison","Levitate","NA","NA","50","50","25","50","2 Sp. Atk.","80","0","20","5","45"]
+	],
+	"landUltraRare":
+	[
+	["Gengar","094","Shadow","Ghost","Poison","Cursed Body","NA","NA","50","50","30","50","3 Sp. Atk.","80","0","20","12","102"],
+	["Dusclops","356","Beckon","Ghost","NA","Pressure","NA","Frisk","50","50","38","51","1 Def., 1 Sp. Def.","80","0","20","12","80"],
+	["Dusknoir","477","Gripper","Ghost","NA","Pressure","NA","Frisk","50","50","42","55","1 Def., 2 Sp. Def.","80","0","20","14","126"],
+	["Drakloak","886","Caretaker","Dragon","Ghost","Clear Body","Infiltrator","Cursed Body","50","50","50","55","2 Speed","80","0","20","6","45"],
+	["Dragapult","887","Stealth","Dragon","Ghost","Clear Body","Infiltrator","Cursed Body","50","50","60","75","3 Speed","80","0","20","14","140"],
+	["Banette","354","Marionette","Ghost","NA","Insomnia","Frisk","Cursed Body","50","50","35","45","2 Atk.","80","0","20","9","72"],
+	["Mismagius","429","Magical","Ghost","NA","Levitate","NA","NA","50","50","31","55","1 Sp. Atk., 1 Sp. Def.","80","0","20","9","72"]
+	],
+	"itemsCommon":["Poke Ball"],
+	"itemsUncommon":["Great Ball","Purple Nectar"],
+	"itemsRare":["Max Revive","Ultra Ball","Dusk Stone"],
+	"itemsVeryRare":["TM Payback"],
+	"itemsUltraRare":["TM Shadow Claw","Spell Tag","Life Orb","Grip Claw"]
+	
+}

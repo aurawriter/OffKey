@@ -1,0 +1,145 @@
+ {
+ 	"connections": ["Antmill City", "Wasteland"],
+ 	"goals": [
+ 		["Antmill City", "Wasteland", "8"],
+ 		["Wasteland", "Antmill City", "8"]
+ 	],
+ 	"locationColor": "#22191A",
+ 	"locationName": "Junkyard",
+ 	"locationDescription": "The quickest way to Antmill is to wade through this garbage pit. All the trash in the region ends up here eventually, and to no surprise, this attracts Poison-type Pokemon in droves. The heat causes the trash to rot faster than normal, which stinks up the air, making it unpleasant to walk through but if you don't go through here, you have to brave the uncharted wilds. And who knows, maybe you'll find something cool! One man's trash is another man's treasure, after all. Try not to step in anything gross! The toxic environment causes Wurmple found here to only evolve into Dustox.",
+  "happeningsList": [
+    [ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+    [ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+    [ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+    [ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+    [ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+    [ "LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!" ],
+    [ "HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..." ],
+    [ "Roll Item", "There's a nice looking item there...if you're willing to attempt digging through trash to get to it." ],
+	[ "HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..." ],
+    [ "Roll Item", "There's a nice looking item there...if you're willing to attempt digging through trash to get to it." ],
+    [ "Roll Obstacle", "There's a mountain of trash in your way. You either have to climb over it, or go around." ],
+    [ "Roll Shortcut", "If you can get over this mountain of trash, your journey will be sped up!" ],
+    [ "RockSmash", "There's an easily smashable rock here. Would you like to break it apart?" ],
+    [ "Fishing", "There's a pool of water that...might pass for a fishing pond if you have a fishing rod, but it'll take some time" ],
+    [ "ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?" ],
+    [ "Scenery", "Smells like the inability to describe how grotesque it smells" ],
+    [ "Scenery", "Smells like... oh god, that's bad. Cover your nose" ],
+    [ "Scenery", "They say one man's trash is another man's treasure. But more often its just trash." ],
+    [ "Scenery", "You begin to wonder if there was some way to stop the scent" ],
+    [ "Scenery", "There's probably a few treasures buried within the mountains of trash, but are they worth searching for?" ],
+    [ "TrainerBattle", "When trainers eyes meet.....a fight can break out!" ],  
+    [ "JunkInvestigation", "Something catches your eye, and you feel a faint aura of power. Go digging?" ]
+
+  ],
+ 	"trainersList": [
+    [ "Street Thug", "#A8B820", "Male", "32", "Maschiff", "Stunky", "Drapion", "Skuntank", "Mabosstiff" ],
+    [ "Delinquent", "#A8B820", "Male", "32", "Maschiff", "Stunky", "Drapion", "Skuntank", "Mabosstiff" ]
+ 	],
+ 	"landCommon": [
+ 		["Burmy(Trash Cloak)", "412", "Bagworm", "Bug", "NA", "Shed Skin", "NA", "Overcoat", "50", "50", "5", "20", "1 Sp. Def.", "80", "0", "20", ".25", "17","Medium Fast","45","50"],
+ 		["Rattata", "019", "Mouse", "Normal", "NA", "Run Away", "Guts", "Hustle", "50", "50", "2", "20", "1 Speed", "80", "0", "20", ".25", "16","Medium Fast","51","50"],
+ 		["Ekans", "023", "Snake", "Poison", "NA", "Intimidate", "Shed Skin", "Unnerve", "50", "50", "10", "22", "1 Atk.", "70", "0", "30", ".5", "16","Medium Fast","58","50"],
+ 		["Venipede", "543", "Centipede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "5", "21", "1 Def.", "80", "0", "20", ".25", "16","Medium Slow","52","50"],
+ 		["Grubbin", "736", "Larva", "Bug", "NA", "Swarm", "NA", "NA", "50", "50", "5", "19", "1 Atk.", "80", "0", "20", ".25", "17","Medium Fast","60","50"]
+ 	],
+ 	"landUncommon": [
+ 		["Raticate", "020", "Mouse", "Normal", "NA", "Run Away", "Guts", "Hustle", "50", "50", "20", "32", "2 Speed", "80", "0", "20", "5", "45","Medium Fast","145","50"],
+ 		["Maschiff", "942", "Rascal", "Dark", "NA", "Intimidate", "Run Away", "Stakeout", "50", "50", "17", "29", "1 Atk.", "0", "50", "50", "4", "50","Medium Slow","68","50"],
+ 		["Trubbish", "568", "Trash Bag", "Poison", "NA", "Stench", "Sticky Hold", "Aftermath", "50", "50", "23", "35", "1 Speed", "80", "0", "20", "1", "19","Medium Fast","66","50"],
+ 		["Skorupi", "451", "Scorpion", "Poison", "Bug", "Battle Armor", "Sniper", "Keen Eye", "50", "50", "5", "25", "1 Def.", "80", "0", "20", "2", "18","Slow","66","50"],
+ 		["Sizzlipede", "850", "Radiator", "Fire", "Bug", "Flash Fire", "White Smoke", "Flame Body", "50", "50", "9", "25", "1 Atk.", "80", "0", "20", "1", "17","Medium Fast","61","50"],
+ 		["Grimer", "088", "Sludge", "Poison", "NA", "Stench", "Stick Hold", "Poison Touch", "50", "50", "10", "38", "1 HP", "80", "0", "20", ".5", "19","Medium Fast","65","50"],
+ 		["Stunky", "434", "Skunk", "Poison", "Dark", "Stench", "Aftermath", "Keen Eye", "50", "50", "23", "33", "1 Speed", "80", "0", "20", ".5", "20","Medium Fast","66","50"],
+ 		["Koffing", "109", "Poison Gas", "Poison", "NA", "Levitate", "Neutralizing Gas", "Stench", "50", "50", "15", "35", "1 Def.", "80", "0", "20", ".5", "18","Medium Fast","68","50"]
+ 	],
+ 	"landRare": [
+ 		["Durant", "632", "Iron Ant", "Bug", "Steel", "Swarm", "Hustle", "Truant", "50", "50", "34", "46", "2 Def.", "80", "0", "20", "8", "48","Medium Fast","169","50"],
+ 		["Whirlipede", "544", "Curlipede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "22", "29", "2 Def.", "80", "0", "20", "6", "50","Medium Slow","126","50"],
+ 		["Varoom", "965", "Single-Cyl", "Steel", "Poison", "Overcoat", "NA", "Slow Start", "50", "50", "19", "39", "1 Atk.", "80", "0", "20", ".5", "17","Medium Fast","60","50"],
+ 		["Seviper", "336", "Fang Snake", "Poison", "NA", "Shed Skin", "NA", "Infiltrator", "50", "50", "5", "65", "1 Atk.,1 Sp. Atk.", "80", "0", "20", "5", "38","Fluctuating","160","50"],
+ 		["Charjabug", "737", "Battery", "Bug", "Electric", "Battery", "NA", "NA", "50", "50", "20", "35", "2 Def.", "80", "0", "20", "5", "27","Medium Fast","140","50"]
+ 	],
+ 	"landVeryRare": [
+ 		["Mabosstiff", "943", "Rascal", "Dark", "NA", "Intimidate", "Run Away", "Stakeout", "50", "50", "31", "50", "1 Atk.", "0", "50", "50", "10", "89","Medium Slow","177","50"]
+ 	],
+ 	"landUltraRare": [
+ 		["Wormadam(Trash Cloak)", "413", "Bagworm", "Bug", "Steel", "Anticipation", "NA", "Overcoat", "0", "100", "20", "50", "2 Sp. Def.", "80", "0", "20", "6", "50","Medium Fast","148","50"],
+ 		["Garbodor", "569", "Trash Heap", "Poison", "NA", "Stench", "Weak Armor", "Aftermath", "50", "50", "37", "49", "2 Atk.", "80", "0", "20", "12", "99","Medium Fast","166","50"],
+ 		["Drapion", "452", "Ogre Scorpion", "Poison", "Dark", "Battle Armor", "Sniper", "Keen Eye", "50", "50", "40", "55", "2 Def.", "80", "0", "20", "10", "55","Slow","175","50"],
+ 		["Centiskorch", "851", "Radiator", "Fire", "Bug", "Flash Fire", "White Smoke", "Flame Body", "50", "50", "9", "25", "1 Atk.", "80", "0", "20", "13", "122","Medium Fast","184","50"],
+ 		["Arbok", "024", "Cobra", "Poison", "NA", "Intimidate", "Shed Skin", "Unnerve", "50", "50", "22", "50", "2 Atk.", "60", "0", "40", "6", "45","Medium Fast","157","50"],
+ 		["Muk", "089", "Sludge", "Poison", "NA", "Stench", "Stick Hold", "Poison Touch", "50", "50", "38", "50", "1 HP,1 Atk.", "80", "0", "20", "10", "80","Medium Fast","175","50"],
+ 		["Scolipede", "545", "Megapede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "30", "45", "3 Speed", "80", "0", "20", "11", "75","Medium Slow","218","50"],
+ 		["Skuntank", "435", "Skunk", "Poison", "Dark", "Stench", "Aftermath", "Keen Eye", "50", "50", "35", "53", "2 HP", "80", "0", "20", "8", "66","Medium Fast","168","50"],
+ 		["Revavroom", "966", "Multi-Cyl", "Steel", "Poison", "Overcoat", "NA", "Filter", "50", "50", "40", "55", "2 Atk.", "80", "0", "20", "7", "40","Medium Fast","175","50"],
+ 		["Weezing", "110", "Poison Gas", "Levitate", "Neutralizing Gas", "Stench", "50", "50", "35", "50", "2 Def.", "80", "0", "20", "10", "88","Medium Fast","172","50"],
+ 		["Vikavolt", "738", "Stag Beetle", "Bug", "Electric", "Levitate", "NA", "NA", "50", "50", "35", "55", "3 Sp. Atk.", "80", "0", "20", "10", "59","Medium Fast","225","50"],
+ 		["Mothim", "414", "Moth", "Bug", "Flying", "Swarm", "NA", "Tinted Lens", "100", "0", "20", "50", "1 Atk., 1 Sp. Atk.", "80", "0", "20", "4", "45","Medium Fast","148","50"]
+ 	],
+ 	"headbuttCommon": [],
+  "headbuttUncommon": [
+
+    [ "Sizzlipede", "850", "Radiator", "Fire", "Bug", "Flash Fire", "White Smoke", "Flame Body", "50", "50", "9", "25", "1 Atk.", "80", "0", "20", "1", "17", "Medium Fast", "61", "50" ],
+    [ "Ekans", "023", "Snake", "Poison", "NA", "Intimidate", "Shed Skin", "Unnerve", "50", "50", "10", "22", "1 Atk.", "70", "0", "30", ".5", "16", "Medium Fast", "58", "50" ],
+    [ "Venipede", "543", "Centipede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "5", "21", "1 Def.", "80", "0", "20", ".25", "16", "Medium Slow", "52", "50" ],
+    [ "Whirlipede", "544", "Curlipede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "22", "29", "2 Def.", "80", "0", "20", "6", "50", "Medium Slow", "126", "50" ],
+    [ "Grubbin", "736", "Larva", "Bug", "NA", "Swarm", "NA", "NA", "50", "50", "5", "19", "1 Atk.", "80", "0", "20", ".25", "17", "Medium Fast", "60", "50" ],
+    [ "Skorupi", "451", "Scorpion", "Poison", "Bug", "Battle Armor", "Sniper", "Keen Eye", "50", "50", "5", "25", "1 Def.", "80", "0", "20", "2", "18", "Slow", "66", "50" ]
+  ],
+  "headbuttRare": [
+    [ "Charjabug", "737", "Battery", "Bug", "Electric", "Battery", "NA", "NA", "50", "50", "20", "35", "2 Def.", "80", "0", "20", "5", "27", "Medium Fast", "140", "50" ]
+  ],
+  "headbuttVeryRare": [
+
+    [ "Burmy(Trash Cloak)", "412", "Bagworm", "Bug", "NA", "Shed Skin", "NA", "Overcoat", "50", "50", "5", "20", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Fast", "45", "50" ]
+  ],
+ 	"headbuttUltraRare": [
+    [ "Wormadam(Trash Cloak)", "413", "Bagworm", "Bug", "Steel", "Anticipation", "NA", "Overcoat", "0", "100", "20", "50", "2 Sp. Def.", "80", "0", "20", "6", "50", "Medium Fast", "148", "50" ],
+    [ "Drapion", "452", "Ogre Scorpion", "Poison", "Dark", "Battle Armor", "Sniper", "Keen Eye", "50", "50", "40", "55", "2 Def.", "80", "0", "20", "10", "55", "Slow", "175", "50" ],
+    [ "Centiskorch", "851", "Radiator", "Fire", "Bug", "Flash Fire", "White Smoke", "Flame Body", "50", "50", "9", "25", "1 Atk.", "80", "0", "20", "13", "122", "Medium Fast", "184", "50" ],
+    [ "Arbok", "024", "Cobra", "Poison", "NA", "Intimidate", "Shed Skin", "Unnerve", "50", "50", "22", "50", "2 Atk.", "60", "0", "40", "6", "45", "Medium Fast", "157", "50" ],
+    [ "Scolipede", "545", "Megapede", "Bug", "Poison", "Poison Point", "Swarm", "Speed Boost", "50", "50", "30", "45", "3 Speed", "80", "0", "20", "11", "75", "Medium Slow", "218", "50" ],
+    [ "Vikavolt", "738", "Stag Beetle", "Bug", "Electric", "Levitate", "NA", "NA", "50", "50", "35", "55", "3 Sp. Atk.", "80", "0", "20", "10", "59", "Medium Fast", "225", "50" ],
+    [ "Mothim", "414", "Moth", "Bug", "Flying", "Swarm", "NA", "Tinted Lens", "100", "0", "20", "50", "1 Atk., 1 Sp. Atk.", "80", "0", "20", "4", "45", "Medium Fast", "148", "50" ]
+ 	],
+ 	"sweetscentCommon": [],
+ 	"sweetscentUncommon": [
+    [ "Burmy(Trash Cloak)", "412", "Bagworm", "Bug", "NA", "Shed Skin", "NA", "Overcoat", "50", "50", "5", "20", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Fast", "45", "50" ]
+ 	],
+ 	"sweetscentRare": [],
+  "sweetscentVeryRare": [
+    [ "Wormadam(Trash Cloak)", "413", "Bagworm", "Bug", "Steel", "Anticipation", "NA", "Overcoat", "0", "100", "20", "50", "2 Sp. Def.", "80", "0", "20", "6", "50", "Medium Fast", "148", "50" ],
+    [ "Mothim", "414", "Moth", "Bug", "Flying", "Swarm", "NA", "Tinted Lens", "100", "0", "20", "50", "1 Atk., 1 Sp. Atk.", "80", "0", "20", "4", "45", "Medium Fast", "148", "50" ]
+  ],
+ 	"sweetscentUltraRare": [],
+ 	"rocksmashCommon": [],
+  "rocksmashUncommon": [
+    [ "Durant", "632", "Iron Ant", "Bug", "Steel", "Swarm", "Hustle", "Truant", "50", "50", "34", "46", "2 Def.", "80", "0", "20", "8", "48", "Medium Fast", "169", "50" ]
+  ],
+ 	"rocksmashRare": [],
+ 	"rocksmashVeryRare": [],
+ 	"rocksmashUltraRare": [],
+ 	"goodrodCommon": [],
+ 	"goodrodUncommon": [],
+ 	"goodrodRare": [],
+  "goodrodVeryRare": [
+    [ "Grimer", "088", "Sludge", "Poison", "NA", "Stench", "Stick Hold", "Poison Touch", "50", "50", "10", "38", "1 HP", "80", "0", "20", ".5", "19", "Medium Fast", "65", "50" ]
+  ],
+ 	"goodrodUltraRare": [],
+ 	"superrodCommon": [],
+  "superrodUncommon": [
+    [ "Grimer", "088", "Sludge", "Poison", "NA", "Stench", "Stick Hold", "Poison Touch", "50", "50", "10", "38", "1 HP", "80", "0", "20", ".5", "19", "Medium Fast", "65", "50" ]
+  ],
+ 	"superrodRare": [],
+ 	"superrodVeryRare": [],
+  "superrodUltraRare": [
+    [ "Muk", "089", "Sludge", "Poison", "NA", "Stench", "Stick Hold", "Poison Touch", "50", "50", "38", "50", "1 HP,1 Atk.", "80", "0", "20", "10", "80", "Medium Fast", "175", "50" ]
+  ],
+ 	"itemsCommon": ["Poke Ball"],
+ 	"itemsUncommon": ["Great Ball"],
+ 	"itemsRare": ["Max Revive", "Ultra Ball"],
+ 	"itemsVeryRare": ["TM Toxic", "TM Recycle", "Toxic Orb", "Poison Barb", "Black Glasses", "Magmarizer", "Electirizer"],
+ 	"itemsUltraRare": ["Leftovers", "TM Sludge Bomb", "Black Sludge", "Eject Button", "Wide Lens", "Scope Lens"]
+
+ }

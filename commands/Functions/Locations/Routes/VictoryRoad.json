@@ -1,0 +1,90 @@
+{
+	"connections": ["Wasteland", "Pokemon League"],
+	"goals": [
+		["Wasteland", "Pokemon League", "10"],
+		["Pokemon League", "Wasteland", "10"]
+	],
+	"locationColor": "",
+	"locationName": "Victory Road",
+	"locationDescription": "A labyrinth of sandstone walls located beneath the wastelands leading to the now abandoned Pokemon League. The pathway has not been attended to in years,and has begun falling into disrepair, the safety of this location is debatable. Watch your head.",
+	"happeningsList": [
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!"],
+		["LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!"],
+		["SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?"],
+		["HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..."],
+		["RockSmash", "There's an easily smashable rock here. Would you like to break it apart?"],
+		["DeadEnd", "It's a dead end. You'll have to head back and take a different route."],
+		["Roll Obstacle", "The ground beneath you shudders when you step on it. Hopefully you can find a way around in a reasonable amount of time..."],
+		["Scenery", "Smells like crushed dreams."],
+		["Scenery", "Smells like broken dreams."],
+		["Scenery", "It's empty. It's so, so empty."],
+		["Scenery", "...what if you've accidentally trapped yourself in here?"],
+		["Scenery", "The cave is so quiet, you can hear your own heartbeat."],
+		["Scenery", "The air is stagnant. Every breath feels like coating your throat in dust."],
+		["Scenery", "There's sand leaking from the ceiling. Maybe that's not a good sign."],
+		["TrainerBattle", "When trainers eyes meet.....a fight can break out!"]
+	],
+	"trainersList":
+	[
+	["Veteran"],
+	["Battle Master"],
+	["Ace Trainer"],
+	["Cool Trainer"]
+	],
+	"landCommon": [
+		["Wormadam(Sandy Cloak)", "413", "Bagworm", "Bug", "Grass", "Anticipation", "NA", "Overcoat", "0", "100", "20", "50", "2 Sp. Def.", "80", "0", "20", "6", "50"]
+	],
+	"landUncommon": [
+		["Excadrill", "530", "Subterrene", "Ground", "Steel", "Sand Rush", "Sand Force", "Mold Breaker", "50", "50", "32", "44", "2 Atk.", "80", "0", "20", "10", "80"],
+		["Rhydon", "112", "Drill", "Ground", "Rock", "Lightning Rod", "Rock Head", "Reckless", "50", "50", "42", "49", "2 Atk.", "80", "0", "20", "11", "128"],
+		["Gabite", "444", "Cave", "Dragon", "Ground", "Sand Veil", "NA", "Rough Skin", "50", "50", "25", "42", "2 Atk.", "80", "0", "20", "7", "50"],
+		["Sandslash", "028", "Mouse", "Ground", "NA", "Sand Veil", "NA", "Sand Rush", "50", "50", "22", "50", "2 Def.", "80", "0", "20", "7", "50"],
+		["Crustle", "558", "Stone Home", "Bug", "Rock", "Sturdy", "Shell Armor", "Weak Armor", "50", "50", "35", "50", "2 Def.", "80", "0", "20", "10", "55"],
+		["Fraxure", "611", "Axe Jaw", "Dragon", "NA", "Rivalry", "Mold Breaker", "Unnerve", "50", "50", "39", "47", "2 Atk.", "80", "0", "20", "6", "45"],
+		["Shelgon", "372", "Endurance", "Dragon", "NA", "Rock Head", "NA", "Overcoat", "50", "50", "30", "45", "2 Def.", "80", "0", "20", "7", "55"],
+		["Scrafty", "560", "Hoodlum", "Dark", "Fighting", "Shed Skin", "Moxie", "Intimidate", "50", "50", "35", "49", "1 Def.,1 Sp. Def.", "80", "0", "20", "10", "55"]
+	],
+	"landRare": [
+		["Cofagrigus", "563", "Coffin", "Ghost", "NA", "Mummy", "NA", "NA", "50", "50", "35", "47", "2 Def.", "80", "0", "20", "9", "50"],
+		["Falinks", "870", "Formation", "Fighting", "NA", "Battle Armor", "NA", "Defiant", "0", "0", "15", "40", "2 Atk.,1 Sp. Def.", "80", "0", "20", "8", "48"],
+		["Druddigon", "621", "Cave", "Dragon", "NA", "Rough Skin", "Sheer Force", "Mold Breaker", "50", "50", "50", "62", "2 Atk.", "80", "0", "20", "10", "52"]
+	],
+	"landVeryRare": [
+		["Sigilyph", "561", "Avianoid", "Psychic", "Flying", "Wonder Skin", "Magic Guard", "Tinted Lens", "50", "50", "25", "40", "2 Sp. Atk.", "80", "0", "20", "10", "58"],
+		["Glimmora", "970", "Ore", "Rock", "Poison", "Toxic Debris", "NA", "Corrosion", "50", "50", "36", "50", "2 Sp. Atk.", "80", "0", "20", "13", "107"],
+		["Mothim", "414", "Moth", "Bug", "Flying", "Swarm", "NA", "Tinted Lens", "100", "0", "20", "50", "1 Atk., 1 Sp. Atk.", "80", "0", "20", "4", "45"]
+	],
+	"landUltraRare": [
+		["Rhyperior", "464", "Drill", "Ground", "Rock", "Lightning Rod", "Solid Rock", "Reckless", "50", "50", "50", "65", "3 Atk.", "80", "0", "20", "14", "184"],
+		["Garchomp", "445", "Mach", "Dragon", "Ground", "Sand Veil", "NA", "Rough Skin", "50", "50", "49", "61", "3 Atk.", "80", "0", "20", "14", "126"],
+		["Haxorus", "612", "Axe Jaw", "Dragon", "NA", "Rivalry", "Mold Breaker", "Unnerve", "50", "50", "49", "57", "3 Atk.", "80", "0", "20", "14", "102"],
+		["Salamence", "373", "Dragon", "Dragon", "Flying", "Intimidate", "NA", "Moxie", "50", "50", "50", "60", "3 Atk.", "80", "0", "20", "14", "121"],
+		["Darmanitan", "555", "Blazing", "Fire", "NA", "Sheer Force", "NA", "Zen Mode", "50", "50", "36", "50", "2 Atk.", "80", "0", "20", "12", "101"]
+	],
+	"rocksmashCommon":[],
+	"rocksmashUncommon": [
+		["Crustle", "558", "Stone Home", "Bug", "Rock", "Sturdy", "Shell Armor", "Weak Armor", "50", "50", "35", "50", "2 Def.", "80", "0", "20", "10", "55"]
+	],
+	"rocksmashRare":[],
+	"rocksmashVeryRare":[],
+	"rocksmashUltraRare":[],
+	"sweetscentCommon":[],
+	"sweetscentUncommon": [
+		["Sandslash", "028", "Mouse", "Ground", "NA", "Sand Veil", "NA", "Sand Rush", "50", "50", "22", "50", "2 Def.", "80", "0", "20", "7", "50"],
+		["Wormadam(Sandy Cloak)", "413", "Bagworm", "Bug", "Grass", "Anticipation", "NA", "Overcoat", "0", "100", "20", "50", "2 Sp. Def.", "80", "0", "20", "6", "50"]
+	],
+	"sweetscentRare":[],
+	"sweetscentVeryRare": [
+		["Mothim", "414", "Moth", "Bug", "Flying", "Swarm", "NA", "Tinted Lens", "100", "0", "20", "50", "1 Atk., 1 Sp. Atk.", "80", "0", "20", "4", "45"]
+	],
+	"sweetscentUltraRare":[],
+	"itemsCommon": ["Poke Ball"],
+	"itemsUncommon": ["Great Ball"],
+	"itemsRare": ["Max Revive", "Ultra Ball"],
+	"itemsVeryRare": ["Protector"],
+	"itemsUltraRare": ["TM Earthquake", "TM Dragon Claw", "TM Hyper Beam", "TM Focus Blast", "TM Focus Punch", "Choice Band", "Choice Scarf", "Choice Specs", "Focus Sash"]
+}

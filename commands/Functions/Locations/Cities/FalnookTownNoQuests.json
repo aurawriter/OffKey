@@ -1,0 +1,26 @@
+{
+	"dialogue": [
+		[ "Neutral", "Random", "'There's this little Caterpie that's been hanging around my vegetable garden. I should shoo him off, but he's so darn cute. I've already named him... My vegetables are doomed.'" ],
+		[ "Knight", "Random", "'Are you one of those Team Null bastards? Team Knight? Oh great, a different terrorist group. Just what we need.'" ],
+		[ "Corp", "Random", "'Our gym leader Maisie will be able to protect Falnook from whatever comes for us! Team Null or that Team Knight!'" ],
+		[ "Neutral", "Random", "'Don’t think about leaving Falnook without having some coffee!'" ],
+		[ "Neutral", "Random", "'Make sure you leave Falnook before nightfall, or at least get a place to stay! The streets aren’t safe with Team Null around!'" ],
+		[ "Neutral", "Random", "'Juli's pretty and all, but if there was ever a fight to the death between her and Maisie, she wouldn't stand a chance. I just have a feeling.'" ],
+		[ "Neutral", "Random", "'Hey, who do you think is prettier? Maisie, Juli, or Ariea?'" ],
+		[ "Neutral", "Random", "'This morning my husband said it was 'a little muggy out,' and I went outside, and he'd put all of our mugs on the lawn... now there's Caterpie silk in all of them...'" ],
+		[ "Neutral", "Random", "'Juli’s totally a Team Null member in secret. But don’t worry...Maisie will save us!'" ],
+		[ "Neutral", "Random", "'There was some little girl selling hair dye earlier...it’s nice seeing entrepreneurship starting young!'" ],
+		[ "Neutral", "Random", "'There's this old house tucked away in Fomelhaut Forest that people say is haunted. I think it's just weird.'" ],
+		[ "Neutral", "Random", "'If you see the Croft family around, give them a helping hand would you? So many kids in one household... I don't know how that boy manages it.'" ],
+		[ "Neutral", "Random", "'There was somebody in a cloak over there...maybe they’re a Team Null member? Should we tell someone?'" ],
+		[ "Neutral", "ConspiracyGuy", "'Are you ready for another champion theory? What if...they're behind Team Null?'" ],
+		[ "Neutral", "Random", "'Did you know that Maisie's a gym leader? All her Pokemon are as regal and beautiful as she is!'" ],
+		[ "Neutral", "Random", "'Are you sure those badges are real? They look nothing like Maisie’s badge…'" ],
+		["Neutral","Random","'I was attacked by Team Null, but Maisie saved me! She's the best!'"],
+		["Neutral","Random","'Maisie's doing her best to protect us all from Team Null every day!'"],
+		["Neutral","Random","'If you see a Null member, you need to report it, so Maisie can stop them!'"],
+		["Neutral","Random","'They used to mine for super-cool minerals called star pieces and stardust in Fomelhaut Forest!'"]
+	],
+	"quests": [
+		]
+}

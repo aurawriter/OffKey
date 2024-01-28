@@ -1,0 +1,190 @@
+{
+	"connections": ["Train Track Path", "Weybus City"],
+	"goals": [
+		["Train Track Path", "Weybus City", "10"],
+		["Weybus City", "Train Track Path", "10"]
+	],
+	"locationColor": "#535E34",
+	"locationName": "Lake Lacustrine",
+	"locationDescription": "A placid lake, right out of any tourism brochure. One popular attraction in Lacustrine involves renting out Swanna-shaped boats to paddle around in and admire the city lights of Weybus from afar, where they can be seen in all their splendor. The shorelines are a popular spot for picnickers, too! Plenty of Water-type and Flying-type Pokemon inhabit the area. It's a perfectly picturesque ecosystem, so take some time to enjoy the scenery!",
+	"happeningsList": [
+
+		[ "WaterPokemon", "There's a Pokemon on the surface of the water near you." ],
+		[ "WaterPokemon", "There's a Pokemon on the surface of the water near you." ],
+		[ "WaterPokemon", "There's a Pokemon on the surface of the water near you." ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "LandPokemon", "A Pokemon is blocking your path! You must defeat it to advance!" ],
+		[ "ShakingTree", "That tree is shaking...there's sure to be a Pokemon in it! Do you want to shake it out?" ],
+		[ "Fishing", "Lake Lacustrine is just perfect for fishing if you have a fishing rod, but it'll take some time" ],
+		[ "Fishing", "Lake Lacustrine is just perfect for fishing if you have a fishing rod, but it'll take some time" ],
+		[ "HiddenItem", "You get the sense there's an item hidden around here. You can spend some time looking for it, if you wanted..." ],
+		[ "LootPokemon", "You spot a Pokemon holding an item. If you defeat the Pokemon, you can claim the item!" ],
+		[ "SweetScent", "A sweet scent is wafting through the area...if you stick around, maybe a Pokemon will appear?" ],
+		[ "Scenery", "There are Swanna boat rides for sale. The marketing looks to be aimed towards couples." ],
+		[ "Scenery", "The lake is bursting with life." ],
+		[ "Scenery", "Many people are feeding the wild Pokemon, despite signs stating that it's prohibited" ],
+		[ "Scenery", "The grass is decorated with picnic blankets" ],
+		[ "Scenery", "Smells like lake water" ],
+		[ "Scenery", "The skyline of Weybus in the distance is a sight to behold" ],
+		[ "Roll DucklettAttack", "A flock of hungry Ducklett dive at you, expecting lunch!" ],
+		[ "TrainerBattle", "When trainers eyes meet.....a fight can break out!" ]
+
+	],
+	"trainersList": [
+		[ "Angler", "#A8B820", "Male","60","Poliwag", "Arrokuda", "Tynamo", "Poliwhirl", "Basculin(Red-Striped)", "Basculin(Blue-Striped)", "Barraskewda", "Eelektrik", "Eelektross" ],
+		[ "Fisherman", "#A8B820", "Male", "60", "Poliwag", "Arrokuda", "Tynamo", "Poliwhirl", "Basculin(Red-Striped)", "Basculin(Blue-Striped)", "Barraskewda", "Eelektrik", "Eelektross" ],
+		[ "Picnicker", "#A8B820", "Female", "20","Hoothoot", "Taillow", "Wooper", "Pidove", "Lotad", "Deerling(Spring)", "Ducklett", "Tranquill" ],
+		[ "Camper", "#A8B820", "Male", "20","Hoothoot", "Taillow", "Wooper", "Pidove", "Lotad", "Deerling(Spring)", "Ducklett", "Tranquill" ]
+	],
+	"landCommon": [
+		["Hoothoot", "163", "Owl", "Normal", "Flying", "Insomnia", "Keen Eye", "Tinted Lens", "50", "50", "5", "19", "1 HP", "80", "0", "20", ".25", "16","Medium Fast","52","50"],
+		[ "Taillow", "276", "Tiny Swallow", "Normal", "Flying", "Guts", "NA", "Scrappy", "50", "50", "5", "20", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "54", "50" ],
+		[ "Wooper", "194", "Water Fish", "Water", "Ground", "Damp", "Water Absorb", "Unaware", "50", "50", "5", "19", "1 HP", "80", "0", "20", ".25", "17", "Medium Fast", "42", "50" ],
+		[ "Pidove", "519", "Tiny Pigeon", "Normal", "Flying", "Big Pecks", "Super Luck", "Rivalry", "50", "50", "2", "16", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "53", "50" ]
+	],
+	"landUncommon": [
+		[ "Lotad", "270", "Water Weed", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "3", "14", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44", "50" ],
+		[ "Deerling(Spring)", "585", "Season", "Normal", "Grass", "Chlorophyll", "Sap Sipper", "Serene Grace", "50", "50", "21", "33", "1 Speed", "80", "0", "20", "2", "17", "Medium Fast", "67", "50" ],
+		[ "Ducklett", "580", "Water Bird", "Water", "Flying", "Keen Eye", "Big Pecks", "Hydration", "50", "50", "20", "34", "1 HP", "80", "0", "20", ".5", "18", "Medium Fast", "61", "50" ],
+		[ "Tranquill", "520", "Wild Pigeon", "Normal", "Flying", "Big Pecks", "Super Luck", "Rivalry", "50", "50", "22", "31", "2 Atk.", "80", "0", "20", "4", "50", "Medium Slow", "125", "50" ]
+	],
+	"landRare": [
+		[ "Poliwhirl", "061", "Tadpole", "Water", "NA", "Water Absorb", "Damp", "Swift Swim", "50", "50", "25", "45", "2 Speed", "80", "0", "20", "3", "45", "Medium Slow", "135", "50" ],
+		[ "Cramorant", "845", "Gulp", "Flying", "Water", "Gulp Missile", "NA", "NA", "50", "50", "15", "35", "2 Sp. Def.", "80", "0", "20", "10", "55", "Medium Slow", "166", "50" ]
+	],
+	"landVeryRare": [
+	],
+	"landUltraRare": [
+		[ "Noctowl", "164", "Owl", "Normal", "Flying", "Insomnia", "Keen Eye", "Tinted Lens", "50", "50", "20", "55", "2 HP", "80", "0", "20", "6", "40", "Medium Fast", "158", "50" ],
+		[ "Lombre", "271", "Jolly", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "25", "40", "2 Sp. Def.", "80", "0", "20", "4", "50", "Medium Slow", "119", "50" ],
+		[ "Swellow", "277", "Swallow", "Normal", "Flying", "Guts", "NA", "Scrappy", "50", "50", "25", "35", "2 Speed", "80", "0", "20", "6", "40", "Medium Slow", "159", "50" ],
+		[ "Poliwrath", "062", "Tadpole", "Water", "Fighting", "Water Absorb", "Damp", "Swift Swim", "50", "50", "35", "50", "3 Def.", "80", "0", "20", "10", "97", "Medium Slow", "230", "50" ],
+		[ "Sawsbuck(Spring)", "586", "Season", "Normal", "Grass", "Chlorophyll", "Sap Sipper", "Serene Grace", "50", "50", "35", "47", "2 Atk.", "80", "0", "20", "10", "55", "Medium Fast", "166", "50" ],
+		[ "Masquerain", "284", "Eyeball", "Bug", "Flying", "Intimidate", "NA", "Unnerve", "50", "50", "25", "35", "1 Sp. Atk.,1 Sp. Def.", "80", "0", "20", "7", "50", "Medium Fast", "159", "50" ],
+		[ "Swanna", "581", "Water Bird", "Water", "Flying", "Keen Eye", "Big Pecks", "Hydration", "50", "50", "36", "47", "2 Speed", "80", "0", "20", "9", "55", "Medium Fast", "166", "50" ],
+		[ "Unfezant(Male)", "521", "Proud", "Normal", "Flying", "Big Pecks", "Super Luck", "Rivalry", "100", "0", "33", "47", "3 Atk.", "80", "0", "20", "11", "88", "Medium Slow", "220", "50" ],
+		[ "Unfezant(Female)", "521", "Proud", "Normal", "Flying", "Big Pecks", "Super Luck", "Rivalry", "0", "100", "33", "47", "3 Atk.", "80", "0", "20", "11", "88", "Medium Slow", "220", "50" ]
+	],
+	"waterCommon": [
+		[ "Lotad", "270", "Water Weed", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "3", "14", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44", "50" ],
+		[ "Poliwag", "060", "Tadpole", "Water", "NA", "Water Absorb", "Damp", "Swift Swim", "50", "50", "10", "25", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "60", "50" ],
+		[ "Wooper", "194", "Water Fish", "Water", "Ground", "Damp", "Water Absorb", "Unaware", "50", "50", "5", "19", "1 HP", "80", "0", "20", ".25", "17", "Medium Fast", "42", "50" ]
+	],
+	"waterUncommon": [
+		[ "Poliwhirl", "061", "Tadpole", "Water", "NA", "Water Absorb", "Damp", "Swift Swim", "50", "50", "25", "45", "2 Speed", "80", "0", "20", "3", "45", "Medium Slow", "135", "50" ],
+		[ "Basculin(Red-Striped)", "550", "Hostile", "Water", "NA", "Reckless", "Adaptability", "Mold Breaker", "50", "50", "22", "35", "2 Speed", "0", "50", "50", "7", "46", "Medium Fast", "161", "50" ],
+		[ "Basculin(Blue-Striped)", "550", "Hostile", "Water", "NA", "Rock Head", "Adaptability", "Mold Breaker", "50", "50", "22", "35", "2 Speed", "0", "50", "50", "7", "46", "Medium Fast", "161", "50" ],
+		[ "Surskit", "283", "Pond Skater", "Bug", "Water", "Swift Swim", "NA", "Rain Dish", "50", "50", "5", "20", "1 Speed", "80", "0", "20", ".25", "17", "Medium Fast", "54", "50" ],
+		[ "Tatsugiri(Curly)", "978", "Mimicry", "Water", "Dragon", "Commander", "NA", "Storm Drain", "50", "50", "49", "56", "2 Sp. Atk.", "0", "50", "50", "7", "50", "Medium Slow", "166", "50" ],
+		[ "Tatsugiri(Droopy)", "978", "Mimicry", "Water", "Dragon", "Commander", "NA", "Storm Drain", "50", "50", "49", "56", "2 Sp. Atk.", "0", "50", "50", "7", "50", "Medium Slow", "166", "50" ],
+		[ "Tatsugiri(Stretchy)", "978", "Mimicry", "Water", "Dragon", "Commander", "NA", "Storm Drain", "50", "50", "49", "56", "2 Sp. Atk.", "0", "50", "50", "7", "50", "Medium Slow", "166", "50" ],
+		[ "Arrokuda", "846", "Rush", "Water", "NA", "Swift Swim", "NA", "Propeller Tail", "50", "50", "10", "25", "1 Speed", "80", "0", "20", "1", "16", "Slow", "56", "50" ],
+		[ "Tynamo", "602", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "24", "38", "1 Speed", "80", "0", "20", ".25", "16", "Slow", "55", "50" ]
+	],
+	"waterRare": [
+		[ "Dondozo", "977", "Big Catfish", "Water", "NA", "Unaware", "Oblivious", "Water Veil", "50", "50", "49", "56", "3 HP", "0", "50", "50", "13", "109", "Slow", "265", "50" ],
+		[ "Barraskewda", "847", "Skewer", "Water", "NA", "Swift Swim", "NA", "Propeller Tail", "50", "50", "26", "40", "2 Speed", "80", "0", "20", "12", "87", "Slow", "172", "50" ]
+	],
+	"waterVeryRare": [
+		[ "Lombre", "271", "Jolly", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "25", "40", "2 Sp. Def.", "80", "0", "20", "4", "50", "Medium Slow", "119", "50" ],
+		[ "Poliwrath", "062", "Tadpole", "Water", "Fighting", "Water Absorb", "Damp", "Swift Swim", "50", "50", "35", "50", "3 Def.", "80", "0", "20", "10", "97", "Medium Slow", "230", "50" ]
+	],
+	"waterUltraRare": [
+		[ "Ludicolo", "272", "Carefree", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "41", "53", "3 Sp. Def.", "80", "0", "20", "10", "88", "Medium Slow", "216", "50" ],
+		[ "Politoed", "186", "Frog", "Water", "NA", "Water Absorb", "Damp", "Drizzile", "50", "50", "30", "39", "3 Sp. Def.", "80", "0", "20", "12", "97", "Medium Slow", "225", "50" ],
+		[ "Eelektrik", "603", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "40", "52", "2 Atk.", "80", "0", "20", "5", "50", "Slow", "142", "50" ],
+		[ "Eelektross", "604", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "53", "64", "2 Atk.", "80", "0", "20", "12", "102", "Slow", "232", "50" ]
+	],
+	"sweetscentCommon": [
+	],
+	"sweetscentUncommon": [
+		[ "Lotad", "270", "Water Weed", "Water", "Grass", "Swift Swim", "Rain Dish", "Own Tempo", "50", "50", "3", "14", "1 Sp. Def.", "80", "0", "20", ".25", "17", "Medium Slow", "44", "50" ],
+		[ "Hoothoot", "163", "Owl", "Normal", "Flying", "Insomnia", "Keen Eye", "Tinted Lens", "50", "50", "5", "19", "1 HP", "80", "0", "20", ".25", "16", "Medium Fast", "52", "50" ]
+	],
+	"sweetscentRare": [
+	],
+	"sweetscentVeryRare": [
+	],
+	"sweetscentUltraRare": [
+	],
+	"headbuttCommon": [
+
+		[ "Pidove", "519", "Tiny Pigeon", "Normal", "Flying", "Big Pecks", "Super Luck", "Rivalry", "50", "50", "2", "16", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "53", "50" ]
+	],
+	"headbuttUncommon": [
+		[ "Hoothoot", "163", "Owl", "Normal", "Flying", "Insomnia", "Keen Eye", "Tinted Lens", "50", "50", "5", "19", "1 HP", "80", "0", "20", ".25", "16", "Medium Fast", "52", "50" ],
+		[ "Taillow", "276", "Tiny Swallow", "Normal", "Flying", "Guts", "NA", "Scrappy", "50", "50", "5", "20", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "54", "50" ]
+	],
+	"headbuttRare": [
+		
+	],
+	"headbuttVeryRare": [
+	
+	],
+	"headbuttUltraRare": [
+		[ "Noctowl", "164", "Owl", "Normal", "Flying", "Insomnia", "Keen Eye", "Tinted Lens", "50", "50", "20", "55", "2 HP", "80", "0", "20", "6", "40", "Medium Fast", "158", "50" ],
+		[ "Swellow", "277", "Swallow", "Normal", "Flying", "Guts", "NA", "Scrappy", "50", "50", "25", "35", "2 Speed", "80", "0", "20", "6", "40", "Medium Slow", "159", "50" ]
+	],
+	"oldrodCommon": [],
+	"oldrodUncommon": [
+		[ "Poliwag", "060", "Tadpole", "Water", "NA", "Water Absorb", "Damp", "Swift Swim", "50", "50", "10", "25", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "60", "50" ],
+		[ "Arrokuda", "846", "Rush", "Water", "NA", "Swift Swim", "NA", "Propeller Tail", "50", "50", "10", "25", "1 Speed", "80", "0", "20", "1", "16", "Slow", "56", "50" ]
+	],
+	"oldrodRare": [],
+	"oldrodVeryRare": [],
+	"oldrodUltraRare": [
+		[ "Tynamo", "602", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "24", "38", "1 Speed", "80", "0", "20", ".25", "16", "Slow", "55", "50" ]
+	],
+	"goodrodCommon": [],
+	"goodrodUncommon": [
+		[ "Poliwag", "060", "Tadpole", "Water", "NA", "Water Absorb", "Damp", "Swift Swim", "50", "50", "10", "25", "1 Speed", "80", "0", "20", ".25", "16", "Medium Slow", "60", "50" ],
+		[ "Poliwhirl", "061", "Tadpole", "Water", "NA", "Water Absorb", "Damp", "Swift Swim", "50", "50", "25", "45", "2 Speed", "80", "0", "20", "3", "45", "Medium Slow", "135", "50" ],
+		[ "Basculin(Red-Striped)", "550", "Hostile", "Water", "NA", "Reckless", "Adaptability", "Mold Breaker", "50", "50", "22", "35", "2 Speed", "0", "50", "50", "7", "46", "Medium Fast", "161", "50" ],
+		[ "Basculin(Blue-Striped)", "550", "Hostile", "Water", "NA", "Rock Head", "Adaptability", "Mold Breaker", "50", "50", "22", "35", "2 Speed", "0", "50", "50", "7", "46", "Medium Fast", "161", "50" ],
+		[ "Arrokuda", "846", "Rush", "Water", "NA", "Swift Swim", "NA", "Propeller Tail", "50", "50", "10", "25", "1 Speed", "80", "0", "20", "1", "16", "Slow", "56", "50" ]
+	],
+	"goodrodRare": [
+
+		[ "Barraskewda", "847", "Skewer", "Water", "NA", "Swift Swim", "NA", "Propeller Tail", "50", "50", "26", "40", "2 Speed", "80", "0", "20", "12", "87", "Slow", "172", "50" ]
+	],
+	"goodrodVeryRare": [
+		[ "Tynamo", "602", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "24", "38", "1 Speed", "80", "0", "20", ".25", "16", "Slow", "55", "50" ]
+	],
+	"goodrodUltraRare": [
+		[ "Eelektrik", "603", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "40", "52", "2 Atk.", "80", "0", "20", "5", "50", "Slow", "142", "50" ]
+
+	],
+	"superrodCommon": [],
+	"superrodUncommon": [
+		[ "Basculin(Red-Striped)", "550", "Hostile", "Water", "NA", "Reckless", "Adaptability", "Mold Breaker", "50", "50", "22", "35", "2 Speed", "0", "50", "50", "7", "46", "Medium Fast", "161", "50" ],
+		[ "Basculin(Blue-Striped)", "550", "Hostile", "Water", "NA", "Rock Head", "Adaptability", "Mold Breaker", "50", "50", "22", "35", "2 Speed", "0", "50", "50", "7", "46", "Medium Fast", "161", "50" ],
+		[ "Barraskewda", "847", "Skewer", "Water", "NA", "Swift Swim", "NA", "Propeller Tail", "50", "50", "26", "40", "2 Speed", "80", "0", "20", "12", "87", "Slow", "172", "50" ]
+	],
+	"superrodRare": [
+		[ "Eelektrik", "603", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "40", "52", "2 Atk.", "80", "0", "20", "5", "50", "Slow", "142", "50" ]
+	],
+	"superrodVeryRare": [
+		[ "Poliwhirl", "061", "Tadpole", "Water", "NA", "Water Absorb", "Damp", "Swift Swim", "50", "50", "25", "45", "2 Speed", "80", "0", "20", "3", "45", "Medium Slow", "135", "50" ]
+	],
+	"superrodUltraRare": [
+		[ "Poliwrath", "062", "Tadpole", "Water", "Fighting", "Water Absorb", "Damp", "Swift Swim", "50", "50", "35", "50", "3 Def.", "80", "0", "20", "10", "97", "Medium Slow", "230", "50" ],
+		[ "Eelektross", "604", "EleFish", "Electric", "NA", "Levitate", "NA", "NA", "50", "50", "53", "64", "2 Atk.", "80", "0", "20", "12", "102", "Slow", "232", "50" ]
+	],
+	"specialCommon": [],
+	"specialUncommon": [
+		[ "Ducklett", "580", "Water Bird", "Water", "Flying", "Keen Eye", "Big Pecks", "Hydration", "50", "50", "20", "34", "1 HP", "80", "0", "20", ".5", "18", "Medium Fast", "61", "50" ]
+	],
+	"specialRare": [],
+	"specialVeryRare": [],
+	"specialUltraRare": [],
+	"itemsCommon": ["Poke Ball"],
+	"itemsUncommon": ["Great Ball", "Honey"],
+	"itemsRare": ["Max Revive", "Ultra Ball", "Net Ball", "Dive Ball", "Water Stone", "Passho Berry", "Wacan Berry", "Occa Berry", "Chople Berry", "Coba Berry", "Chilan Berry"],
+	"itemsVeryRare": ["TM Water Pulse", "TM Pluck", "TM Defog", "Sharp Beak", "Mystic Water", "Damp Rock"],
+	"itemsUltraRare": ["TM Roost", "TM Aerial Ace", "TM Fly"]
+
+
+}

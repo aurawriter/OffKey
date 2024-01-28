@@ -1,0 +1,34 @@
+{
+	"dialogue": [
+		["Neutral","Random", "'Look at that perfect cloudless sky! Y'wanna know the secret behind this flawless resort weather? It's a wonderful little move called Sunny Day, hehehe. Who said Pokemon moves could only be used for battle, right?'"],
+		[ "Neutral", "Random", "'My boyfriend loves his East Sea Shellos, so I thought I'd get a West sea one. Y'know, to match? Cute idea in theory, but turns out Shellos from different seas HATE each other. Not exactly the wholesome first meeting I was hoping for...'" ],
+		[ "Neutral", "Random", "'The weather here is gorgeous! The rent, though? Yeesh.'" ],
+		[ "Neutral", "Merchant2", "'Excuse me! Could I tempt you with a bottle of genuine Mount Coronet spring water? Just 800 pokedollars! Your Pokemon will thank you for it!'" ],
+		[ "Neutral", "Merchant2", "'This cream will make your wrinkles disappear! Won't you try a sample?'" ],
+		[ "Corp", "Random", "'I don't really get all this weird like, gang fighting or whatever, but I heard you guys are gonna bring a Pokemon back to life? Isn't that kinda like, morally dubious?'" ],
+		[ "Knight", "Random", "'I heard your boss caught a Honedge his first day in Misen. Is that true? That's so messed up, hahaha. Even I know that's a big no-no, and I'm only vacationing here for a few weeks.'" ],
+		[ "Neutral", "Random", "'There’s a really good ice cream store here called *Three Way*, you should visit it, it’s a once in a lifetime experience.'" ],
+		[ "Neutral", "Random", "'Some weird Galarian wannabe lady with a false mustache just sold me some random garbage after telling me they were powerful artifacts! What a load of Tauros dung!'" ],
+		[ "Neutral", "Random", "'I got a genuine Siosenian sword from that Galarian lady - hey wait, this is plastic!! Dangit, she said no refunds…'" ],
+		[ "Neutral", "Random", "'This place is nothin' compared to the Battle Resort in Hoenn.'" ],
+		[ "Neutral", "Random", "'The gym leaders here - no, I didn’t misspeak. They’re twins, and the boy refused to be one unless his sister got to be a gym leader as well. What was I going to say?'" ],
+		[ "Neutral", "Random", "'You should pick up a copy of Ren’s newspaper if you want to stay informed!'" ],
+		[ "Neutral", "Random", "'I love seeing Akira's pictures in the newspaper whenever I pick it up!'" ],
+		[ "Neutral", "Random", "'Why would someone wear a cloak in a place like this?'" ],
+		[ "Neutral", "Random", "'I think the Champion must have just moved to another region.'" ],
+		[ "Neutral", "Random", "'My stupid friend BRADEN told me Sturdy would protect my Onix from going down in one hit, and that I should totally give it a Quick Claw. It's his fault I lost the gym battle!'" ],
+		[ "Neutral", "Random", "'So, most league champions are basically celebrities right? So how come I can't even find a picture online of Misen's?'" ],
+		[ "Neutral", "Random", "'We don't even have a real Pokémon League anymore. Why does everyone still care about the Champion?'" ],
+		[ "Neutral", "Random", "'Getting from here to Patus is super dangerous: You either have to go through Wailord's Jungle, or deal with diving...I don't know which is worse!'" ],
+		[ "Neutral", "Merchant3", "'Got a moment hun? This smoothie makes losing weight as easy as breathing!'" ],
+		[ "Neutral", "Merchant2", "'Looking for some extra income darling? Our program makes earning money look too easy.'" ],
+		[ "Neutral", "Merchant4", "'Don't buy smoothies from that other girl! Buy themselves from me. Trust, she's a total B-word.'" ],
+		[ "Neutral", "Merchant2", "'Excuse me dear! Got a sec? These gummies will make your Pokemon's fur look positively radiant.'" ]
+	],
+	"quests": [
+		[ "Churchill", "232689259902009355", "0", "0", "'You there, you just got proper jammy! You're not like these other grockel, stop faffing around, and come have a butcher's!'", "NA", "Quest: This Is The Quest Where She Scams You" ],
+		[ "Coco", "232689259902009355", "0", "0", "'I promised Vanessa and Summer I'd get those Vanillite...'", "NA", "Quest: Screaming for an Ice Cream Mascot" ],
+		[ "Andy", "403812429185810432", "0", "0", "'Heeyyy, you don't look busy. I've got a favour to ask!", "NA", "Quest: A Normal Human's Normal Request'" ],
+		[ "Jeremiah", "1066206466127699998", "1", "0", "'Aaahh... I'm at a loss. Nothing's working...'", "NA", "Quest: 99.9% Reduction In Curse Guaranteed(Please)" ]
+	]
+}
